@@ -1,0 +1,814 @@
+corpus,actor_id,actor,actor_type,country,piedmont,docs
+Publications,A:World,World,Area,,FALSE,315064
+Publications,A:Italy,Italy (IT) [A:Italy],Area,IT,FALSE,10099
+Publications,A:Piedmont,Piedmont,Area,IT,TRUE,955
+Publications,O:I106994412,Sinopec (China),Company,CN,FALSE,168
+Publications,O:I4210133143,Dow Chemical (United States),Company,US,FALSE,153
+Publications,O:I4210107087,BASF (Germany),Company,DE,FALSE,129
+Publications,O:I1316910977,DuPont (United States),Company,US,FALSE,111
+Publications,O:I4210106541,Chengdu Organic Chemicals (China),Company,CN,FALSE,89
+Publications,O:I4210138243,Austrian Centre of Industrial Biotechnology (Austria),Company,AT,FALSE,88
+Publications,O:I2250650973,Samsung (South Korea),Company,KR,FALSE,85
+Publications,O:I923382979,ExxonMobil (United States),Company,US,FALSE,78
+Publications,O:I74680897,Procter & Gamble (United States),Company,US,FALSE,75
+Publications,O:I127558574,DSM (Netherlands),Company,NL,FALSE,74
+Publications,O:I3019562804,BASF (United States),Company,US,FALSE,73
+Publications,O:I4210117026,Guangzhou Chemistry (China),Company,CN,FALSE,72
+Publications,O:I4210131237,Polymer Competence Center Leoben (Austria),Company,AT,FALSE,69
+Publications,O:I4210116579,Beijing Chemical Industry Research Institute (China),Company,CN,FALSE,68
+Publications,O:I4210114297,Material (Belgium),Company,BE,FALSE,62
+Publications,O:I889804353,Robert Bosch (Germany),Company,DE,FALSE,62
+Publications,O:I1283582996,Novartis (Switzerland),Company,CH,FALSE,60
+Publications,O:I4210161797,Ferrari (Italy),Company,IT,FALSE,59
+Publications,O:I65143321,Hitachi (Japan),Company,JP,FALSE,59
+Publications,O:I1332737386,General Electric (United States),Company,US,FALSE,58
+Publications,O:I4210096856,Innovation Engineering (Italy),Company,IT,FALSE,58
+Publications,O:I105036370,AstraZeneca (United Kingdom),Company,GB,FALSE,56
+Publications,O:I4210161781,Novamont (Italy),Company,IT,TRUE,55
+Publications,O:I98227222,China National Petroleum Corporation (China),Company,CN,FALSE,55
+Publications,O:I200439574,Evonik (Germany),Company,DE,FALSE,54
+Publications,O:I180857899,Pfizer (United States),Company,US,FALSE,52
+Publications,O:I1292974536,Ford Motor Company (United States),Company,US,FALSE,51
+Publications,O:I2802964274,Interface (United States),Company,US,FALSE,51
+Publications,O:I32393484,Petrobras (Brazil),Company,BR,FALSE,50
+Publications,O:I4210093057,Faculty (United Kingdom),Company,GB,FALSE,50
+Publications,O:I4210140030,Eastman Chemical Company (United States),Company,US,FALSE,50
+Publications,O:I67348948,Bayer (Germany),Company,DE,FALSE,47
+Publications,O:I7923278,Shell (Netherlands),Company,NL,FALSE,44
+Publications,O:I36527812,Halliburton (United Kingdom),Company,GB,FALSE,41
+Publications,O:I4210143841,Saudi Aramco (Saudi Arabia),Company,SA,FALSE,41
+Publications,O:I4210163439,Tieto (Finland),Company,FI,FALSE,41
+Publications,O:I4210108106,Nanomaterials Research (United States),Company,US,FALSE,40
+Publications,O:I4210108542,Schlumberger (Ireland),Company,IE,FALSE,40
+Publications,O:I4210107172,Kompetenzzentrum Holz,Company,AT,FALSE,39
+Publications,O:I4210136064,Reliance Industries (India),Company,IN,FALSE,39
+Publications,O:I4210164971,Avantium (Netherlands),Company,NL,FALSE,39
+Publications,O:I188703185,GTx (United States),Company,US,FALSE,38
+Publications,O:I194343955,Pertamina (Indonesia),Company,ID,FALSE,38
+Publications,O:I4210119016,Industriale Chimica (Italy),Company,IT,FALSE,38
+Publications,O:I168192097,Mitsubishi Chemical (Japan),Company,JP,FALSE,37
+Publications,O:I44892455,Takeda (Japan),Company,JP,FALSE,36
+Publications,O:I1330063522,Johnson & Johnson (United States),Company,US,FALSE,35
+Publications,O:I1341412227,IBM (United States),Company,US,FALSE,35
+Publications,O:I151809719,Arkema (France),Company,FR,FALSE,35
+Publications,O:I182023848,Petronas (Malaysia),Company,MY,FALSE,35
+Publications,O:I1291425158,Google (United States),Company,US,FALSE,34
+Publications,O:I150264550,Eni (Italy),Company,IT,FALSE,34
+Publications,O:I164928964,Merck (Germany),Company,DE,FALSE,34
+Publications,O:I103084370,Total (France),Company,FR,FALSE,33
+Publications,O:I4210112383,Nestlé (Switzerland),Company,CH,FALSE,33
+Publications,O:I4210115317,"Toray Industries, Inc. (Japan)",Company,JP,FALSE,33
+Publications,O:I4210145660,Bio-Medical Science (South Korea),Company,KR,FALSE,33
+Publications,O:I907500627,Ashland (United States),Company,US,FALSE,33
+Publications,O:I173709673,Indian Oil Corporation (India),Company,IN,FALSE,32
+Publications,O:I1292669757,Toshiba (Japan),Company,JP,FALSE,31
+Publications,O:I1342131907,Unilever (United Kingdom),Company,GB,FALSE,31
+Publications,O:I4210140553,BioSurfaces (United States),Company,US,FALSE,31
+Publications,O:I4210166413,Freeport-McMoRan (United States),Company,US,FALSE,31
+Publications,O:I1338503839,Corning (United States),Company,US,FALSE,30
+Publications,O:I159548981,State Street (United States),Company,US,FALSE,30
+Publications,O:I4387154587,LG Chem (South Korea),Company,KR,FALSE,30
+Publications,O:I62856769,Saudi Aramco (United States),Company,US,FALSE,30
+Publications,O:I1280527723,Dow Chemical (India),Company,IN,FALSE,29
+Publications,O:I1300504238,Piaggio (Italy),Company,IT,FALSE,29
+Publications,O:I1306287861,Mitsubishi Group (Japan),Company,JP,FALSE,29
+Publications,O:I4210128200,Catalyse,Company,FR,FALSE,29
+Publications,O:I4210144430,Kingfa (China),Company,CN,FALSE,29
+Publications,O:I73305655,AkzoNobel (Netherlands),Company,NL,FALSE,29
+Publications,O:I118019719,Roche (Switzerland),Company,CH,FALSE,28
+Publications,O:I1295346377,Monsanto (United States),Company,US,FALSE,28
+Publications,O:I4210145126,Aditya Birla (India),Company,IN,FALSE,28
+Publications,O:I4210159094,Xerox (Canada),Company,CA,FALSE,28
+Publications,O:I51409038,Saudi Arabia Basic Industries (United States),Company,US,FALSE,28
+Publications,O:I118136607,General Motors (United States),Company,US,FALSE,27
+Publications,O:I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",Company,US,FALSE,27
+Publications,O:I135705104,Nippon Steel (Japan),Company,JP,FALSE,27
+Publications,O:I257179599,Baker Hughes (United States),Company,US,FALSE,27
+Publications,O:I4210107917,Exact Sciences (United States),Company,US,FALSE,27
+Publications,O:I4210116480,Flanders Make (Belgium),Company,BE,FALSE,27
+Publications,O:I4210120238,PowerChina (China),Company,CN,FALSE,27
+Publications,O:I4210122849,Philips (Netherlands),Company,NL,FALSE,27
+Publications,O:I4210135984,Saudi Arabia Basic Industries (Saudi Arabia),Company,SA,FALSE,27
+Publications,O:I74894318,Ebara (Japan),Company,JP,FALSE,27
+Publications,O:I4210121781,Nofima,Company,NO,FALSE,26
+Publications,O:I4210135994,China Railway Group (China),Company,CN,FALSE,26
+Publications,O:I4210162562,Borealis (Austria),Company,AT,FALSE,26
+Publications,O:I4210164117,Walker (United States),Company,US,FALSE,26
+Publications,O:I4210165351,Toyota Central Research and Development Laboratories (Japan),Company,JP,FALSE,26
+Publications,O:I175669267,Carestream (United States),Company,US,FALSE,25
+Publications,O:I4210120325,Biobase (Germany),Company,DE,FALSE,25
+Publications,O:I4210148225,China State Construction Engineering (China),Company,CN,FALSE,25
+Publications,O:I4210167157,Institut für Technische und Angewandte Physik (Germany),Company,DE,FALSE,25
+Publications,O:I118347220,NEC (Japan),Company,JP,FALSE,24
+Publications,O:I158108717,China National Offshore Oil Corporation (China),Company,CN,FALSE,24
+Publications,O:I4210088555,Abbott (United States),Company,US,FALSE,24
+Publications,O:I4210136872,Tecnologie Avanzate (Italy),Company,IT,TRUE,17
+Publications,O:I4210095558,5T Torino (Italy),Company,IT,TRUE,4
+Publications,C:CN,China,Country,CN,FALSE,49648
+Publications,C:US,United States,Country,US,FALSE,39356
+Publications,C:IN,India,Country,IN,FALSE,19384
+Publications,C:JP,Japan,Country,JP,FALSE,12051
+Publications,C:DE,Germany,Country,DE,FALSE,11784
+Publications,C:GB,United Kingdom,Country,GB,FALSE,11051
+Publications,C:IT,Italy (IT) [C:IT],Country,IT,FALSE,10099
+Publications,C:KR,South Korea,Country,KR,FALSE,8219
+Publications,C:ES,Spain,Country,ES,FALSE,8178
+Publications,C:FR,France,Country,FR,FALSE,7811
+Publications,C:CA,Canada,Country,CA,FALSE,7259
+Publications,C:BR,Brazil,Country,BR,FALSE,6549
+Publications,C:AU,Australia,Country,AU,FALSE,5937
+Publications,C:IR,Iran,Country,IR,FALSE,5589
+Publications,C:MY,Malaysia,Country,MY,FALSE,5502
+Publications,C:ID,Indonesia,Country,ID,FALSE,4850
+Publications,C:RU,Russia,Country,RU,FALSE,4766
+Publications,C:PL,Poland,Country,PL,FALSE,4536
+Publications,C:NL,The Netherlands,Country,NL,FALSE,4184
+Publications,C:TR,Turkey,Country,TR,FALSE,3888
+Publications,C:EG,Egypt,Country,EG,FALSE,3514
+Publications,C:SA,Saudi Arabia,Country,SA,FALSE,3226
+Publications,C:TW,Taiwan,Country,TW,FALSE,3118
+Publications,C:PT,Portugal,Country,PT,FALSE,3096
+Publications,C:TH,Thailand,Country,TH,FALSE,2919
+Publications,C:SE,Sweden,Country,SE,FALSE,2874
+Publications,C:BE,Belgium,Country,BE,FALSE,2827
+Publications,C:CH,Switzerland,Country,CH,FALSE,2618
+Publications,C:PK,Pakistan,Country,PK,FALSE,2455
+Publications,C:CZ,Czechia,Country,CZ,FALSE,2172
+Publications,C:MX,Mexico,Country,MX,FALSE,2101
+Publications,C:NG,Nigeria,Country,NG,FALSE,2100
+Publications,C:SG,Singapore,Country,SG,FALSE,1981
+Publications,C:AT,Austria,Country,AT,FALSE,1811
+Publications,C:GR,Greece,Country,GR,FALSE,1763
+Publications,C:ZA,South Africa,Country,ZA,FALSE,1749
+Publications,C:DK,Denmark,Country,DK,FALSE,1738
+Publications,C:RO,Romania,Country,RO,FALSE,1660
+Publications,C:HK,Hong Kong,Country,HK,FALSE,1582
+Publications,C:FI,Finland,Country,FI,FALSE,1555
+Publications,C:NO,Norway,Country,NO,FALSE,1519
+Publications,C:BD,Bangladesh,Country,BD,FALSE,1392
+Publications,C:IQ,Iraq,Country,IQ,FALSE,1300
+Publications,C:AR,Argentina,Country,AR,FALSE,1290
+Publications,C:IE,Ireland,Country,IE,FALSE,1097
+Publications,C:IL,Israel,Country,IL,FALSE,1094
+Publications,C:VN,Vietnam,Country,VN,FALSE,1035
+Publications,C:UA,Ukraine,Country,UA,FALSE,935
+Publications,C:CO,Colombia,Country,CO,FALSE,900
+Publications,C:NZ,New Zealand,Country,NZ,FALSE,889
+Publications,C:HU,Hungary,Country,HU,FALSE,879
+Publications,C:CL,Chile,Country,CL,FALSE,852
+Publications,C:SK,Slovakia,Country,SK,FALSE,705
+Publications,C:AE,United Arab Emirates,Country,AE,FALSE,686
+Publications,C:SI,Slovenia,Country,SI,FALSE,681
+Publications,C:DZ,Algeria,Country,DZ,FALSE,666
+Publications,C:ET,Ethiopia,Country,ET,FALSE,657
+Publications,C:MA,Morocco,Country,MA,FALSE,633
+Publications,C:PH,Philippines,Country,PH,FALSE,610
+Publications,C:RS,Serbia,Country,RS,FALSE,570
+Publications,C:TN,Tunisia,Country,TN,FALSE,553
+Publications,C:BG,Bulgaria,Country,BG,FALSE,529
+Publications,C:QA,Qatar,Country,QA,FALSE,440
+Publications,C:HR,Croatia,Country,HR,FALSE,431
+Publications,C:EC,Ecuador,Country,EC,FALSE,412
+Publications,C:JO,Jordan,Country,JO,FALSE,411
+Publications,C:LK,Sri Lanka,Country,LK,FALSE,403
+Publications,C:GH,Ghana,Country,GH,FALSE,388
+Publications,C:LT,Lithuania,Country,LT,FALSE,382
+Publications,C:KE,Kenya,Country,KE,FALSE,374
+Publications,C:PE,Peru,Country,PE,FALSE,350
+Publications,C:LV,Latvia,Country,LV,FALSE,326
+Publications,C:KZ,Kazakhstan,Country,KZ,FALSE,320
+Publications,C:NP,Nepal,Country,NP,FALSE,294
+Publications,C:LB,Lebanon,Country,LB,FALSE,263
+Publications,C:BY,Belarus,Country,BY,FALSE,250
+Publications,C:EE,Estonia,Country,EE,FALSE,230
+Publications,C:CY,Cyprus,Country,CY,FALSE,208
+Publications,C:KW,Kuwait,Country,KW,FALSE,208
+Publications,C:OM,Oman,Country,OM,FALSE,207
+Publications,C:TZ,Tanzania,Country,TZ,FALSE,173
+Publications,C:SD,Sudan,Country,SD,FALSE,157
+Publications,C:YE,Yemen,Country,YE,FALSE,151
+Publications,C:UZ,Uzbekistan,Country,UZ,FALSE,145
+Publications,C:UG,Uganda,Country,UG,FALSE,141
+Publications,C:VE,Venezuela,Country,VE,FALSE,137
+Publications,C:MK,North Macedonia,Country,MK,FALSE,136
+Publications,C:MO,Macao,Country,MO,FALSE,132
+Publications,C:AZ,Azerbaijan,Country,AZ,FALSE,125
+Publications,C:LU,Luxembourg,Country,LU,FALSE,122
+Publications,C:CM,Cameroon,Country,CM,FALSE,112
+Publications,C:PS,Palestine,Country,PS,FALSE,107
+Publications,C:PR,Puerto Rico,Country,PR,FALSE,98
+Publications,C:BN,Brunei,Country,BN,FALSE,92
+Publications,C:CU,Cuba,Country,CU,FALSE,89
+Publications,C:TJ,Tajikistan,Country,TJ,FALSE,88
+Publications,C:ZW,Zimbabwe,Country,ZW,FALSE,87
+Publications,C:CR,Costa Rica,Country,CR,FALSE,86
+Publications,C:LY,Libya,Country,LY,FALSE,82
+Publications,C:UY,Uruguay,Country,UY,FALSE,81
+Publications,C:BA,Bosnia and Herzegovina,Country,BA,FALSE,80
+Publications,C:SY,Syria,Country,SY,FALSE,77
+Publications,C:BW,Botswana,Country,BW,FALSE,76
+Publications,C:ZM,Zambia,Country,ZM,FALSE,76
+Publications,C:GE,Georgia,Country,GE,FALSE,74
+Publications,C:CI,Ivory Coast,Country,CI,FALSE,70
+Publications,C:IS,Iceland,Country,IS,FALSE,62
+Publications,C:BJ,Benin,Country,BJ,FALSE,60
+Publications,C:MD,Moldova,Country,MD,FALSE,59
+Publications,C:PY,Paraguay,Country,PY,FALSE,59
+Publications,C:RW,Rwanda,Country,RW,FALSE,54
+Publications,C:KH,Cambodia,Country,KH,FALSE,53
+Publications,C:SN,Senegal,Country,SN,FALSE,51
+Publications,C:MU,Mauritius,Country,MU,FALSE,50
+Publications,O:I19820366,Chinese Academy of Sciences,Research organisation,CN,FALSE,4146
+Publications,O:I1294671590,Centre National de la Recherche Scientifique,Research organisation,FR,FALSE,3673
+Publications,O:I4210165038,University of Chinese Academy of Sciences,Research organisation,CN,FALSE,1752
+Publications,O:I24185976,Sichuan University,Research organisation,CN,FALSE,1521
+Publications,O:I76130692,Zhejiang University,Research organisation,CN,FALSE,1377
+Publications,O:I99065089,Tsinghua University,Research organisation,CN,FALSE,1183
+Publications,O:I90610280,South China University of Technology,Research organisation,CN,FALSE,1176
+Publications,O:I183067930,Shanghai Jiao Tong University,Research organisation,CN,FALSE,1051
+Publications,O:I75390827,Beijing University of Chemical Technology,Research organisation,CN,FALSE,1005
+Publications,O:I165932596,National University of Singapore,Research organisation,SG,FALSE,971
+Publications,O:I17974374,Universidade de São Paulo,Research organisation,BR,FALSE,962
+Publications,O:I185261750,University of Toronto,Research organisation,CA,FALSE,836
+Publications,O:I116953780,Tongji University,Research organisation,CN,FALSE,830
+Publications,O:I74801974,The University of Tokyo,Research organisation,JP,FALSE,827
+Publications,O:I151201029,Consejo Nacional de Investigaciones Científicas y Técnicas,Research organisation,AR,FALSE,823
+Publications,O:I130343225,Universiti Putra Malaysia,Research organisation,MY,FALSE,816
+Publications,O:I28022161,King Saud University,Research organisation,SA,FALSE,782
+Publications,O:I126520041,University of Science and Technology of China,Research organisation,CN,FALSE,780
+Publications,O:I162868743,Tianjin University,Research organisation,CN,FALSE,776
+Publications,O:I169108374,University of the Basque Country,Research organisation,ES,FALSE,771
+Publications,O:I139322472,Universiti Sains Malaysia,Research organisation,MY,FALSE,770
+Publications,O:I136199984,Harvard University,Research organisation,US,FALSE,748
+Publications,O:I139264467,Seoul National University,Research organisation,KR,FALSE,746
+Publications,O:I887968799,RWTH Aachen University,Research organisation,DE,FALSE,746
+Publications,O:I194450716,Jilin University,Research organisation,CN,FALSE,743
+Publications,O:I63966007,Massachusetts Institute of Technology,Research organisation,US,FALSE,739
+Publications,O:I32597200,Ghent University,Research organisation,BE,FALSE,723
+Publications,O:I4576418,University of Technology Malaysia,Research organisation,MY,FALSE,721
+Publications,O:I204983213,Harbin Institute of Technology,Research organisation,CN,FALSE,711
+Publications,O:I4210155236,National Research Council,Research organisation,IT,FALSE,711
+Publications,O:I167027274,Nanjing Forestry University,Research organisation,CN,FALSE,708
+Publications,O:I22299242,Kyoto University,Research organisation,JP,FALSE,704
+Publications,O:I24943067,Fudan University,Research organisation,CN,FALSE,694
+Publications,O:I71267560,University of Naples Federico II,Research organisation,IT,FALSE,690
+Publications,O:I20231570,Peking University,Research organisation,CN,FALSE,689
+Publications,O:I157773358,Sun Yat-sen University,Research organisation,CN,FALSE,683
+Publications,O:I172675005,Nanyang Technological University,Research organisation,SG,FALSE,674
+Publications,O:I27837315,University of Michigan,Research organisation,US,FALSE,674
+Publications,O:I33849332,University of Malaya,Research organisation,MY,FALSE,674
+Publications,O:I9360294,University of Bologna,Research organisation,IT,FALSE,671
+Publications,O:I86987016,KTH Royal Institute of Technology,Research organisation,SE,FALSE,667
+Publications,O:I47720641,Huazhong University of Science and Technology,Research organisation,CN,FALSE,664
+Publications,O:I143593769,East China University of Science and Technology,Research organisation,CN,FALSE,663
+Publications,O:I111599522,Jiangnan University,Research organisation,CN,FALSE,662
+Publications,O:I881766915,Nanjing University,Research organisation,CN,FALSE,654
+Publications,O:I35440088,ETH Zurich,Research organisation,CH,FALSE,650
+Publications,O:I114531698,Tokyo Institute of Technology,Research organisation,JP,FALSE,646
+Publications,O:I5023651,McGill University,Research organisation,CA,FALSE,646
+Publications,O:I913481162,Wageningen University & Research,Research organisation,NL,FALSE,642
+Publications,O:I165143802,The University of Queensland,Research organisation,AU,FALSE,641
+Publications,O:I139660479,Central South University,Research organisation,CN,FALSE,636
+Publications,O:I158708052,Chulalongkorn University,Research organisation,TH,FALSE,632
+Publications,O:I181326427,Donghua University,Research organisation,CN,FALSE,623
+Publications,O:I47508984,Imperial College London,Research organisation,GB,FALSE,621
+Publications,O:I3923682,Soochow University,Research organisation,CN,FALSE,608
+Publications,O:I99682543,University of Minho,Research organisation,PT,FALSE,606
+Publications,O:I889458895,University of Hong Kong,Research organisation,HK,FALSE,605
+Publications,O:I861853513,Sapienza University of Rome,Research organisation,IT,FALSE,601
+Publications,O:I219193219,Purdue University West Lafayette,Research organisation,US,FALSE,596
+Publications,O:I205783295,Cornell University,Research organisation,US,FALSE,591
+Publications,O:I96673099,Technical University of Denmark,Research organisation,DK,FALSE,581
+Publications,O:I4210092888,Changchun Institute of Applied Chemistry,Research organisation,CN,FALSE,573
+Publications,O:I154099455,Shandong University,Research organisation,CN,FALSE,568
+Publications,O:I130238516,University of Minnesota,Research organisation,US,FALSE,565
+Publications,O:I205237279,Nankai University,Research organisation,CN,FALSE,565
+Publications,O:I37461747,Wuhan University,Research organisation,CN,FALSE,563
+Publications,O:I38877650,Zhengzhou University,Research organisation,CN,FALSE,562
+Publications,O:I141945490,University of British Columbia,Research organisation,CA,FALSE,553
+Publications,O:I27357992,Dalian University of Technology,Research organisation,CN,FALSE,552
+Publications,O:I108290504,University of Pisa,Research organisation,IT,FALSE,550
+Publications,O:I181391015,Universidade Estadual de Campinas (UNICAMP),Research organisation,BR,FALSE,550
+Publications,O:I130701444,Georgia Institute of Technology,Research organisation,US,FALSE,547
+Publications,O:I145311948,Johns Hopkins University,Research organisation,US,FALSE,547
+Publications,O:I154526488,Inserm,Research organisation,FR,FALSE,545
+Publications,O:I197347611,Korea University,Research organisation,KR,FALSE,545
+Publications,O:I60858718,University of Aveiro,Research organisation,PT,FALSE,545
+Publications,O:I122140584,Universidade Federal do Rio de Janeiro,Research organisation,BR,FALSE,540
+Publications,O:I97018004,Stanford University,Research organisation,US,FALSE,539
+Publications,O:I23946033,University of Tehran,Research organisation,IR,FALSE,538
+Publications,O:I137902535,North Carolina State University,Research organisation,US,FALSE,531
+Publications,O:I31746571,UNSW Sydney,Research organisation,AU,FALSE,527
+Publications,O:I99542240,Polish Academy of Sciences,Research organisation,PL,FALSE,523
+Publications,O:I4210131959,National Research Centre,Research organisation,EG,FALSE,522
+Publications,O:I115592961,Jiangsu University,Research organisation,CN,FALSE,520
+Publications,O:I134687103,Nanjing Tech University,Research organisation,CN,FALSE,517
+Publications,O:I130769515,Pennsylvania State University,Research organisation,US,FALSE,516
+Publications,O:I157725225,University of Illinois Urbana-Champaign,Research organisation,US,FALSE,516
+Publications,O:I14243506,Hong Kong Polytechnic University,Research organisation,HK,FALSE,515
+Publications,O:I87216513,Michigan State University,Research organisation,US,FALSE,511
+Publications,O:I4210090489,State Key Laboratory of Pollution Control and Resource Reuse,Research organisation,CN,FALSE,509
+Publications,O:I182534213,Universidade do Porto,Research organisation,PT,FALSE,506
+Publications,O:I45129253,University College London,Research organisation,GB,FALSE,503
+Publications,O:I879563668,Universidade Estadual Paulista (Unesp),Research organisation,BR,FALSE,503
+Publications,O:I99464096,KU Leuven,Research organisation,BE,FALSE,503
+Publications,O:I145487455,Cairo University,Research organisation,EG,FALSE,501
+Publications,O:I86519309,The University of Texas at Austin,Research organisation,US,FALSE,499
+Publications,O:I4575257,Hanyang University,Research organisation,KR,FALSE,498
+Publications,O:I21370196,Aristotle University of Thessaloniki,Research organisation,GR,FALSE,495
+Publications,O:I87445476,Xi'an Jiaotong University,Research organisation,CN,FALSE,490
+Publications,O:I98285908,The University of Osaka,Research organisation,JP,FALSE,487
+Publications,O:I205349734,Hokkaido University,Research organisation,JP,FALSE,485
+Publications,O:I28407311,University of Manchester,Research organisation,GB,FALSE,485
+Publications,O:I193662353,Utrecht University,Research organisation,NL,FALSE,484
+Publications,O:I1313323035,Russian Academy of Sciences,Research organisation,RU,FALSE,480
+Publications,O:I143413998,Qingdao University of Science and Technology,Research organisation,CN,FALSE,479
+Publications,O:I114027177,University of North Carolina at Chapel Hill,Research organisation,US,FALSE,475
+Publications,O:I157485424,Korea Advanced Institute of Science and Technology,Research organisation,KR,FALSE,475
+Publications,O:I16733864,National Taiwan University,Research organisation,TW,FALSE,471
+Publications,O:I8961855,Universidad Nacional Autónoma de México,Research organisation,MX,FALSE,471
+Publications,O:I100532134,Université Claude Bernard Lyon 1,Research organisation,FR,FALSE,468
+Publications,O:I76569877,Southeast University,Research organisation,CN,FALSE,466
+Publications,O:I85461943,Saveetha University,Research organisation,IN,FALSE,466
+Publications,O:I91045830,Texas A&M University,Research organisation,US,FALSE,465
+Publications,O:I60053951,Universitat Politècnica de València,Research organisation,ES,FALSE,463
+Publications,O:I56590836,Monash University,Research organisation,AU,FALSE,458
+Publications,O:I135598925,Kyushu University,Research organisation,JP,FALSE,456
+Publications,O:I177909021,Universidade Federal de São Carlos,Research organisation,BR,FALSE,456
+Publications,O:I73613424,National Institute of Advanced Industrial Science and Technology,Research organisation,JP,FALSE,454
+Publications,O:I141596103,University of Lisbon,Research organisation,PT,FALSE,453
+Publications,O:I33213144,University of Florida,Research organisation,US,FALSE,451
+Publications,O:I900890020,University of Palermo,Research organisation,IT,FALSE,451
+Publications,O:I885383172,National University of Malaysia,Research organisation,MY,FALSE,450
+Publications,O:I98358874,Delft University of Technology,Research organisation,NL,FALSE,450
+Publications,O:I99364266,Academy of Scientific and Innovative Research,Research organisation,IN,FALSE,448
+Publications,O:I82724352,Universiti Teknologi MARA,Research organisation,MY,FALSE,447
+Publications,O:I102322142,"Rutgers, The State University of New Jersey",Research organisation,US,FALSE,445
+Publications,O:I62916508,Technical University of Munich,Research organisation,DE,FALSE,445
+Publications,O:I19880235,Lomonosov Moscow State University,Research organisation,RU,FALSE,442
+Publications,O:I83019370,Eindhoven University of Technology,Research organisation,NL,FALSE,439
+Publications,O:I189158943,University of Milan,Research organisation,IT,FALSE,437
+Publications,O:I4210155898,National Interuniversity Consortium of Materials Science and Technology,Research organisation,IT,FALSE,437
+Publications,O:I201537933,Tohoku University,Research organisation,JP,FALSE,436
+Publications,O:I4210116048,Beijing National Laboratory for Molecular Sciences,Research organisation,CN,FALSE,433
+Publications,O:Politecnico di Torino,Politecnico di Torino,Research organisation,IT,TRUE,432
+Publications,O:I135310074,University of Wisconsin–Madison,Research organisation,US,FALSE,429
+Publications,O:I60134161,Nagoya University,Research organisation,JP,FALSE,429
+Publications,O:I848706,Sungkyunkwan University,Research organisation,KR,FALSE,427
+Publications,O:I154425047,University of Alberta,Research organisation,CA,FALSE,425
+Publications,O:I173911158,Iowa State University,Research organisation,US,FALSE,425
+Publications,O:I75027704,University of Tennessee at Knoxville,Research organisation,US,FALSE,423
+Publications,O:I55712492,Zhejiang University of Technology,Research organisation,CN,FALSE,422
+Publications,O:I193775966,Yonsei University,Research organisation,KR,FALSE,419
+Publications,O:I145894827,Indian Institute of Technology Kharagpur,Research organisation,IN,FALSE,417
+Publications,O:I9617848,Universitat Politècnica de Catalunya,Research organisation,ES,FALSE,417
+Publications,O:I241749,University of Cambridge,Research organisation,GB,FALSE,414
+Publications,O:I24603500,University of Massachusetts Amherst,Research organisation,US,FALSE,414
+Publications,O:I95457486,"University of California, Berkeley",Research organisation,US,FALSE,413
+Publications,O:I84218800,"University of California, Davis",Research organisation,US,FALSE,412
+Publications,O:I201448701,University of Washington,Research organisation,US,FALSE,408
+Publications,O:I66867065,East China Normal University,Research organisation,CN,FALSE,405
+Publications,O:I859038795,Virginia Tech,Research organisation,US,FALSE,405
+Publications,O:I876193797,Vellore Institute of Technology University,Research organisation,IN,FALSE,404
+Publications,O:I89652312,Northwest A&F University,Research organisation,CN,FALSE,404
+Publications,O:I72951846,Washington State University,Research organisation,US,FALSE,403
+Publications,O:I142263535,University of Nottingham,Research organisation,GB,FALSE,402
+Publications,O:I82951845,RMIT University,Research organisation,AU,FALSE,400
+Publications,O:I58716616,Korea Institute of Science and Technology,Research organisation,KR,FALSE,399
+Publications,O:I154851008,Indian Institute of Technology Roorkee,Research organisation,IN,FALSE,398
+Publications,O:I138689650,University of Padua,Research organisation,IT,FALSE,397
+Publications,O:I180726961,Shenzhen University,Research organisation,CN,FALSE,397
+Publications,O:I159948400,Jinan University,Research organisation,CN,FALSE,395
+Publications,O:I204778367,Norwegian University of Science and Technology,Research organisation,NO,FALSE,395
+Publications,O:I158842170,Chongqing University,Research organisation,CN,FALSE,394
+Publications,O:I686019,AGH University of Krakow,Research organisation,PL,FALSE,394
+Publications,O:I191208505,Xiamen University,Research organisation,CN,FALSE,391
+Publications,O:I39804081,Sorbonne Université,Research organisation,FR,FALSE,391
+Publications,O:I102335020,Karlsruhe Institute of Technology,Research organisation,DE,FALSE,389
+Publications,O:I19894307,Université de Montpellier,Research organisation,FR,FALSE,389
+Publications,O:I54009628,University of Bayreuth,Research organisation,DE,FALSE,388
+Publications,O:I134820265,Consejo Superior de Investigaciones Científicas,Research organisation,ES,FALSE,387
+Publications,O:I5124864,École Polytechnique Fédérale de Lausanne,Research organisation,CH,FALSE,386
+Publications,O:I111979921,Northwestern University,Research organisation,US,FALSE,382
+Publications,O:I139024713,Guangdong University of Technology,Research organisation,CN,FALSE,382
+Publications,O:I93860229,Politecnico di Milano,Research organisation,IT,FALSE,382
+Publications,O:I185163786,King Abdulaziz University,Research organisation,SA,FALSE,381
+Publications,O:I159176309,Universität Hamburg,Research organisation,DE,FALSE,379
+Publications,O:I165779595,The University of Melbourne,Research organisation,AU,FALSE,378
+Publications,O:I83558840,Universidade Nova de Lisboa,Research organisation,PT,FALSE,375
+Publications,O:I168719708,City University of Hong Kong,Research organisation,HK,FALSE,374
+Publications,O:I130442723,Universidade Federal do Rio Grande do Sul,Research organisation,BR,FALSE,372
+Publications,O:I187531555,Lund University,Research organisation,SE,FALSE,371
+Publications,O:I40120149,University of Oxford,Research organisation,GB,FALSE,370
+Publications,O:I101479585,South China Agricultural University,Research organisation,CN,FALSE,369
+Publications,O:I79619799,University of Birmingham,Research organisation,GB,FALSE,366
+Publications,O:I76903346,University of Coimbra,Research organisation,PT,FALSE,365
+Publications,O:I31683504,Beijing Forestry University,Research organisation,CN,FALSE,362
+Publications,O:I169381384,University of Groningen,Research organisation,NL,FALSE,359
+Publications,O:I4210138501,Chinese Academy of Agricultural Sciences,Research organisation,CN,FALSE,359
+Publications,O:I47689461,Northeast Forestry University,Research organisation,CN,FALSE,356
+Publications,O:I151746483,University of Waterloo,Research organisation,CA,FALSE,355
+Publications,O:I1312222531,Agricultural Research Service,Research organisation,US,FALSE,353
+Publications,O:I4210138594,Rede de Química e Tecnologia,Research organisation,PT,FALSE,353
+Publications,O:I4210152478,State Key Laboratory of Polymer Physics and Chemistry,Research organisation,CN,FALSE,352
+Publications,O:I125839683,Beijing Institute of Technology,Research organisation,CN,FALSE,351
+Publications,O:I16609230,Hunan University,Research organisation,CN,FALSE,351
+Publications,O:I4210144289,Research Center for Eco-Environmental Sciences,Research organisation,CN,FALSE,351
+Publications,O:I94624287,University of Twente,Research organisation,NL,FALSE,351
+Publications,O:I17145004,Northwestern Polytechnical University,Research organisation,CN,FALSE,350
+Publications,O:I200284239,Universidade de Santiago de Compostela,Research organisation,ES,FALSE,350
+Publications,O:I68891433,Indian Institute of Technology Delhi,Research organisation,IN,FALSE,347
+Publications,O:UniTo,UniTo,Research organisation,IT,TRUE,314
+Publications,O:I123338534,Università degli Studi del Piemonte Orientale “Amedeo Avogadro”,Research organisation,IT,TRUE,64
+Publications,O:I4210166196,Istituto Zooprofilattico Sperimentale del Piemonte Liguria e Valle d'Aosta,Research organisation,IT,TRUE,27
+Publications,O:I4210096850,Accademia Albertina delle Belle Arti,Research organisation,IT,TRUE,19
+Publications,O:I4210136559,Istituto Nazionale di Ricerca Metrologica,Research organisation,IT,TRUE,18
+Publications,O:I4210150908,Center for Sustainable Future Technologies,Research organisation,IT,TRUE,16
+Publications,O:I4210090962,Centro Ricerche FIAT,Research organisation,IT,TRUE,15
+Publications,O:I4210128183,Azienda Sanitaria Locale Alessandria,Research organisation,IT,TRUE,15
+Publications,O:I4210089156,Institute for Sustainable Plant Protection,Research organisation,IT,TRUE,13
+Publications,O:I4210113975,Institute of Ecosystem Study,Research organisation,IT,TRUE,12
+Publications,O:UniTo hospital,UniTo hospital,Research organisation,IT,TRUE,11
+Publications,O:I4210128445,Torino e-district,Research organisation,IT,TRUE,9
+Publications,O:I114007267,Agenzia Regionale per la Protezione Ambientale del Piemonte,Research organisation,IT,TRUE,8
+Publications,O:I31762744,University of Gastronomic Sciences,Research organisation,IT,TRUE,8
+Publications,O:I4210151091,Candiolo Cancer Institute,Research organisation,IT,TRUE,7
+Publications,O:I4210111911,Azienda Sanitaria Locale di Asti,Research organisation,IT,TRUE,6
+Publications,O:I4210119509,Ospedale San Giovanni Bosco,Research organisation,IT,TRUE,5
+Publications,O:I4210140063,Research Institute on Sustainable Economic Growth,Research organisation,IT,TRUE,4
+Publications,O:I4210100607,"Institute of Electronics, Computer and Telecommunication Engineering",Research organisation,IT,TRUE,3
+Publications,O:I4210110110,CSI Piemonte,Research organisation,IT,TRUE,3
+Publications,O:I4210123319,Italian institute for Genomic Medicine,Research organisation,IT,TRUE,3
+Publications,O:I4210139629,Environment Park,Research organisation,IT,TRUE,3
+Patents,A:World,World,Area,,FALSE,314265
+Patents,A:Italy,Italy (IT) [A:Italy],Area,IT,FALSE,1922
+Patents,A:Piedmont,Piedmont,Area,IT,TRUE,244
+Patents,O:SINOPEC CHINA PETROCHEMICAL CORPORATION,SINOPEC CHINA PETROCHEMICAL CORPORATION,Company,CN,FALSE,1513
+Patents,O:TORAY INDUSTRIES,TORAY INDUSTRIES,Company,JP,FALSE,725
+Patents,O:BASF BADISCHE ANILIN & SODA FABRIK,BASF BADISCHE ANILIN & SODA FABRIK,Company,DE,FALSE,714
+Patents,O:LG CHEM,LG CHEM,Company,KR,FALSE,653
+Patents,O:FUJIFILM,FUJIFILM,Company,JP,FALSE,581
+Patents,O:PETROCHINA COMPANY,PETROCHINA COMPANY,Company,CN,FALSE,476
+Patents,O:KURARAY COMPANY,KURARAY COMPANY,Company,JP,FALSE,457
+Patents,O:PANASONIC CORPORATION,PANASONIC CORPORATION,Company,JP,FALSE,401
+Patents,O:CANON,CANON,Company,JP,FALSE,396
+Patents,O:HITACHI,HITACHI,Company,JP,FALSE,386
+Patents,O:TOSHIBA CORPORATION,TOSHIBA CORPORATION,Company,JP,FALSE,382
+Patents,O:MITSUBISHI CHEMICALS CORPORATION,MITSUBISHI CHEMICALS CORPORATION,Company,JP,FALSE,381
+Patents,O:P&G PROCTER & GAMBLE COMPANY,P&G PROCTER & GAMBLE COMPANY,Company,US,FALSE,367
+Patents,O:UNITIKA,UNITIKA,Company,JP,FALSE,345
+Patents,O:MITSUBISHI RAYON COMPANY,MITSUBISHI RAYON COMPANY,Company,JP,FALSE,343
+Patents,O:TOYOBO COMPANY,TOYOBO COMPANY,Company,JP,FALSE,337
+Patents,O:KANEKA CORPORATION,KANEKA CORPORATION,Company,JP,FALSE,336
+Patents,O:KAO CORPORATION,KAO CORPORATION,Company,JP,FALSE,329
+Patents,O:TEIJIN,TEIJIN,Company,JP,FALSE,320
+Patents,O:SHIN ETSU CHEMICAL COMPANY,SHIN ETSU CHEMICAL COMPANY,Company,JP,FALSE,313
+Patents,O:NITTO DENKO CORPORATION,NITTO DENKO CORPORATION,Company,JP,FALSE,296
+Patents,O:TOPPAN PRINTING COMPANY,TOPPAN PRINTING COMPANY,Company,JP,FALSE,296
+Patents,O:ASAHI CHEMICAL AND INDUSTRIAL COMPANY,ASAHI CHEMICAL AND INDUSTRIAL COMPANY,Company,JP,FALSE,292
+Patents,O:NIPPON SHOKUBAI COMPANY,NIPPON SHOKUBAI COMPANY,Company,JP,FALSE,289
+Patents,O:NIPPON STEEL CORPORATION,NIPPON STEEL CORPORATION,Company,JP,FALSE,283
+Patents,O:DIC CORPORATION,DIC CORPORATION,Company,JP,FALSE,281
+Patents,O:MITSUI CHEMICALS,MITSUI CHEMICALS,Company,JP,FALSE,277
+Patents,O:NKK CORPORATION,NKK CORPORATION,Company,JP,FALSE,277
+Patents,O:SUMITOMO CHEMICAL COMPANY,SUMITOMO CHEMICAL COMPANY,Company,JP,FALSE,275
+Patents,O:WANHUA CHEMICAL GROUP COMPANY,WANHUA CHEMICAL GROUP COMPANY,Company,CN,FALSE,272
+Patents,O:DNP DAINIPPON PRINTING COMPANY,DNP DAINIPPON PRINTING COMPANY,Company,JP,FALSE,271
+Patents,O:DUPONT,DUPONT,Company,US,FALSE,270
+Patents,O:SEKISUI CHEMICAL COMPANY,SEKISUI CHEMICAL COMPANY,Company,JP,FALSE,257
+Patents,O:MITSUBISHI HEAVY INDUSTRIES,MITSUBISHI HEAVY INDUSTRIES,Company,JP,FALSE,256
+Patents,O:RICOH COMPANY,RICOH COMPANY,Company,JP,FALSE,248
+Patents,O:DOW GLOBAL TECHNOLOGIES,DOW GLOBAL TECHNOLOGIES,Company,US,FALSE,238
+Patents,O:EASTMAN,EASTMAN,Company,US,FALSE,235
+Patents,O:JSR CORPORATION JAPAN SYNTHETIC RUBBER,JSR CORPORATION JAPAN SYNTHETIC RUBBER,Company,JP,FALSE,229
+Patents,O:MITSUBISHI PLASTICS,MITSUBISHI PLASTICS,Company,JP,FALSE,228
+Patents,O:MITSUI TOATSU CHEMICALS,MITSUI TOATSU CHEMICALS,Company,JP,FALSE,226
+Patents,O:ZEON CORPORATION,ZEON CORPORATION,Company,JP,FALSE,225
+Patents,O:TOYOTA MOTOR CORPORATION,TOYOTA MOTOR CORPORATION,Company,JP,FALSE,214
+Patents,O:BOREALIS,BOREALIS,Company,AT,FALSE,203
+Patents,O:HENKEL,HENKEL,Company,DE,FALSE,202
+Patents,O:HITACHI ZOSEN CORPORATION,HITACHI ZOSEN CORPORATION,Company,JP,FALSE,195
+Patents,O:SGCC STATE GRID CORPORATION OF CHINA,SGCC STATE GRID CORPORATION OF CHINA,Company,,FALSE,195
+Patents,O:BAYER,BAYER,Company,DE,FALSE,193
+Patents,O:HITACHI CHEMICAL COMPANY,HITACHI CHEMICAL COMPANY,Company,JP,FALSE,187
+Patents,O:SHIMADZU CORPORATION,SHIMADZU CORPORATION,Company,JP,FALSE,186
+Patents,O:SONY CORPORATION,SONY CORPORATION,Company,JP,FALSE,185
+Patents,O:SHOWA DENKO,SHOWA DENKO,Company,JP,FALSE,184
+Patents,O:SEIKO EPSON CORPORATION,SEIKO EPSON CORPORATION,Company,JP,FALSE,183
+Patents,O:SHENZHEN OCEANPOWER INDUSTRY COMPANY,SHENZHEN OCEANPOWER INDUSTRY COMPANY,Company,CN,FALSE,183
+Patents,O:DAICEL CORPORATION,DAICEL CORPORATION,Company,JP,FALSE,180
+Patents,O:DOW CHEMICAL COMPANY,DOW CHEMICAL COMPANY,Company,US,FALSE,178
+Patents,O:KIMBERLY CLARK CORPORATION,KIMBERLY CLARK CORPORATION,Company,US,FALSE,178
+Patents,O:SABIC SAUDI BASIC INDUSTRIES CORPORATION,SABIC SAUDI BASIC INDUSTRIES CORPORATION,Company,NL,FALSE,175
+Patents,O:ARKEMA,ARKEMA,Company,FR,FALSE,169
+Patents,O:CNPC CHINA NATIONAL PETROLEUM CORPORATION,CNPC CHINA NATIONAL PETROLEUM CORPORATION,Company,CN,FALSE,169
+Patents,O:IBM INTERNATIONAL BUSINESS MACHINES CORPORATION,IBM INTERNATIONAL BUSINESS MACHINES CORPORATION,Company,US,FALSE,168
+Patents,O:HYUNDAI MOTOR COMPANY,HYUNDAI MOTOR COMPANY,Company,KR,FALSE,165
+Patents,O:KURITA WATER IND,KURITA WATER IND,Company,JP,FALSE,160
+Patents,O:MITSUBISHI ELECTRIC CORPORATION,MITSUBISHI ELECTRIC CORPORATION,Company,JP,FALSE,158
+Patents,O:RAYCHEM CORPORATION,RAYCHEM CORPORATION,Company,US,FALSE,155
+Patents,O:CNOOC CHINA NATIONAL OFFSHORE OIL CORPORATION,CNOOC CHINA NATIONAL OFFSHORE OIL CORPORATION,Company,CN,FALSE,154
+Patents,O:UBE IND,UBE IND,Company,JP,FALSE,153
+Patents,O:TOSOH CORPORATION,TOSOH CORPORATION,Company,JP,FALSE,152
+Patents,O:MITSUBISHI GAS CHEMICAL COMPANY,MITSUBISHI GAS CHEMICAL COMPANY,Company,JP,FALSE,148
+Patents,O:EXXONMOBIL CHEMICAL PATENTS,EXXONMOBIL CHEMICAL PATENTS,Company,US,FALSE,146
+Patents,O:KANEBO,KANEBO,Company,JP,FALSE,146
+Patents,O:BRIDGESTONE CORPORATION,BRIDGESTONE CORPORATION,Company,JP,FALSE,143
+Patents,O:JFE STEEL,JFE STEEL,Company,JP,FALSE,135
+Patents,O:SAMSUNG ELECTRONICS COMPANY,SAMSUNG ELECTRONICS COMPANY,Company,KR,FALSE,131
+Patents,O:SANYO CHEM IND,SANYO CHEM IND,Company,,FALSE,130
+Patents,O:SHELL INTERNATIONALE RESEARCH MAATSCHAPPIJ,SHELL INTERNATIONALE RESEARCH MAATSCHAPPIJ,Company,NL,FALSE,130
+Patents,O:KANEGAFUCHI CHEMICAL INDUSTRY COMPANY,KANEGAFUCHI CHEMICAL INDUSTRY COMPANY,Company,JP,FALSE,128
+Patents,O:SK INNOVATION COMPANY,SK INNOVATION COMPANY,Company,KR,FALSE,127
+Patents,O:ASAHI GLASS COMPANY,ASAHI GLASS COMPANY,Company,JP,FALSE,126
+Patents,O:ASAHI KASEI,ASAHI KASEI,Company,JP,FALSE,126
+Patents,O:3M INNOVATIVE PROPERTIES COMPANY MINNESOTA MINING AND MANUFACTURING INNOVATIVE PROPERTIES COMPANY,3M INNOVATIVE PROPERTIES COMPANY MINNESOTA MINING AND MANUFACTURING INNOVATIVE PROPERTIES COMPANY,Company,US,FALSE,125
+Patents,O:HONDA MOTOR COMPANY,HONDA MOTOR COMPANY,Company,JP,FALSE,122
+Patents,O:NALCO,NALCO,Company,US,FALSE,121
+Patents,O:SHELL OIL COMPANY,SHELL OIL COMPANY,Company,US,FALSE,120
+Patents,O:TERUMO CORPORATION,TERUMO CORPORATION,Company,JP,FALSE,120
+Patents,O:GE GENERAL ELECTRIC COMPANY,GE GENERAL ELECTRIC COMPANY,Company,US,FALSE,118
+Patents,O:PHILLIPS PETROLEUM COMPANY,PHILLIPS PETROLEUM COMPANY,Company,US,FALSE,118
+Patents,O:PANASONIC ELECTRIC WORKS,PANASONIC ELECTRIC WORKS,Company,JP,FALSE,115
+Patents,O:TOKYO OHKA KOGYO COMPANY,TOKYO OHKA KOGYO COMPANY,Company,JP,FALSE,115
+Patents,O:JAPAN STEEL WORKS,JAPAN STEEL WORKS,Company,JP,FALSE,114
+Patents,O:SUMITOMO ELECTRIC INDUSTRIES,SUMITOMO ELECTRIC INDUSTRIES,Company,JP,FALSE,114
+Patents,O:SHARP CORPORATION,SHARP CORPORATION,Company,JP,FALSE,113
+Patents,O:TOYO SEIKAN,TOYO SEIKAN,Company,JP,FALSE,113
+Patents,O:FURUKAWA ELECTRIC CO LTD,FURUKAWA ELECTRIC CO LTD,Company,JP,FALSE,110
+Patents,O:SK CHEMICALS COMPANY,SK CHEMICALS COMPANY,Company,KR,FALSE,110
+Patents,O:HOECHST,HOECHST,Company,DE,FALSE,109
+Patents,O:KINGFA SCIENCE AND TECHNOLOGY COMPANY,KINGFA SCIENCE AND TECHNOLOGY COMPANY,Company,,FALSE,109
+Patents,O:XEROX CORPORATION,XEROX CORPORATION,Company,US,FALSE,109
+Patents,O:HEFEI GENIUS NEW MATERIALS COMPANY,HEFEI GENIUS NEW MATERIALS COMPANY,Company,,FALSE,108
+Patents,O:IDEMITSU PETROCHEM COMPANY,IDEMITSU PETROCHEM COMPANY,Company,JP,FALSE,108
+Patents,O:KONICA CORPORATION,KONICA CORPORATION,Company,JP,FALSE,108
+Patents,O:NOVAMONT,NOVAMONT,Company,IT,TRUE,97
+Patents,O:LUIGI LAVAZZA,LUIGI LAVAZZA,Company,IT,TRUE,13
+Patents,O:FIAT AUTO,FIAT AUTO,Company,IT,TRUE,8
+Patents,O:AMUT,AMUT,Company,IT,TRUE,7
+Patents,O:COBARR,COBARR,Company,IT,TRUE,6
+Patents,O:ABET LAMINATI,ABET LAMINATI,Company,IT,TRUE,4
+Patents,O:BISIO PROGETTI,BISIO PROGETTI,Company,IT,TRUE,4
+Patents,O:BITRON,BITRON,Company,IT,TRUE,4
+Patents,O:GUALA PACK,GUALA PACK,Company,IT,TRUE,4
+Patents,O:ISTITUTO GUIDO DONEGANI,ISTITUTO GUIDO DONEGANI,Company,IT,TRUE,4
+Patents,O:MONDO,MONDO,Company,IT,TRUE,4
+Patents,O:CIUFFO GATTO,CIUFFO GATTO,Company,IT,TRUE,3
+Patents,O:ERGOTECH COMPANY,ERGOTECH COMPANY,Company,IT,TRUE,3
+Patents,O:TECNOCOLOR SAS DI CELEBRANO A & COMPANY,TECNOCOLOR SAS DI CELEBRANO A & COMPANY,Company,IT,TRUE,3
+Patents,C:US,United States,Country,US,FALSE,20727
+Patents,C:CN,China,Country,CN,FALSE,15420
+Patents,C:KR,South Korea,Country,KR,FALSE,12238
+Patents,C:DE,Germany,Country,DE,FALSE,9622
+Patents,C:JP,Japan,Country,JP,FALSE,7285
+Patents,C:GB,United Kingdom,Country,GB,FALSE,2870
+Patents,C:FR,France,Country,FR,FALSE,2804
+Patents,C:RU,Russia,Country,RU,FALSE,2690
+Patents,C:TW,Taiwan,Country,TW,FALSE,2293
+Patents,C:IT,Italy (IT) [C:IT],Country,IT,FALSE,1922
+Patents,C:CA,Canada,Country,CA,FALSE,1816
+Patents,C:ES,Spain,Country,ES,FALSE,1727
+Patents,C:NL,The Netherlands,Country,NL,FALSE,1459
+Patents,C:CH,Switzerland,Country,CH,FALSE,1234
+Patents,C:BE,Belgium,Country,BE,FALSE,1020
+Patents,C:IN,India,Country,IN,FALSE,967
+Patents,C:AT,Austria,Country,AT,FALSE,772
+Patents,C:MX,Mexico,Country,MX,FALSE,628
+Patents,C:FI,Finland,Country,FI,FALSE,566
+Patents,C:SE,Sweden,Country,SE,FALSE,566
+Patents,C:PL,Poland,Country,PL,FALSE,555
+Patents,C:UA,Ukraine,Country,UA,FALSE,535
+Patents,C:BR,Brazil,Country,BR,FALSE,491
+Patents,C:AU,Australia,Country,AU,FALSE,480
+Patents,C:RO,Romania,Country,RO,FALSE,379
+Patents,C:IL,Israel,Country,IL,FALSE,343
+Patents,C:CZ,Czechia,Country,CZ,FALSE,341
+Patents,C:DK,Denmark,Country,DK,FALSE,339
+Patents,C:TR,Turkey,Country,TR,FALSE,261
+Patents,C:SG,Singapore,Country,SG,FALSE,237
+Patents,C:IE,Ireland,Country,IE,FALSE,212
+Patents,C:SA,Saudi Arabia,Country,SA,FALSE,210
+Patents,C:PH,Philippines,Country,PH,FALSE,202
+Patents,C:MY,Malaysia,Country,MY,FALSE,192
+Patents,C:PT,Portugal,Country,PT,FALSE,174
+Patents,C:GR,Greece,Country,GR,FALSE,168
+Patents,C:HK,Hong Kong,Country,HK,FALSE,159
+Patents,C:HU,Hungary,Country,HU,FALSE,151
+Patents,C:BG,Bulgaria,Country,BG,FALSE,127
+Patents,C:SK,Slovakia,Country,SK,FALSE,120
+Patents,C:NO,Norway,Country,NO,FALSE,117
+Patents,C:NZ,New Zealand,Country,NZ,FALSE,100
+Patents,C:ZA,South Africa,Country,ZA,FALSE,97
+Patents,C:SU,SU,Country,SU,FALSE,85
+Patents,C:CO,Colombia,Country,CO,FALSE,82
+Patents,C:CL,Chile,Country,CL,FALSE,81
+Patents,C:IR,Iran,Country,IR,FALSE,73
+Patents,C:TH,Thailand,Country,TH,FALSE,65
+Patents,C:SI,Slovenia,Country,SI,FALSE,63
+Patents,C:AR,Argentina,Country,AR,FALSE,60
+Patents,C:LU,Luxembourg,Country,LU,FALSE,58
+Patents,C:RS,Serbia,Country,RS,FALSE,56
+Patents,C:LT,Lithuania,Country,LT,FALSE,52
+Patents,O:CHINESE ACADEMY OF SCIENCES,CHINESE ACADEMY OF SCIENCES,Research organisation,CN,FALSE,2474
+Patents,O:ZHEJIANG UNIVERSITY,ZHEJIANG UNIVERSITY,Research organisation,CN,FALSE,779
+Patents,O:SOUTH CHINA UNIVERSITY OF TECHNOLOGY,SOUTH CHINA UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,684
+Patents,O:JIANGNAN UNIVERSITY,JIANGNAN UNIVERSITY,Research organisation,CN,FALSE,682
+Patents,O:SICHUAN UNIVERSITY,SICHUAN UNIVERSITY,Research organisation,CN,FALSE,655
+Patents,O:BEIJING UNIVERSITY OF CHEMICAL TECHNOLOGY,BEIJING UNIVERSITY OF CHEMICAL TECHNOLOGY,Research organisation,CN,FALSE,549
+Patents,O:TONGJI UNIVERSITY,TONGJI UNIVERSITY,Research organisation,CN,FALSE,416
+Patents,O:SHAANXI UNIVERSITY OF SCIENCE AND TECHNOLOGY,SHAANXI UNIVERSITY OF SCIENCE AND TECHNOLOGY,Research organisation,CN,FALSE,392
+Patents,O:QINGDAO UNIVERSITY OF SCIENCE & TECHNOLOGY,QINGDAO UNIVERSITY OF SCIENCE & TECHNOLOGY,Research organisation,CN,FALSE,379
+Patents,O:SHANGHAI JIAO TONG UNIVERSITY,SHANGHAI JIAO TONG UNIVERSITY,Research organisation,CN,FALSE,378
+Patents,O:NANJING FORESTRY UNIVERSITY,NANJING FORESTRY UNIVERSITY,Research organisation,CN,FALSE,369
+Patents,O:DALIAN UNIVERSITY OF TECHNOLOGY,DALIAN UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,362
+Patents,O:AIST NATIONAL INSTITUTE OF ADVANCED INDUSTRIAL SCIENCE AND TECHNOLOGY METI,AIST NATIONAL INSTITUTE OF ADVANCED INDUSTRIAL SCIENCE AND TECHNOLOGY METI,Research organisation,JP,FALSE,352
+Patents,O:NATIONAL DONG HWA UNIVERSITY,NATIONAL DONG HWA UNIVERSITY,Research organisation,,FALSE,352
+Patents,O:TIANJIN UNIVERSITY,TIANJIN UNIVERSITY,Research organisation,CN,FALSE,347
+Patents,O:HARBIN INSTITUTE OF TECHNOLOGY,HARBIN INSTITUTE OF TECHNOLOGY,Research organisation,CN,FALSE,345
+Patents,O:ZHEJIANG UNIVERSITY OF TECHNOLOGY,ZHEJIANG UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,338
+Patents,O:EAST CHINA UNIVERSITY OF SCIENCE AND TECHNOLOGY,EAST CHINA UNIVERSITY OF SCIENCE AND TECHNOLOGY,Research organisation,CN,FALSE,333
+Patents,O:NANJING TECH UNIVERSITY,NANJING TECH UNIVERSITY,Research organisation,CN,FALSE,323
+Patents,O:TSINGHUA UNIVERSITY,TSINGHUA UNIVERSITY,Research organisation,CN,FALSE,321
+Patents,O:CHANGZHOU UNIVERSITY,CHANGZHOU UNIVERSITY,Research organisation,CN,FALSE,314
+Patents,O:SOUTHEAST UNIVERSITY,SOUTHEAST UNIVERSITY,Research organisation,CN,FALSE,299
+Patents,O:UNIVERSITY OF JINAN,UNIVERSITY OF JINAN,Research organisation,CN,FALSE,299
+Patents,O:JILIN UNIVERSITY,JILIN UNIVERSITY,Research organisation,CN,FALSE,298
+Patents,O:ZHEJIANG SCI TECH UNIVERSITY,ZHEJIANG SCI TECH UNIVERSITY,Research organisation,CN,FALSE,286
+Patents,O:FUZHOU UNIVERSITY,FUZHOU UNIVERSITY,Research organisation,CN,FALSE,277
+Patents,O:SHANDONG UNIVERSITY,SHANDONG UNIVERSITY,Research organisation,CN,FALSE,274
+Patents,O:SOUTHWEST PETROLEUM UNIVERSITY,SOUTHWEST PETROLEUM UNIVERSITY,Research organisation,CN,FALSE,269
+Patents,O:FUDAN UNIVERSITY,FUDAN UNIVERSITY,Research organisation,CN,FALSE,265
+Patents,O:GUANGDONG UNIVERSITY OF TECHNOLOGY,GUANGDONG UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,259
+Patents,O:HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY,HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY,Research organisation,CN,FALSE,259
+Patents,O:JIANGSU UNIVERSITY,JIANGSU UNIVERSITY,Research organisation,CN,FALSE,256
+Patents,O:KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY,KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY,Research organisation,KR,FALSE,247
+Patents,O:KMUST KUNMING UNIVERSITY OF SCIENCE AND TECHNOLOGY,KMUST KUNMING UNIVERSITY OF SCIENCE AND TECHNOLOGY,Research organisation,CN,FALSE,246
+Patents,O:NANJING UNIVERSITY,NANJING UNIVERSITY,Research organisation,CN,FALSE,241
+Patents,O:ZHENGZHOU UNIVERSITY,ZHENGZHOU UNIVERSITY,Research organisation,CN,FALSE,240
+Patents,O:CHINA UNIVERSITY OF PETROLEUM EAST CHINA,CHINA UNIVERSITY OF PETROLEUM EAST CHINA,Research organisation,CN,FALSE,235
+Patents,O:CENTRAL SOUTH UNIVERSITY,CENTRAL SOUTH UNIVERSITY,Research organisation,CN,FALSE,234
+Patents,O:SOOCHOW UNIVERSITY,SOOCHOW UNIVERSITY,Research organisation,CN,FALSE,234
+Patents,O:SUN YAT SEN UNIVERSITY,SUN YAT SEN UNIVERSITY,Research organisation,CN,FALSE,226
+Patents,O:XIAN JIAOTONG UNIVERSITY,XIAN JIAOTONG UNIVERSITY,Research organisation,CN,FALSE,226
+Patents,O:WUHAN UNIVERSITY OF TECHNOLOGY,WUHAN UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,210
+Patents,O:SOUTH CHINA AGRICULTURAL UNIVERSITY,SOUTH CHINA AGRICULTURAL UNIVERSITY,Research organisation,CN,FALSE,203
+Patents,O:KIST KOREA INSTITUTE OF SCIENCE AND TECHNOLOGY,KIST KOREA INSTITUTE OF SCIENCE AND TECHNOLOGY,Research organisation,KR,FALSE,201
+Patents,O:DONGHUA UNIVERSITY,DONGHUA UNIVERSITY,Research organisation,CN,FALSE,198
+Patents,O:TIANJIN POLYTECHNIC UNIVERSITY,TIANJIN POLYTECHNIC UNIVERSITY,Research organisation,CN,FALSE,194
+Patents,O:SHANGHAI UNIVERSITY,SHANGHAI UNIVERSITY,Research organisation,CN,FALSE,192
+Patents,O:MIT MASSACHUSETTS INSTITUTE OF TECHNOLOGY,MIT MASSACHUSETTS INSTITUTE OF TECHNOLOGY,Research organisation,US,FALSE,188
+Patents,O:HEFEI UNIVERSITY OF TECHNOLOGY,HEFEI UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,183
+Patents,O:WUHAN UNIVERSITY,WUHAN UNIVERSITY,Research organisation,CN,FALSE,180
+Patents,O:GUANGXI UNIVERSITY,GUANGXI UNIVERSITY,Research organisation,CN,FALSE,176
+Patents,O:BEIJING UNIVERSITY OF TECHNOLOGY,BEIJING UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,175
+Patents,O:CNRS CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE,CNRS CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE,Research organisation,FR,FALSE,175
+Patents,O:NANKAI UNIVERSITY,NANKAI UNIVERSITY,Research organisation,CN,FALSE,172
+Patents,O:SHANDONG UNIVERSITY OF TECHNOLOGY,SHANDONG UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,171
+Patents,O:UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA,UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA,Research organisation,CN,FALSE,165
+Patents,O:CHONGQING UNIVERSITY,CHONGQING UNIVERSITY,Research organisation,CN,FALSE,158
+Patents,O:NORTHEAST FORESTRY UNIVERSITY,NORTHEAST FORESTRY UNIVERSITY,Research organisation,CN,FALSE,158
+Patents,O:PEKING UNIVERSITY,PEKING UNIVERSITY,Research organisation,CN,FALSE,158
+Patents,O:KAIST KOREA ADVANCED INSTITUTE OF SCIENCE AND TECHNOLOGY,KAIST KOREA ADVANCED INSTITUTE OF SCIENCE AND TECHNOLOGY,Research organisation,KR,FALSE,148
+Patents,O:SHANDONG UNIVERSITY OF SCIENCE AND TECHNOLOGY,SHANDONG UNIVERSITY OF SCIENCE AND TECHNOLOGY,Research organisation,CN,FALSE,146
+Patents,O:TAIYUAN UNIVERSITY OF TECHNOLOGY,TAIYUAN UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,146
+Patents,O:BEIJING INSTITUTE OF TECHNOLOGY,BEIJING INSTITUTE OF TECHNOLOGY,Research organisation,CN,FALSE,145
+Patents,O:INSTITUTE OF CHEMICAL INDUSTRY OF FOREST PRODUCTS CAF,INSTITUTE OF CHEMICAL INDUSTRY OF FOREST PRODUCTS CAF,Research organisation,CN,FALSE,143
+Patents,O:SEOUL NATIONAL UNIVERSITY,SEOUL NATIONAL UNIVERSITY,Research organisation,KR,FALSE,140
+Patents,O:GUILIN UNIVERSITY OF TECHNOLOGY,GUILIN UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,138
+Patents,O:GUIZHOU UNIVERSITY,GUIZHOU UNIVERSITY,Research organisation,CN,FALSE,138
+Patents,O:NORTHWESTERN POLYTECHNICAL UNIVERSITY,NORTHWESTERN POLYTECHNICAL UNIVERSITY,Research organisation,CN,FALSE,138
+Patents,O:CHINA UNIVERSITY OF MINING AND TECHNOLOGY,CHINA UNIVERSITY OF MINING AND TECHNOLOGY,Research organisation,CN,FALSE,137
+Patents,O:XIAMEN UNIVERSITY,XIAMEN UNIVERSITY,Research organisation,CN,FALSE,137
+Patents,O:UNIVERSITY OF CALIFORNIA,UNIVERSITY OF CALIFORNIA,Research organisation,US,FALSE,135
+Patents,O:UNIVERSITY OF SCIENCE AND TECHNOLOGY BEIJING,UNIVERSITY OF SCIENCE AND TECHNOLOGY BEIJING,Research organisation,CN,FALSE,133
+Patents,O:TIANJIN UNIVERSITY OF SCIENCE & TECHNOLOGY,TIANJIN UNIVERSITY OF SCIENCE & TECHNOLOGY,Research organisation,CN,FALSE,129
+Patents,O:HUNAN UNIVERSITY OF TECHNOLOGY,HUNAN UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,127
+Patents,O:NINGBO UNIVERSITY,NINGBO UNIVERSITY,Research organisation,CN,FALSE,124
+Patents,O:YANGZHOU UNIVERSITY,YANGZHOU UNIVERSITY,Research organisation,CN,FALSE,122
+Patents,O:ZHEJIANG OCEAN UNIVERSITY,ZHEJIANG OCEAN UNIVERSITY,Research organisation,CN,FALSE,121
+Patents,O:IFPEN IFP ENERGIES NOUVELLES,IFPEN IFP ENERGIES NOUVELLES,Research organisation,FR,FALSE,119
+Patents,O:FRAUNHOFER,FRAUNHOFER,Research organisation,DE,FALSE,118
+Patents,O:WUHAN TEXTILE UNIVERSITY,WUHAN TEXTILE UNIVERSITY,Research organisation,CN,FALSE,118
+Patents,O:KOREA UNIVERSITY,KOREA UNIVERSITY,Research organisation,KR,FALSE,117
+Patents,O:ITRI INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE,ITRI INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE,Research organisation,TW,FALSE,115
+Patents,O:NANJING UNIVERSITY OF SCIENCE AND TECHNOLOGY,NANJING UNIVERSITY OF SCIENCE AND TECHNOLOGY,Research organisation,CN,FALSE,115
+Patents,O:SHENYANG UNIVERSITY OF CHEMICAL TECHNOLOGY,SHENYANG UNIVERSITY OF CHEMICAL TECHNOLOGY,Research organisation,,FALSE,115
+Patents,O:NORTH UNIVERSITY OF CHINA,NORTH UNIVERSITY OF CHINA,Research organisation,CN,FALSE,113
+Patents,O:HOHAI UNIVERSITY,HOHAI UNIVERSITY,Research organisation,CN,FALSE,111
+Patents,O:NORTHWEST NORMAL UNIVERSITY,NORTHWEST NORMAL UNIVERSITY,Research organisation,CN,FALSE,109
+Patents,O:HUBEI UNIVERSITY OF TECHNOLOGY,HUBEI UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,108
+Patents,O:SHIHEZI UNIVERSITY,SHIHEZI UNIVERSITY,Research organisation,CN,FALSE,108
+Patents,O:FUJIAN NORMAL UNIVERSITY,FUJIAN NORMAL UNIVERSITY,Research organisation,CN,FALSE,107
+Patents,O:HUNAN UNIVERSITY,HUNAN UNIVERSITY,Research organisation,CN,FALSE,107
+Patents,O:SUZHOU UNIVERSITY,SUZHOU UNIVERSITY,Research organisation,,FALSE,107
+Patents,O:ANHUI AGRICULTURAL UNIVERSITY,ANHUI AGRICULTURAL UNIVERSITY,Research organisation,CN,FALSE,106
+Patents,O:NANCHANG UNIVERSITY,NANCHANG UNIVERSITY,Research organisation,CN,FALSE,106
+Patents,O:QINGDAO UNIVERSITY,QINGDAO UNIVERSITY,Research organisation,CN,FALSE,106
+Patents,O:ANHUI UNIVERSITY OF SCIENCE & TECHNOLOGY,ANHUI UNIVERSITY OF SCIENCE & TECHNOLOGY,Research organisation,CN,FALSE,102
+Patents,O:CHANG AN UNIVERSITY,CHANG AN UNIVERSITY,Research organisation,CN,FALSE,102
+Patents,O:FUJIAN AGRICULTURE AND FORESTRY UNIVERSITY,FUJIAN AGRICULTURE AND FORESTRY UNIVERSITY,Research organisation,CN,FALSE,101
+Patents,O:CHANGCHUN UNIVERSITY OF TECHNOLOGY,CHANGCHUN UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,100
+Patents,O:BEIJING FORESTRY UNIVERSITY,BEIJING FORESTRY UNIVERSITY,Research organisation,CN,FALSE,99
+Patents,O:NORTHWESTERN UNIVERSITY,NORTHWESTERN UNIVERSITY,Research organisation,US,FALSE,99
+Patents,O:SOUTHWEST JIAOTONG UNIVERSITY,SOUTHWEST JIAOTONG UNIVERSITY,Research organisation,CN,FALSE,99
+Patents,O:WUHAN INSTITUTE OF TECHNOLOGY,WUHAN INSTITUTE OF TECHNOLOGY,Research organisation,CN,FALSE,99
+Patents,O:JAPAN SCIENCE AND TECHNOLOGY AGENCY,JAPAN SCIENCE AND TECHNOLOGY AGENCY,Research organisation,JP,FALSE,95
+Patents,O:KOREA INSTITUTE OF INDUSTRIAL TECHNOLOGY,KOREA INSTITUTE OF INDUSTRIAL TECHNOLOGY,Research organisation,KR,FALSE,95
+Patents,O:KOREA INSTITUTE OF ENERGY RESEARCH,KOREA INSTITUTE OF ENERGY RESEARCH,Research organisation,KR,FALSE,94
+Patents,O:OCEAN UNIVERSITY OF CHINA,OCEAN UNIVERSITY OF CHINA,Research organisation,CN,FALSE,94
+Patents,O:HEBEI UNIVERSITY OF TECHNOLOGY,HEBEI UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,93
+Patents,O:SOUTHWEST UNIVERSITY OF SCIENCE AND TECHNOLOGY,SOUTHWEST UNIVERSITY OF SCIENCE AND TECHNOLOGY,Research organisation,CN,FALSE,92
+Patents,O:COUNCIL OF SCIENTIFIC AND INDUSTRIAL RESEARCH,COUNCIL OF SCIENTIFIC AND INDUSTRIAL RESEARCH,Research organisation,IN,FALSE,90
+Patents,O:ANHUI UNIVERSITY,ANHUI UNIVERSITY,Research organisation,CN,FALSE,89
+Patents,O:SHENZHEN UNIVERSITY,SHENZHEN UNIVERSITY,Research organisation,CN,FALSE,89
+Patents,O:XIANGTAN UNIVERSITY,XIANGTAN UNIVERSITY,Research organisation,CN,FALSE,88
+Patents,O:CHINA UNIVERSITY OF PETROLEUM BEIJING,CHINA UNIVERSITY OF PETROLEUM BEIJING,Research organisation,CN,FALSE,86
+Patents,O:HUBEI UNIVERSITY,HUBEI UNIVERSITY,Research organisation,,FALSE,86
+Patents,O:EAST CHINA NORMAL UNIVERSITY,EAST CHINA NORMAL UNIVERSITY,Research organisation,CN,FALSE,84
+Patents,O:NORTHEASTERN UNIVERSITY,NORTHEASTERN UNIVERSITY,Research organisation,US,FALSE,84
+Patents,O:DALIAN POLYTECHNIC UNIVERSITY,DALIAN POLYTECHNIC UNIVERSITY,Research organisation,CN,FALSE,82
+Patents,O:HEBEI UNIVERSITY OF SCIENCE AND TECHNOLOGY,HEBEI UNIVERSITY OF SCIENCE AND TECHNOLOGY,Research organisation,CN,FALSE,82
+Patents,O:SHANGHAI INSTITUTE OF TECHNOLOGY,SHANGHAI INSTITUTE OF TECHNOLOGY,Research organisation,CN,FALSE,82
+Patents,O:SHANXI UNIVERSITY,SHANXI UNIVERSITY,Research organisation,CN,FALSE,79
+Patents,O:UNIVERSITY OF TEXAS SYSTEM,UNIVERSITY OF TEXAS SYSTEM,Research organisation,US,FALSE,79
+Patents,O:XINJIANG UNIVERSITY,XINJIANG UNIVERSITY,Research organisation,CN,FALSE,79
+Patents,O:SOUTHWEST UNIVERSITY,SOUTHWEST UNIVERSITY,Research organisation,CN,FALSE,78
+Patents,O:WUHAN UNIVERSITY OF SCIENCE AND TECHNOLOGY,WUHAN UNIVERSITY OF SCIENCE AND TECHNOLOGY,Research organisation,CN,FALSE,76
+Patents,O:YANCHENG INSTITUTE OF TECHNOLOGY,YANCHENG INSTITUTE OF TECHNOLOGY,Research organisation,CN,FALSE,76
+Patents,O:HAINAN UNIVERSITY,HAINAN UNIVERSITY,Research organisation,CN,FALSE,75
+Patents,O:NANTONG UNIVERSITY,NANTONG UNIVERSITY,Research organisation,CN,FALSE,74
+Patents,O:SUNGKYUNKWAN UNIVERSITY,SUNGKYUNKWAN UNIVERSITY,Research organisation,KR,FALSE,74
+Patents,O:SHAANXI UNIVERSITY OF TECHNOLOGY,SHAANXI UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,73
+Patents,O:SOUTH CHINA NORMAL UNIVERSITY,SOUTH CHINA NORMAL UNIVERSITY,Research organisation,CN,FALSE,73
+Patents,O:CHINA UNIVERSITY OF GEOSCIENCES WUHAN,CHINA UNIVERSITY OF GEOSCIENCES WUHAN,Research organisation,CN,FALSE,72
+Patents,O:HANGZHOU DIANZI UNIVERSITY,HANGZHOU DIANZI UNIVERSITY,Research organisation,CN,FALSE,72
+Patents,O:NANCHANG HANGKONG UNIVERSITY,NANCHANG HANGKONG UNIVERSITY,Research organisation,CN,FALSE,72
+Patents,O:SHANDONG AGRICULTURAL UNIVERSITY,SHANDONG AGRICULTURAL UNIVERSITY,Research organisation,CN,FALSE,72
+Patents,O:XI AN UNIVERSITY OF TECHNOLOGY,XI AN UNIVERSITY OF TECHNOLOGY,Research organisation,,FALSE,72
+Patents,O:SICHUAN AGRICULTURAL UNIVERSITY,SICHUAN AGRICULTURAL UNIVERSITY,Research organisation,CN,FALSE,71
+Patents,O:XI AN UNIVERSITY OF ARCHITECTURE AND TECHNOLOGY,XI AN UNIVERSITY OF ARCHITECTURE AND TECHNOLOGY,Research organisation,CN,FALSE,71
+Patents,O:CHUNGNAM NATIONAL UNIVERSITY,CHUNGNAM NATIONAL UNIVERSITY,Research organisation,KR,FALSE,70
+Patents,O:SHENYANG JIANZHU UNIVERSITY,SHENYANG JIANZHU UNIVERSITY,Research organisation,CN,FALSE,70
+Patents,O:XINJIANG ACADEMY OF AGRICULTURAL AND RECLAMATION SCIENCE,XINJIANG ACADEMY OF AGRICULTURAL AND RECLAMATION SCIENCE,Research organisation,,FALSE,70
+Patents,O:JIANGSU UNIVERSITY OF SCIENCE AND TECHNOLOGY,JIANGSU UNIVERSITY OF SCIENCE AND TECHNOLOGY,Research organisation,CN,FALSE,69
+Patents,O:NANJING NORMAL UNIVERSITY,NANJING NORMAL UNIVERSITY,Research organisation,CN,FALSE,68
+Patents,O:HENAN NORMAL UNIVERSITY,HENAN NORMAL UNIVERSITY,Research organisation,CN,FALSE,67
+Patents,O:NORTHEAST PETROLEUM UNIVERSITY,NORTHEAST PETROLEUM UNIVERSITY,Research organisation,,FALSE,67
+Patents,O:QILU UNIVERSITY OF TECHNOLOGY,QILU UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,67
+Patents,O:BEIJING TECHNOLOGY AND BUSINESS UNIVERSITY,BEIJING TECHNOLOGY AND BUSINESS UNIVERSITY,Research organisation,CN,FALSE,66
+Patents,O:CHONNAM NATIONAL UNIVERSITY,CHONNAM NATIONAL UNIVERSITY,Research organisation,KR,FALSE,65
+Patents,O:HENAN UNIVERSITY OF TECHNOLOGY,HENAN UNIVERSITY OF TECHNOLOGY,Research organisation,,FALSE,65
+Patents,O:HUAQIAO UNIVERSITY,HUAQIAO UNIVERSITY,Research organisation,,FALSE,65
+Patents,O:ZHEJIANG A & F UNIVERSITY,ZHEJIANG A & F UNIVERSITY,Research organisation,,FALSE,65
+Patents,O:CHINA THREE GORGES UNIVERSITY,CHINA THREE GORGES UNIVERSITY,Research organisation,,FALSE,64
+Patents,O:HANGZHOU NORMAL UNIVERSITY,HANGZHOU NORMAL UNIVERSITY,Research organisation,CN,FALSE,63
+Patents,O:NANJING AGRICULTURAL UNIVERSITY,NANJING AGRICULTURAL UNIVERSITY,Research organisation,CN,FALSE,63
+Patents,O:ANHUI UNIVERSITY OF TECHNOLOGY,ANHUI UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,61
+Patents,O:BEIHANG UNIVERSITY,BEIHANG UNIVERSITY,Research organisation,CN,FALSE,61
+Patents,O:CEA COMMISSARIAT A L ENERGIE ATOMIQUE,CEA COMMISSARIAT A L ENERGIE ATOMIQUE,Research organisation,FR,FALSE,61
+Patents,O:GUANGZHOU UNIVERSITY,GUANGZHOU UNIVERSITY,Research organisation,CN,FALSE,61
+Patents,O:RUTGERS STATE UNIVERSITY NEW JERSEY,RUTGERS STATE UNIVERSITY NEW JERSEY,Research organisation,US,FALSE,61
+Patents,O:HARVARD UNIVERSITY,HARVARD UNIVERSITY,Research organisation,US,FALSE,59
+Patents,O:NANJING UNIVERSITY OF AERONAUTICS AND ASTRONAUTICS,NANJING UNIVERSITY OF AERONAUTICS AND ASTRONAUTICS,Research organisation,CN,FALSE,59
+Patents,O:FOSHAN UNIVERSITY,FOSHAN UNIVERSITY,Research organisation,CN,FALSE,58
+Patents,O:KYUNGPOOK NATIONAL UNIVERSITY,KYUNGPOOK NATIONAL UNIVERSITY,Research organisation,KR,FALSE,58
+Patents,O:NORTHEAST AGRICULTURAL UNIVERSITY,NORTHEAST AGRICULTURAL UNIVERSITY,Research organisation,CN,FALSE,58
+Patents,O:YONSEI UNIVERSITY,YONSEI UNIVERSITY,Research organisation,KR,FALSE,58
+Patents,O:ZHONGKAI UNIVERSITY OF AGRICULTURE AND ENGINEERING,ZHONGKAI UNIVERSITY OF AGRICULTURE AND ENGINEERING,Research organisation,CN,FALSE,58
+Patents,O:CHENGDU UNIVERSITY OF TECHNOLOGY,CHENGDU UNIVERSITY OF TECHNOLOGY,Research organisation,,FALSE,57
+Patents,O:LANZHOU UNIVERSITY OF TECHNOLOGY,LANZHOU UNIVERSITY OF TECHNOLOGY,Research organisation,,FALSE,57
+Patents,O:LIAONING UNIVERSITY,LIAONING UNIVERSITY,Research organisation,,FALSE,57
+Patents,O:SUZHOU CITY WUZHONG DISTRICT MUDU HUALI MOLD PROCESSING SHOP,SUZHOU CITY WUZHONG DISTRICT MUDU HUALI MOLD PROCESSING SHOP,Research organisation,,FALSE,57
+Patents,O:YANSHAN UNIVERSITY,YANSHAN UNIVERSITY,Research organisation,CN,FALSE,57
+Patents,O:CHINA AGRICULTURAL UNIVERSITY,CHINA AGRICULTURAL UNIVERSITY,Research organisation,CN,FALSE,56
+Patents,O:HUNAN UNIVERSITY OF SCIENCE AND TECHNOLOGY,HUNAN UNIVERSITY OF SCIENCE AND TECHNOLOGY,Research organisation,CN,FALSE,56
+Patents,O:JHU JOHNS HOPKINS UNIVERSITY,JHU JOHNS HOPKINS UNIVERSITY,Research organisation,US,FALSE,56
+Patents,O:JIAXING UNIVERSITY,JIAXING UNIVERSITY,Research organisation,CN,FALSE,56
+Patents,O:ASTAR AGENCY FOR SCIENCE TECHNOLOGY AND RESEARCH,ASTAR AGENCY FOR SCIENCE TECHNOLOGY AND RESEARCH,Research organisation,SG,FALSE,55
+Patents,O:CHINA PHARMACEUTICAL UNIVERSITY,CHINA PHARMACEUTICAL UNIVERSITY,Research organisation,,FALSE,55
+Patents,O:SICHUAN UNIVERSITY OF SCIENCE & ENGINEERING,SICHUAN UNIVERSITY OF SCIENCE & ENGINEERING,Research organisation,CN,FALSE,55
+Patents,O:CORNELL UNIVERSITY,CORNELL UNIVERSITY,Research organisation,US,FALSE,54
+Patents,O:GYEONGSANG NATIONAL UNIVERSITY,GYEONGSANG NATIONAL UNIVERSITY,Research organisation,KR,FALSE,54
+Patents,O:HANYANG UNIVERSITY,HANYANG UNIVERSITY,Research organisation,KR,FALSE,54
+Patents,O:LANZHOU UNIVERSITY,LANZHOU UNIVERSITY,Research organisation,CN,FALSE,54
+Patents,O:NANJING INSTITUTE OF TECHNOLOGY,NANJING INSTITUTE OF TECHNOLOGY,Research organisation,CN,FALSE,54
+Patents,O:NORTHWEST A&F UNIVERSITY,NORTHWEST A&F UNIVERSITY,Research organisation,CN,FALSE,54
+Patents,O:SHAANXI NORMAL UNIVERSITY,SHAANXI NORMAL UNIVERSITY,Research organisation,CN,FALSE,54
+Patents,O:BATTELLE MEMORIAL INSTITUTE,BATTELLE MEMORIAL INSTITUTE,Research organisation,US,FALSE,53
+Patents,O:GEORGIA INSTITUTE OF TECHNOLOGY,GEORGIA INSTITUTE OF TECHNOLOGY,Research organisation,US,FALSE,53
+Patents,O:SHANGHAI UNIVERSITY OF ENGINEERING SCIENCE,SHANGHAI UNIVERSITY OF ENGINEERING SCIENCE,Research organisation,CN,FALSE,53
+Patents,O:YANGZHOU POLYTECHNIC INSTITUTE,YANGZHOU POLYTECHNIC INSTITUTE,Research organisation,,FALSE,53
+Patents,O:CHINA JILIANG UNIVERSITY,CHINA JILIANG UNIVERSITY,Research organisation,CN,FALSE,52
+Patents,O:CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS,CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS,Research organisation,ES,FALSE,52
+Patents,O:JIANGSU ACADEMY OF AGRICULTURAL SCIENCES,JIANGSU ACADEMY OF AGRICULTURAL SCIENCES,Research organisation,CN,FALSE,52
+Patents,O:MICHIGAN STATE UNIVERSITY,MICHIGAN STATE UNIVERSITY,Research organisation,US,FALSE,52
+Patents,O:YANGTZE UNIVERSITY,YANGTZE UNIVERSITY,Research organisation,CN,FALSE,52
+Patents,O:PUSAN NATIONAL UNIVERSITY,PUSAN NATIONAL UNIVERSITY,Research organisation,KR,FALSE,51
+Patents,O:SHANDONG NORMAL UNIVERSITY,SHANDONG NORMAL UNIVERSITY,Research organisation,,FALSE,51
+Patents,O:XI AN SHIYOU UNIVERSITY,XI AN SHIYOU UNIVERSITY,Research organisation,CN,FALSE,51
+Patents,O:UNIVERSITY OF ELECTRONIC SCIENCE AND TECHNOLOGY OF CHINA,UNIVERSITY OF ELECTRONIC SCIENCE AND TECHNOLOGY OF CHINA,Research organisation,CN,FALSE,50
+Patents,O:ZHONGYUAN UNIVERSITY OF TECHNOLOGY,ZHONGYUAN UNIVERSITY OF TECHNOLOGY,Research organisation,CN,FALSE,50
+Patents,O:HENAN INSTITUTE OF ENGINEERING,HENAN INSTITUTE OF ENGINEERING,Research organisation,,FALSE,49
+Patents,O:UNIVERSITA DEGLI STUDI DI TORINO,UNIVERSITA DEGLI STUDI DI TORINO,Research organisation,IT,TRUE,5
+Patents,O:POLITECNIQUE OF TORINO,POLITECNIQUE OF TORINO,Research organisation,IT,TRUE,4

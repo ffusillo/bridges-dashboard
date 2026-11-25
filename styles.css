@@ -1,0 +1,34 @@
+/* BRIDgeS dashboard: a few touches on top of the Quarto "cosmo" theme */
+
+:root {
+  --bridges-red: #c8102e;      /* accent */
+  --bridges-grey: #54565a;     /* the grey of the position paper tables */
+}
+
+
+h1, h2, h3 { color: #222; }
+h2 { border-bottom: 2px solid var(--bridges-red); padding-bottom: 0.2rem; }
+
+/* the "provisional" notice */
+.provisional {
+  border-left: 4px solid var(--bridges-red);
+  background: #fbeaec;
+  padding: 0.6rem 0.9rem;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+}
+
+/* the cards of the home page */
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+.cards a { display: block; padding: 1rem; border: 1px solid #ddd; border-radius: 6px; text-decoration: none; color: inherit; }
+.cards a:hover { border-color: var(--bridges-red); }
+.cards strong { display: block; color: var(--bridges-red); margin-bottom: 0.3rem; }
+
+/* the VOSviewer Online frame */
+.vos-frame { width: 100%; height: 75vh; min-height: 500px; border: 1px solid #ddd; }
+
+/* small grey notes under charts */
+.note { color: #666; font-size: 0.85rem; }
+
+/* tables of the scorecard */
+table.scorecard td:nth-child(2), table.scorecard td:nth-child(3) { text-align: right; white-space: nowrap; }

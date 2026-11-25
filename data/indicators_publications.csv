@@ -1,0 +1,439 @@
+actor,actor_type,country,piedmont,docs_2000_14,docs_recent,docs,world_share,momentum,main_category,specialisation,partners,joint_docs,betweenness_pct
+Sinopec (China),Company,CN,FALSE,26,142,168,0.66,2.01,C5 Life-cycle assessment,1.53,157,346,96
+Dow Chemical (United States),Company,US,FALSE,53,65,153,0.3,0.45,C8 Health & risk,2.09,127,262,98
+BASF (Germany),Company,DE,FALSE,28,90,129,0.42,1.18,C6 Green chemistry,2.66,224,340,98
+DuPont (United States),Company,US,FALSE,45,25,111,0.12,0.2,C8 Health & risk,1.7,99,178,97
+Chengdu Organic Chemicals (China),Company,CN,FALSE,39,38,89,0.18,0.36,C3 Biodegradability,2.59,72,202,86
+Austrian Centre of Industrial Biotechnology (Austria),Company,AT,FALSE,6,82,88,0.38,5.02,C1 Feedstock,4.42,86,245,92
+Samsung (South Korea),Company,KR,FALSE,35,47,85,0.22,0.49,C3 Biodegradability,1.24,118,236,96
+ExxonMobil (United States),Company,US,FALSE,28,19,78,0.09,0.25,C8 Health & risk,2.47,72,90,94
+Procter & Gamble (United States),Company,US,FALSE,37,27,75,0.13,0.27,C1 Feedstock,2.65,77,108,96
+DSM (Netherlands),Company,NL,FALSE,30,32,74,0.15,0.39,C6 Green chemistry,4.64,76,140,93
+BASF (United States),Company,US,FALSE,16,42,73,0.2,0.96,C7 Pollution & microplastics,1.57,132,210,97
+Guangzhou Chemistry (China),Company,CN,FALSE,28,42,72,0.2,0.55,C1 Feedstock,2.51,62,205,86
+Polymer Competence Center Leoben (Austria),Company,AT,FALSE,9,59,69,0.27,2.41,C2 Polymer design,25.06,61,138,92
+Beijing Chemical Industry Research Institute (China),Company,CN,FALSE,18,46,68,0.21,0.94,C8 Health & risk,1.41,64,118,90
+Material (Belgium),Company,BE,FALSE,28,33,62,0.15,0.43,C6 Green chemistry,2.77,102,154,95
+Robert Bosch (Germany),Company,DE,FALSE,5,55,62,0.26,4.04,C7 Pollution & microplastics,2.61,79,137,94
+Novartis (Switzerland),Company,CH,FALSE,26,12,60,0.06,0.17,C3 Biodegradability,1.32,71,85,94
+Ferrari (Italy),Company,IT,FALSE,3,56,59,0.26,,C5 Life-cycle assessment,2.37,57,161,87
+Hitachi (Japan),Company,JP,FALSE,26,19,59,0.09,0.27,C4 Recycling & circularity,1.57,61,90,94
+General Electric (United States),Company,US,FALSE,8,5,58,0.02,0.23,C8 Health & risk,2.72,37,45,87
+Innovation Engineering (Italy),Company,IT,FALSE,19,39,58,0.18,0.75,C1 Feedstock,2.65,46,121,90
+AstraZeneca (United Kingdom),Company,GB,FALSE,24,14,56,0.07,0.21,C8 Health & risk,2.13,64,82,95
+Novamont (Italy),Company,IT,TRUE,16,34,55,0.16,0.78,C3 Biodegradability,3.5,60,86,92
+China National Petroleum Corporation (China),Company,CN,FALSE,5,50,55,0.23,3.67,C4 Recycling & circularity,1.16,72,120,90
+Evonik (Germany),Company,DE,FALSE,16,38,54,0.18,0.87,C8 Health & risk,1.78,51,97,92
+Pfizer (United States),Company,US,FALSE,27,14,52,0.07,0.19,C8 Health & risk,2.29,95,104,96
+Ford Motor Company (United States),Company,US,FALSE,17,26,51,0.12,0.56,C5 Life-cycle assessment,6.41,64,98,93
+Interface (United States),Company,US,FALSE,21,23,51,0.11,0.4,C1 Feedstock,1.42,113,146,96
+Petrobras (Brazil),Company,BR,FALSE,13,37,50,0.17,1.05,C4 Recycling & circularity,1.85,38,77,85
+Faculty (United Kingdom),Company,GB,FALSE,11,39,50,0.18,1.3,C1 Feedstock,1.99,217,250,98
+Eastman Chemical Company (United States),Company,US,FALSE,14,15,50,0.07,0.39,C8 Health & risk,2.39,66,129,93
+Bayer (Germany),Company,DE,FALSE,16,14,47,0.07,0.32,C8 Health & risk,2.13,63,84,94
+Shell (Netherlands),Company,NL,FALSE,16,17,44,0.08,0.39,C5 Life-cycle assessment,4.77,58,65,94
+Halliburton (United Kingdom),Company,GB,FALSE,21,15,41,0.07,0.26,C4 Recycling & circularity,1.34,21,23,83
+Saudi Aramco (Saudi Arabia),Company,SA,FALSE,4,37,41,0.17,,C5 Life-cycle assessment,5.69,40,55,91
+Tieto (Finland),Company,FI,FALSE,4,33,41,0.15,,C1 Feedstock,4.41,65,116,90
+Nanomaterials Research (United States),Company,US,FALSE,3,37,40,0.17,,C6 Green chemistry,7.72,83,102,95
+Schlumberger (Ireland),Company,IE,FALSE,17,23,40,0.11,0.5,C7 Pollution & microplastics,1.43,35,40,92
+Kompetenzzentrum Holz,Company,AT,FALSE,7,32,39,0.15,1.68,C1 Feedstock,5.8,27,63,85
+Reliance Industries (India),Company,IN,FALSE,13,26,39,0.12,0.73,C8 Health & risk,1.58,35,46,87
+Avantium (Netherlands),Company,NL,FALSE,3,36,39,0.17,,C5 Life-cycle assessment,8.38,34,74,91
+GTx (United States),Company,US,FALSE,14,20,38,0.09,0.52,C3 Biodegradability,1.69,106,111,96
+Pertamina (Indonesia),Company,ID,FALSE,0,38,38,0.18,,C3 Biodegradability,1.39,31,82,84
+Industriale Chimica (Italy),Company,IT,FALSE,16,15,38,0.07,0.34,C1 Feedstock,1.67,70,101,91
+Mitsubishi Chemical (Japan),Company,JP,FALSE,10,17,37,0.08,0.62,C8 Health & risk,2.08,46,58,90
+Takeda (Japan),Company,JP,FALSE,8,15,36,0.07,0.69,C3 Biodegradability,1.99,36,51,88
+Johnson & Johnson (United States),Company,US,FALSE,20,11,35,0.05,0.2,C3 Biodegradability,2.16,69,79,96
+IBM (United States),Company,US,FALSE,13,3,35,0.01,0.08,C4 Recycling & circularity,1.57,40,57,90
+Arkema (France),Company,FR,FALSE,7,27,35,0.13,1.42,C1 Feedstock,2.07,83,120,94
+Petronas (Malaysia),Company,MY,FALSE,6,27,35,0.13,1.65,C3 Biodegradability,1.4,46,73,88
+Google (United States),Company,US,FALSE,22,10,34,0.05,0.17,C8 Health & risk,1.47,31,31,91
+Eni (Italy),Company,IT,FALSE,5,12,34,0.06,0.88,C8 Health & risk,1.13,26,34,79
+Merck (Germany),Company,DE,FALSE,6,24,34,0.11,1.47,C8 Health & risk,1.24,53,69,93
+Total (France),Company,FR,FALSE,4,29,33,0.13,,C6 Green chemistry,5.2,58,88,93
+Nestlé (Switzerland),Company,CH,FALSE,7,25,33,0.12,1.31,C1 Feedstock,2.47,44,54,92
+"Toray Industries, Inc. (Japan)",Company,JP,FALSE,15,11,33,0.05,0.27,C4 Recycling & circularity,1.49,41,56,92
+Bio-Medical Science (South Korea),Company,KR,FALSE,6,27,33,0.13,1.65,C3 Biodegradability,2.29,67,122,90
+Ashland (United States),Company,US,FALSE,4,20,33,0.09,,C8 Health & risk,2.1,59,65,94
+Indian Oil Corporation (India),Company,IN,FALSE,10,12,32,0.06,0.44,C4 Recycling & circularity,1.45,21,29,80
+Toshiba (Japan),Company,JP,FALSE,24,1,31,0,0.02,C4 Recycling & circularity,2.05,17,24,83
+Unilever (United Kingdom),Company,GB,FALSE,9,11,31,0.05,0.45,C4 Recycling & circularity,1.49,43,47,92
+BioSurfaces (United States),Company,US,FALSE,3,28,31,0.13,,C3 Biodegradability,2.07,40,78,83
+Freeport-McMoRan (United States),Company,US,FALSE,8,9,31,0.04,0.41,C8 Health & risk,1.99,26,62,75
+Corning (United States),Company,US,FALSE,10,14,30,0.07,0.51,C8 Health & risk,1.41,52,64,94
+State Street (United States),Company,US,FALSE,10,16,30,0.07,0.59,C7 Pollution & microplastics,2.22,46,66,92
+LG Chem (South Korea),Company,KR,FALSE,23,5,30,0.02,0.08,C1 Feedstock,2.11,29,60,77
+Saudi Aramco (United States),Company,US,FALSE,5,24,30,0.11,1.76,C5 Life-cycle assessment,8.56,5,8,47
+Dow Chemical (India),Company,IN,FALSE,13,7,29,0.03,0.2,C8 Health & risk,1.99,35,66,89
+Piaggio (Italy),Company,IT,FALSE,7,21,29,0.1,1.1,C3 Biodegradability,2.08,35,78,79
+Mitsubishi Group (Japan),Company,JP,FALSE,16,2,29,0.01,0.05,C4 Recycling & circularity,1.6,40,49,92
+Catalyse,Company,FR,FALSE,10,18,29,0.08,0.66,C1 Feedstock,2.49,62,121,90
+Kingfa (China),Company,CN,FALSE,6,23,29,0.11,1.41,C1 Feedstock,2.81,24,45,72
+AkzoNobel (Netherlands),Company,NL,FALSE,12,5,29,0.02,0.15,C1 Feedstock,2.49,23,31,89
+Roche (Switzerland),Company,CH,FALSE,13,4,28,0.02,0.11,C8 Health & risk,1.92,29,46,87
+Monsanto (United States),Company,US,FALSE,7,0,28,0,0,C1 Feedstock,3.23,36,36,90
+Aditya Birla (India),Company,IN,FALSE,1,27,28,0.13,,C3 Biodegradability,1.75,74,87,91
+Xerox (Canada),Company,CA,FALSE,3,10,28,0.05,,C6 Green chemistry,9.8,13,39,73
+Saudi Arabia Basic Industries (United States),Company,US,FALSE,8,20,28,0.09,0.92,C8 Health & risk,2.2,47,73,91
+General Motors (United States),Company,US,FALSE,11,7,27,0.03,0.23,C4 Recycling & circularity,1.71,26,37,87
+"Merck & Co., Inc., Rahway, NJ, USA (United States)",Company,US,FALSE,6,14,27,0.07,0.86,C8 Health & risk,1.28,31,39,91
+Nippon Steel (Japan),Company,JP,FALSE,22,3,27,0.01,0.05,C5 Life-cycle assessment,8.64,17,21,87
+Baker Hughes (United States),Company,US,FALSE,11,14,27,0.07,0.47,C3 Biodegradability,1.82,8,11,76
+Exact Sciences (United States),Company,US,FALSE,9,18,27,0.08,0.73,C1 Feedstock,3.68,40,70,89
+Flanders Make (Belgium),Company,BE,FALSE,0,27,27,0.13,,C5 Life-cycle assessment,6.05,34,70,86
+PowerChina (China),Company,CN,FALSE,1,26,27,0.12,,C7 Pollution & microplastics,2.12,48,70,79
+Philips (Netherlands),Company,NL,FALSE,11,6,27,0.03,0.2,C8 Health & risk,1.57,34,58,83
+Saudi Arabia Basic Industries (Saudi Arabia),Company,SA,FALSE,1,26,27,0.12,,C8 Health & risk,2.56,40,66,85
+Ebara (Japan),Company,JP,FALSE,17,3,27,0.01,0.06,C8 Health & risk,1.71,23,47,85
+Nofima,Company,NO,FALSE,1,25,26,0.12,,C7 Pollution & microplastics,1.83,50,67,87
+China Railway Group (China),Company,CN,FALSE,1,25,26,0.12,,C4 Recycling & circularity,2.34,57,70,89
+Borealis (Austria),Company,AT,FALSE,0,26,26,0.12,,C4 Recycling & circularity,2.34,19,47,81
+Walker (United States),Company,US,FALSE,3,23,26,0.11,,C5 Life-cycle assessment,4.49,48,79,89
+Toyota Central Research and Development Laboratories (Japan),Company,JP,FALSE,9,12,26,0.06,0.49,C1 Feedstock,2.43,15,23,74
+Carestream (United States),Company,US,FALSE,5,0,25,0,0,C8 Health & risk,2.77,20,38,69
+Biobase (Germany),Company,DE,FALSE,2,23,25,0.11,,C1 Feedstock,6.87,50,67,88
+China State Construction Engineering (China),Company,CN,FALSE,0,25,25,0.12,,C4 Recycling & circularity,2.66,51,62,83
+Institut für Technische und Angewandte Physik (Germany),Company,DE,FALSE,20,2,25,0.01,0.04,C8 Health & risk,1.85,17,24,70
+NEC (Japan),Company,JP,FALSE,13,4,24,0.02,0.11,C1 Feedstock,3.39,8,9,63
+China National Offshore Oil Corporation (China),Company,CN,FALSE,6,18,24,0.08,1.1,C4 Recycling & circularity,1.33,38,55,74
+Abbott (United States),Company,US,FALSE,8,12,24,0.06,0.55,C3 Biodegradability,2.2,26,51,89
+Tecnologie Avanzate (Italy),Company,IT,TRUE,4,11,17,0.05,,C1 Feedstock,2.66,54,64,92
+5T Torino (Italy),Company,IT,TRUE,1,3,4,0.01,,,,20,37,62
+China,Country,CN,FALSE,9807,39503,49648,183.72,1.48,C6 Green chemistry,1.12,147,17282,99
+United States,Country,US,FALSE,12515,21875,39356,101.73,0.64,C2 Polymer design,1.09,186,22136,100
+India,Country,IN,FALSE,3392,15492,19384,72.05,1.68,C3 Biodegradability,1.44,142,8584,96
+Japan,Country,JP,FALSE,5047,5413,12051,25.17,0.39,C4 Recycling & circularity,1.15,137,5334,99
+Germany,Country,DE,FALSE,3024,7828,11784,36.41,0.95,C6 Green chemistry,1.44,147,9850,96
+United Kingdom,Country,GB,FALSE,2653,7498,11051,34.87,1.04,C7 Pollution & microplastics,1.67,160,12037,98
+Italy,Country,IT,FALSE,2221,7430,10099,34.55,1.23,C7 Pollution & microplastics,1.6,143,7510,97
+South Korea,Country,KR,FALSE,2455,5526,8219,25.7,0.83,C6 Green chemistry,1.23,125,4839,87
+Spain,Country,ES,FALSE,1871,6031,8178,28.05,1.18,C7 Pollution & microplastics,1.49,138,7056,97
+France,Country,FR,FALSE,2277,4935,7811,22.95,0.8,C6 Green chemistry,1.46,155,7880,100
+Canada,Country,CA,FALSE,1849,4767,7259,22.17,0.95,C7 Pollution & microplastics,1.37,140,5854,95
+Brazil,Country,BR,FALSE,1399,5081,6549,23.63,1.33,C3 Biodegradability,1.26,129,3351,94
+Australia,Country,AU,FALSE,1251,4434,5937,20.62,1.3,C7 Pollution & microplastics,1.83,129,6247,90
+Iran,Country,IR,FALSE,1114,4459,5589,20.74,1.47,C6 Green chemistry,1.92,107,2877,84
+Malaysia,Country,MY,FALSE,865,4610,5502,21.44,1.96,C1 Feedstock,1.47,116,4546,92
+Indonesia,Country,ID,FALSE,186,4661,4850,21.68,9.2,C2 Polymer design,1.8,114,1869,95
+Russia,Country,RU,FALSE,798,3712,4766,17.26,1.71,C6 Green chemistry,1.2,121,2596,94
+Poland,Country,PL,FALSE,844,3530,4536,16.42,1.54,C6 Green chemistry,1.46,108,3046,84
+The Netherlands,Country,NL,FALSE,1002,2884,4184,13.41,1.06,C7 Pollution & microplastics,2.04,118,4952,98
+Turkey,Country,TR,FALSE,632,3191,3888,14.84,1.85,C7 Pollution & microplastics,1.16,122,2236,90
+Egypt,Country,EG,FALSE,522,2909,3514,13.53,2.05,C8 Health & risk,1.45,112,3064,85
+Saudi Arabia,Country,SA,FALSE,246,2968,3226,13.8,4.43,C5 Life-cycle assessment,1.24,116,5305,87
+Taiwan,Country,TW,FALSE,1069,1884,3118,8.76,0.65,C8 Health & risk,1.21,94,1853,79
+Portugal,Country,PT,FALSE,689,2376,3096,11.05,1.27,C7 Pollution & microplastics,1.82,121,2948,88
+Thailand,Country,TH,FALSE,491,2412,2919,11.22,1.8,C1 Feedstock,1.35,105,1999,85
+Sweden,Country,SE,FALSE,734,1905,2874,8.86,0.95,C1 Feedstock,1.88,118,3227,86
+Belgium,Country,BE,FALSE,720,1933,2827,8.99,0.99,C2 Polymer design,1.68,115,3279,91
+Switzerland,Country,CH,FALSE,751,1632,2618,7.59,0.8,C5 Life-cycle assessment,1.5,117,3248,93
+Pakistan,Country,PK,FALSE,158,2290,2455,10.65,5.32,C3 Biodegradability,1.31,110,2959,86
+Czechia,Country,CZ,FALSE,457,1595,2172,7.42,1.28,C1 Feedstock,1.21,104,2296,82
+Mexico,Country,MX,FALSE,390,1665,2101,7.74,1.57,C7 Pollution & microplastics,1.34,112,1549,88
+Nigeria,Country,NG,FALSE,166,1915,2100,8.91,4.24,C8 Health & risk,1.48,114,1631,91
+Singapore,Country,SG,FALSE,589,1357,1981,6.31,0.85,C2 Polymer design,1.93,80,2050,69
+Austria,Country,AT,FALSE,323,1426,1811,6.63,1.62,C2 Polymer design,2.03,90,2115,76
+Greece,Country,GR,FALSE,375,1259,1763,5.86,1.23,C7 Pollution & microplastics,1.53,103,1706,81
+South Africa,Country,ZA,FALSE,227,1489,1749,6.92,2.41,C7 Pollution & microplastics,1.88,130,2115,93
+Denmark,Country,DK,FALSE,311,1368,1738,6.36,1.62,C7 Pollution & microplastics,2.14,100,2378,83
+Romania,Country,RO,FALSE,239,1384,1660,6.44,2.13,C1 Feedstock,1.35,79,1021,68
+Hong Kong,Country,HK,FALSE,377,1148,1582,5.34,1.12,C7 Pollution & microplastics,1.59,78,2064,73
+Finland,Country,FI,FALSE,345,1110,1555,5.16,1.18,C1 Feedstock,1.92,89,1647,77
+Norway,Country,NO,FALSE,215,1253,1519,5.83,2.14,C7 Pollution & microplastics,3.79,128,2622,92
+Bangladesh,Country,BD,FALSE,77,1294,1392,6.02,6.17,C7 Pollution & microplastics,2.47,86,1411,71
+Iraq,Country,IQ,FALSE,68,1225,1300,5.7,6.62,C2 Polymer design,1.61,80,992,69
+Argentina,Country,AR,FALSE,357,880,1290,4.09,0.91,C1 Feedstock,1.69,76,1036,74
+Ireland,Country,IE,FALSE,215,852,1097,3.96,1.46,C7 Pollution & microplastics,1.73,101,1512,80
+Israel,Country,IL,FALSE,384,580,1094,2.7,0.55,C2 Polymer design,1.51,79,964,70
+Vietnam,Country,VN,FALSE,68,963,1035,4.48,5.2,C7 Pollution & microplastics,2.31,86,1217,78
+Ukraine,Country,UA,FALSE,183,724,935,3.37,1.45,C8 Health & risk,1.3,70,634,67
+Colombia,Country,CO,FALSE,75,818,900,3.8,4,C7 Pollution & microplastics,1.52,73,702,75
+New Zealand,Country,NZ,FALSE,220,645,889,3,1.08,C7 Pollution & microplastics,2.45,100,1161,86
+Hungary,Country,HU,FALSE,225,595,879,2.77,0.97,C2 Polymer design,1.23,76,813,64
+Chile,Country,CL,FALSE,118,717,852,3.33,2.23,C7 Pollution & microplastics,2.33,99,1286,82
+Slovakia,Country,SK,FALSE,137,537,705,2.5,1.44,C1 Feedstock,1.53,84,795,79
+United Arab Emirates,Country,AE,FALSE,47,639,686,2.97,4.99,C5 Life-cycle assessment,2.21,87,1096,76
+Slovenia,Country,SI,FALSE,108,562,681,2.61,1.91,C7 Pollution & microplastics,2.1,72,845,67
+Algeria,Country,DZ,FALSE,128,534,666,2.48,1.53,C6 Green chemistry,1.85,76,581,77
+Ethiopia,Country,ET,FALSE,28,628,657,2.92,8.24,C2 Polymer design,1.75,88,647,81
+Morocco,Country,MA,FALSE,74,545,633,2.53,2.7,C7 Pollution & microplastics,1.73,91,789,89
+Philippines,Country,PH,FALSE,49,560,610,2.6,4.2,C7 Pollution & microplastics,3.14,83,611,75
+Serbia,Country,RS,FALSE,86,472,570,2.2,2.02,C7 Pollution & microplastics,1.4,73,551,61
+Tunisia,Country,TN,FALSE,83,466,553,2.17,2.06,C7 Pollution & microplastics,1.77,93,845,83
+Bulgaria,Country,BG,FALSE,135,339,529,1.58,0.92,C2 Polymer design,1.5,80,583,65
+Qatar,Country,QA,FALSE,48,390,440,1.81,2.98,C5 Life-cycle assessment,2.92,74,526,59
+Croatia,Country,HR,FALSE,87,336,431,1.56,1.42,C7 Pollution & microplastics,2.39,73,424,59
+Ecuador,Country,EC,FALSE,13,397,412,1.85,11.21,C7 Pollution & microplastics,2.5,73,541,72
+Jordan,Country,JO,FALSE,57,346,411,1.61,2.23,C8 Health & risk,1.31,74,508,62
+Sri Lanka,Country,LK,FALSE,68,333,403,1.55,1.8,C7 Pollution & microplastics,2.29,57,445,71
+Ghana,Country,GH,FALSE,23,364,388,1.69,5.81,C7 Pollution & microplastics,2.5,66,474,80
+Lithuania,Country,LT,FALSE,80,299,382,1.39,1.37,C1 Feedstock,1.78,66,382,57
+Kenya,Country,KE,FALSE,23,348,374,1.62,5.56,C7 Pollution & microplastics,2.37,76,508,71
+Peru,Country,PE,FALSE,27,323,350,1.5,4.39,C7 Pollution & microplastics,3.76,81,546,78
+Latvia,Country,LV,FALSE,75,243,326,1.13,1.19,C1 Feedstock,3.11,60,275,60
+Kazakhstan,Country,KZ,FALSE,15,302,320,1.4,7.39,C6 Green chemistry,1.39,61,323,66
+Nepal,Country,NP,FALSE,34,260,294,1.21,2.81,C8 Health & risk,1.6,61,305,66
+Lebanon,Country,LB,FALSE,30,233,263,1.08,2.85,C5 Life-cycle assessment,1.42,64,346,54
+Belarus,Country,BY,FALSE,59,181,250,0.84,1.13,C6 Green chemistry,1.51,46,208,51
+Estonia,Country,EE,FALSE,38,187,230,0.87,1.81,C1 Feedstock,1.89,75,402,63
+Cyprus,Country,CY,FALSE,15,193,208,0.9,4.72,C7 Pollution & microplastics,2.02,73,359,57
+Kuwait,Country,KW,FALSE,21,181,208,0.84,3.16,C5 Life-cycle assessment,3.03,49,266,41
+Oman,Country,OM,FALSE,20,186,207,0.87,3.42,C5 Life-cycle assessment,1.69,53,311,47
+Tanzania,Country,TZ,FALSE,15,156,173,0.73,3.82,C7 Pollution & microplastics,1.82,57,232,68
+Sudan,Country,SD,FALSE,20,137,157,0.64,2.52,C8 Health & risk,1.86,48,235,55
+Yemen,Country,YE,FALSE,17,134,151,0.62,2.89,C8 Health & risk,1.43,47,281,44
+Uzbekistan,Country,UZ,FALSE,8,131,145,0.61,6.01,C6 Green chemistry,1.89,37,139,73
+Uganda,Country,UG,FALSE,8,132,141,0.61,6.06,C8 Health & risk,1.69,62,226,61
+Venezuela,Country,VE,FALSE,49,71,137,0.33,0.53,C8 Health & risk,1.46,56,182,74
+North Macedonia,Country,MK,FALSE,25,110,136,0.51,1.62,C6 Green chemistry,2.27,38,171,35
+Macao,Country,MO,FALSE,4,128,132,0.6,,C8 Health & risk,1.4,21,179,33
+Azerbaijan,Country,AZ,FALSE,17,108,125,0.5,2.33,C6 Green chemistry,1.37,40,151,55
+Luxembourg,Country,LU,FALSE,9,113,122,0.53,4.61,C2 Polymer design,6.5,55,239,65
+Cameroon,Country,CM,FALSE,12,100,112,0.47,3.06,C5 Life-cycle assessment,2.29,51,140,72
+Palestine,Country,PS,FALSE,16,91,107,0.42,2.09,C8 Health & risk,1.73,42,170,43
+Puerto Rico,Country,PR,FALSE,35,56,98,0.26,0.59,C8 Health & risk,1.18,24,91,37
+Brunei,Country,BN,FALSE,0,92,92,0.43,,C7 Pollution & microplastics,3.73,35,189,20
+Cuba,Country,CU,FALSE,43,43,89,0.2,0.37,C1 Feedstock,1.52,28,99,27
+Tajikistan,Country,TJ,FALSE,35,52,88,0.24,0.55,C3 Biodegradability,1.76,24,136,21
+Zimbabwe,Country,ZW,FALSE,8,78,87,0.36,3.58,C5 Life-cycle assessment,1.88,52,132,58
+Costa Rica,Country,CR,FALSE,11,75,86,0.35,2.5,C7 Pollution & microplastics,2.99,43,132,57
+Libya,Country,LY,FALSE,3,78,82,0.36,,C8 Health & risk,2.35,28,100,28
+Uruguay,Country,UY,FALSE,6,69,81,0.32,4.22,C7 Pollution & microplastics,3.29,51,198,58
+Bosnia and Herzegovina,Country,BA,FALSE,19,61,80,0.28,1.18,C7 Pollution & microplastics,1.55,39,101,38
+Syria,Country,SY,FALSE,12,65,77,0.3,1.99,C8 Health & risk,1.85,34,60,31
+Botswana,Country,BW,FALSE,4,72,76,0.33,,C5 Life-cycle assessment,2.76,28,103,60
+Zambia,Country,ZM,FALSE,5,71,76,0.33,5.21,C8 Health & risk,2.02,40,144,49
+Georgia,Country,GE,FALSE,23,46,74,0.21,0.73,C3 Biodegradability,2.04,40,97,34
+Ivory Coast,Country,CI,FALSE,8,61,70,0.28,2.8,C8 Health & risk,2.03,35,136,64
+Iceland,Country,IS,FALSE,8,51,62,0.24,2.34,C7 Pollution & microplastics,4.15,54,190,63
+Benin,Country,BJ,FALSE,8,52,60,0.24,2.39,C7 Pollution & microplastics,2.38,31,123,48
+Moldova,Country,MD,FALSE,9,50,59,0.23,2.04,C6 Green chemistry,3.49,18,83,17
+Paraguay,Country,PY,FALSE,15,44,59,0.2,1.08,C6 Green chemistry,2.91,18,69,25
+Rwanda,Country,RW,FALSE,4,50,54,0.23,,C7 Pollution & microplastics,2.29,29,75,32
+Cambodia,Country,KH,FALSE,6,45,53,0.21,2.75,C7 Pollution & microplastics,2.88,35,84,56
+Senegal,Country,SN,FALSE,4,47,51,0.22,,C8 Health & risk,2.41,32,92,62
+Mauritius,Country,MU,FALSE,13,37,50,0.17,1.05,C7 Pollution & microplastics,2.86,44,108,48
+Chinese Academy of Sciences,Research organisation,CN,FALSE,810,3277,4146,15.24,1.49,C7 Pollution & microplastics,1.69,2119,14015,100
+Centre National de la Recherche Scientifique,Research organisation,FR,FALSE,1037,2416,3673,11.24,0.86,C6 Green chemistry,1.78,3176,16475,100
+University of Chinese Academy of Sciences,Research organisation,CN,FALSE,166,1586,1752,7.38,3.51,C7 Pollution & microplastics,1.94,1182,6102,100
+Sichuan University,Research organisation,CN,FALSE,348,1170,1521,5.44,1.23,C2 Polymer design,1.71,721,2100,100
+Zhejiang University,Research organisation,CN,FALSE,314,1042,1377,4.85,1.22,C6 Green chemistry,1.35,999,2908,100
+Tsinghua University,Research organisation,CN,FALSE,290,875,1183,4.07,1.11,C2 Polymer design,1.64,825,2349,100
+South China University of Technology,Research organisation,CN,FALSE,242,929,1176,4.32,1.41,C2 Polymer design,2.45,664,1939,100
+Shanghai Jiao Tong University,Research organisation,CN,FALSE,230,814,1051,3.79,1.3,C2 Polymer design,2.26,913,2236,100
+Beijing University of Chemical Technology,Research organisation,CN,FALSE,242,762,1005,3.54,1.16,C2 Polymer design,3.37,449,1147,99
+National University of Singapore,Research organisation,SG,FALSE,264,678,971,3.15,0.94,C2 Polymer design,1.78,907,2300,100
+Universidade de São Paulo,Research organisation,BR,FALSE,260,697,962,3.24,0.98,C1 Feedstock,1.36,791,1925,100
+University of Toronto,Research organisation,CA,FALSE,211,555,836,2.58,0.97,C7 Pollution & microplastics,1.73,870,1974,100
+Tongji University,Research organisation,CN,FALSE,178,651,830,3.03,1.34,C4 Recycling & circularity,1.39,569,1586,100
+The University of Tokyo,Research organisation,JP,FALSE,307,406,827,1.89,0.49,C5 Life-cycle assessment,1.92,614,1298,100
+Consejo Nacional de Investigaciones Científicas y Técnicas,Research organisation,AR,FALSE,196,596,823,2.77,1.12,C1 Feedstock,1.77,591,2510,100
+Universiti Putra Malaysia,Research organisation,MY,FALSE,142,670,816,3.12,1.73,C2 Polymer design,1.85,501,1510,100
+King Saud University,Research organisation,SA,FALSE,80,698,782,3.25,3.2,C8 Health & risk,1.37,977,2352,100
+University of Science and Technology of China,Research organisation,CN,FALSE,145,622,780,2.89,1.58,C2 Polymer design,2.68,514,1765,99
+Tianjin University,Research organisation,CN,FALSE,186,580,776,2.7,1.15,C6 Green chemistry,1.24,593,1413,100
+University of the Basque Country,Research organisation,ES,FALSE,158,563,771,2.62,1.31,C6 Green chemistry,4.14,569,1715,100
+Universiti Sains Malaysia,Research organisation,MY,FALSE,175,588,770,2.73,1.23,C1 Feedstock,2.25,525,1359,100
+Harvard University,Research organisation,US,FALSE,274,338,748,1.57,0.45,C3 Biodegradability,1.41,1127,2587,100
+Seoul National University,Research organisation,KR,FALSE,289,419,746,1.95,0.53,C6 Green chemistry,1.52,503,1366,100
+RWTH Aachen University,Research organisation,DE,FALSE,109,622,746,2.89,2.1,C5 Life-cycle assessment,3.19,584,1168,100
+Jilin University,Research organisation,CN,FALSE,154,583,743,2.71,1.39,C6 Green chemistry,1.66,457,1527,99
+Massachusetts Institute of Technology,Research organisation,US,FALSE,284,291,739,1.35,0.38,C3 Biodegradability,1.58,704,1585,100
+Ghent University,Research organisation,BE,FALSE,157,532,723,2.47,1.24,C2 Polymer design,3.09,718,1438,100
+University of Technology Malaysia,Research organisation,MY,FALSE,105,616,721,2.86,2.15,C2 Polymer design,2,516,1575,100
+Harbin Institute of Technology,Research organisation,CN,FALSE,120,590,711,2.74,1.81,C2 Polymer design,1.52,543,1242,100
+National Research Council,Research organisation,IT,FALSE,90,615,711,2.86,2.51,C7 Pollution & microplastics,2.91,812,2479,100
+Nanjing Forestry University,Research organisation,CN,FALSE,36,672,708,3.13,6.85,C1 Feedstock,3.42,500,1468,99
+Kyoto University,Research organisation,JP,FALSE,279,307,704,1.43,0.4,C4 Recycling & circularity,1.2,630,1342,100
+Fudan University,Research organisation,CN,FALSE,168,519,694,2.41,1.13,C3 Biodegradability,1.19,668,1642,100
+University of Naples Federico II,Research organisation,IT,FALSE,161,496,690,2.31,1.13,C1 Feedstock,1.49,615,1584,100
+Peking University,Research organisation,CN,FALSE,137,525,689,2.44,1.41,C4 Recycling & circularity,1.26,703,1907,100
+Sun Yat-sen University,Research organisation,CN,FALSE,120,562,683,2.61,1.72,C6 Green chemistry,1.41,637,1694,100
+Nanyang Technological University,Research organisation,SG,FALSE,221,448,674,2.08,0.74,C2 Polymer design,2.14,619,1341,100
+University of Michigan,Research organisation,US,FALSE,254,330,674,1.53,0.48,C5 Life-cycle assessment,1.35,665,1224,100
+University of Malaya,Research organisation,MY,FALSE,146,517,674,2.4,1.3,C1 Feedstock,1.48,529,1457,100
+University of Bologna,Research organisation,IT,FALSE,169,457,671,2.13,0.99,C1 Feedstock,2.25,613,1294,100
+KTH Royal Institute of Technology,Research organisation,SE,FALSE,199,422,667,1.96,0.78,C1 Feedstock,2.93,487,1158,100
+Huazhong University of Science and Technology,Research organisation,CN,FALSE,121,541,664,2.52,1.64,C6 Green chemistry,1.4,571,1302,100
+East China University of Science and Technology,Research organisation,CN,FALSE,132,529,663,2.46,1.47,C2 Polymer design,1.74,383,904,99
+Jiangnan University,Research organisation,CN,FALSE,93,569,662,2.65,2.25,C6 Green chemistry,2.02,458,1079,99
+Nanjing University,Research organisation,CN,FALSE,136,515,654,2.4,1.39,C7 Pollution & microplastics,2.16,559,1607,99
+ETH Zurich,Research organisation,CH,FALSE,158,447,650,2.08,1.04,C5 Life-cycle assessment,1.9,755,1572,100
+Tokyo Institute of Technology,Research organisation,JP,FALSE,305,238,646,1.11,0.29,C1 Feedstock,2.2,376,892,100
+McGill University,Research organisation,CA,FALSE,172,398,646,1.85,0.85,C1 Feedstock,1.47,649,1232,100
+Wageningen University & Research,Research organisation,NL,FALSE,88,530,642,2.46,2.21,C7 Pollution & microplastics,4.72,793,1682,100
+The University of Queensland,Research organisation,AU,FALSE,159,455,641,2.12,1.05,C7 Pollution & microplastics,1.61,856,1690,100
+Central South University,Research organisation,CN,FALSE,96,540,636,2.51,2.07,C4 Recycling & circularity,1.51,510,1283,100
+Chulalongkorn University,Research organisation,TH,FALSE,136,493,632,2.29,1.33,C1 Feedstock,1.69,480,1216,100
+Donghua University,Research organisation,CN,FALSE,152,471,623,2.19,1.14,C2 Polymer design,1.97,454,959,99
+Imperial College London,Research organisation,GB,FALSE,165,427,621,1.99,0.95,C5 Life-cycle assessment,1.35,988,1890,100
+Soochow University,Research organisation,CN,FALSE,99,509,608,2.37,1.89,C6 Green chemistry,1.75,503,1029,99
+University of Minho,Research organisation,PT,FALSE,224,373,606,1.73,0.61,C6 Green chemistry,2.38,355,917,99
+University of Hong Kong,Research organisation,HK,FALSE,169,416,605,1.93,0.9,C4 Recycling & circularity,1.22,599,1832,100
+Sapienza University of Rome,Research organisation,IT,FALSE,124,457,601,2.13,1.35,C6 Green chemistry,1.94,592,1222,100
+Purdue University West Lafayette,Research organisation,US,FALSE,129,415,596,1.93,1.18,C5 Life-cycle assessment,1.45,482,694,100
+Cornell University,Research organisation,US,FALSE,189,329,591,1.53,0.64,C6 Green chemistry,1.86,677,1134,100
+Technical University of Denmark,Research organisation,DK,FALSE,111,448,581,2.08,1.48,C5 Life-cycle assessment,3.29,655,1235,100
+Changchun Institute of Applied Chemistry,Research organisation,CN,FALSE,192,353,573,1.64,0.68,C3 Biodegradability,1.81,288,1704,98
+Shandong University,Research organisation,CN,FALSE,102,466,568,2.17,1.68,C7 Pollution & microplastics,1.27,486,1017,100
+University of Minnesota,Research organisation,US,FALSE,182,302,565,1.4,0.61,C5 Life-cycle assessment,1.57,493,896,100
+Nankai University,Research organisation,CN,FALSE,109,453,565,2.11,1.53,C7 Pollution & microplastics,2.39,471,1013,99
+Wuhan University,Research organisation,CN,FALSE,183,370,563,1.72,0.74,C6 Green chemistry,1.77,579,1197,100
+Zhengzhou University,Research organisation,CN,FALSE,66,494,562,2.3,2.75,C6 Green chemistry,2.14,469,1080,99
+University of British Columbia,Research organisation,CA,FALSE,125,395,553,1.84,1.16,C5 Life-cycle assessment,1.43,704,1256,100
+Dalian University of Technology,Research organisation,CN,FALSE,120,431,552,2,1.32,C2 Polymer design,2.09,390,988,99
+University of Pisa,Research organisation,IT,FALSE,159,350,550,1.63,0.81,C1 Feedstock,2.38,490,1084,100
+Universidade Estadual de Campinas (UNICAMP),Research organisation,BR,FALSE,193,347,550,1.61,0.66,C6 Green chemistry,1.56,404,957,99
+Georgia Institute of Technology,Research organisation,US,FALSE,196,335,547,1.56,0.63,C2 Polymer design,2.9,447,810,100
+Johns Hopkins University,Research organisation,US,FALSE,175,280,547,1.3,0.59,C3 Biodegradability,1.59,760,1670,100
+Inserm,Research organisation,FR,FALSE,195,302,545,1.4,0.57,C8 Health & risk,1.31,1106,2945,100
+Korea University,Research organisation,KR,FALSE,122,416,545,1.93,1.25,C7 Pollution & microplastics,1.63,566,1444,100
+University of Aveiro,Research organisation,PT,FALSE,96,445,545,2.07,1.7,C7 Pollution & microplastics,3.01,439,894,99
+Universidade Federal do Rio de Janeiro,Research organisation,BR,FALSE,125,396,540,1.84,1.16,C1 Feedstock,1.26,416,906,100
+Stanford University,Research organisation,US,FALSE,159,324,539,1.51,0.75,C5 Life-cycle assessment,1.26,722,1308,100
+University of Tehran,Research organisation,IR,FALSE,134,400,538,1.86,1.1,C6 Green chemistry,1.79,473,1112,100
+North Carolina State University,Research organisation,US,FALSE,165,325,531,1.51,0.72,C1 Feedstock,1.52,583,958,100
+UNSW Sydney,Research organisation,AU,FALSE,95,407,527,1.89,1.57,C5 Life-cycle assessment,2.04,598,1161,100
+Polish Academy of Sciences,Research organisation,PL,FALSE,139,355,523,1.65,0.94,C1 Feedstock,1.97,552,1587,100
+National Research Centre,Research organisation,EG,FALSE,83,422,522,1.96,1.87,C8 Health & risk,1.48,348,740,99
+Jiangsu University,Research organisation,CN,FALSE,41,479,520,2.23,4.29,C1 Feedstock,1.63,498,991,100
+Nanjing Tech University,Research organisation,CN,FALSE,71,446,517,2.07,2.31,C6 Green chemistry,2.66,349,740,99
+Pennsylvania State University,Research organisation,US,FALSE,178,287,516,1.33,0.59,C6 Green chemistry,1.46,505,816,100
+University of Illinois Urbana-Champaign,Research organisation,US,FALSE,160,332,516,1.54,0.76,C2 Polymer design,2.51,475,879,100
+Hong Kong Polytechnic University,Research organisation,HK,FALSE,129,365,515,1.7,1.04,C4 Recycling & circularity,1.35,504,1170,99
+Michigan State University,Research organisation,US,FALSE,215,246,511,1.14,0.42,C5 Life-cycle assessment,2.24,521,852,100
+State Key Laboratory of Pollution Control and Resource Reuse,Research organisation,CN,FALSE,56,453,509,2.11,2.97,C7 Pollution & microplastics,3.54,358,1346,98
+Universidade do Porto,Research organisation,PT,FALSE,106,392,506,1.82,1.36,C7 Pollution & microplastics,2.03,472,1242,100
+University College London,Research organisation,GB,FALSE,123,359,503,1.67,1.07,C5 Life-cycle assessment,2.27,781,1457,100
+Universidade Estadual Paulista (Unesp),Research organisation,BR,FALSE,98,403,503,1.87,1.51,C2 Polymer design,1.43,368,954,100
+KU Leuven,Research organisation,BE,FALSE,127,344,503,1.6,0.99,C5 Life-cycle assessment,1.81,567,946,100
+Cairo University,Research organisation,EG,FALSE,98,389,501,1.81,1.46,C8 Health & risk,2.08,327,856,99
+The University of Texas at Austin,Research organisation,US,FALSE,195,184,499,0.86,0.35,C6 Green chemistry,1.65,395,634,100
+Hanyang University,Research organisation,KR,FALSE,180,306,498,1.42,0.62,C6 Green chemistry,1.52,450,1059,100
+Aristotle University of Thessaloniki,Research organisation,GR,FALSE,113,350,495,1.63,1.14,C1 Feedstock,2.3,294,678,99
+Xi'an Jiaotong University,Research organisation,CN,FALSE,76,408,490,1.9,1.97,C2 Polymer design,3.82,441,819,99
+The University of Osaka,Research organisation,JP,FALSE,219,211,487,0.98,0.35,C1 Feedstock,1.41,366,781,100
+Hokkaido University,Research organisation,JP,FALSE,174,275,485,1.28,0.58,C1 Feedstock,2.03,525,990,100
+University of Manchester,Research organisation,GB,FALSE,116,325,485,1.51,1.03,C5 Life-cycle assessment,1.88,596,963,100
+Utrecht University,Research organisation,NL,FALSE,146,315,484,1.46,0.79,C7 Pollution & microplastics,2.93,743,1519,100
+Russian Academy of Sciences,Research organisation,RU,FALSE,186,257,480,1.2,0.51,C6 Green chemistry,1.36,410,1148,100
+Qingdao University of Science and Technology,Research organisation,CN,FALSE,82,397,479,1.85,1.78,C1 Feedstock,1.68,275,653,98
+University of North Carolina at Chapel Hill,Research organisation,US,FALSE,102,322,475,1.5,1.16,C6 Green chemistry,1.59,577,1076,100
+Korea Advanced Institute of Science and Technology,Research organisation,KR,FALSE,173,257,475,1.2,0.55,C6 Green chemistry,2.38,299,718,99
+National Taiwan University,Research organisation,TW,FALSE,156,293,471,1.36,0.69,C6 Green chemistry,1.53,347,904,100
+Universidad Nacional Autónoma de México,Research organisation,MX,FALSE,91,370,471,1.72,1.49,C1 Feedstock,1.4,445,946,100
+Université Claude Bernard Lyon 1,Research organisation,FR,FALSE,147,303,468,1.41,0.76,C2 Polymer design,1.39,670,1940,100
+Southeast University,Research organisation,CN,FALSE,50,416,466,1.93,3.06,C4 Recycling & circularity,1.55,465,919,99
+Saveetha University,Research organisation,IN,FALSE,0,466,466,2.17,,C3 Biodegradability,1.77,697,1556,100
+Texas A&M University,Research organisation,US,FALSE,132,306,465,1.42,0.85,C2 Polymer design,2.32,486,833,100
+Universitat Politècnica de València,Research organisation,ES,FALSE,121,336,463,1.56,1.02,C1 Feedstock,2.52,263,630,99
+Monash University,Research organisation,AU,FALSE,145,276,458,1.28,0.7,C6 Green chemistry,1.72,509,951,100
+Kyushu University,Research organisation,JP,FALSE,169,246,456,1.14,0.53,C7 Pollution & microplastics,1.5,481,934,100
+Universidade Federal de São Carlos,Research organisation,BR,FALSE,110,340,456,1.58,1.14,C1 Feedstock,1.39,353,992,99
+National Institute of Advanced Industrial Science and Technology,Research organisation,JP,FALSE,232,194,454,0.9,0.31,C1 Feedstock,1.41,301,609,99
+University of Lisbon,Research organisation,PT,FALSE,67,382,453,1.78,2.09,C6 Green chemistry,2.2,521,1209,100
+University of Florida,Research organisation,US,FALSE,130,286,451,1.33,0.81,C2 Polymer design,2.24,587,952,100
+University of Palermo,Research organisation,IT,FALSE,109,318,451,1.48,1.07,C7 Pollution & microplastics,1.67,410,857,99
+National University of Malaysia,Research organisation,MY,FALSE,75,375,450,1.74,1.84,C1 Feedstock,1.63,358,901,99
+Delft University of Technology,Research organisation,NL,FALSE,124,314,450,1.46,0.93,C2 Polymer design,2.72,415,729,99
+Academy of Scientific and Innovative Research,Research organisation,IN,FALSE,9,439,448,2.04,17.91,C6 Green chemistry,2.07,335,914,99
+Universiti Teknologi MARA,Research organisation,MY,FALSE,66,381,447,1.77,2.12,C2 Polymer design,2.1,242,695,98
+"Rutgers, The State University of New Jersey",Research organisation,US,FALSE,149,226,445,1.05,0.56,C8 Health & risk,1.28,522,977,100
+Technical University of Munich,Research organisation,DE,FALSE,82,341,445,1.59,1.53,C1 Feedstock,1.93,602,1040,100
+Lomonosov Moscow State University,Research organisation,RU,FALSE,104,321,442,1.49,1.13,C6 Green chemistry,1.63,397,1079,100
+Eindhoven University of Technology,Research organisation,NL,FALSE,163,253,439,1.18,0.57,C2 Polymer design,2.95,277,631,99
+University of Milan,Research organisation,IT,FALSE,110,292,437,1.36,0.97,C7 Pollution & microplastics,1.57,504,900,100
+National Interuniversity Consortium of Materials Science and Technology,Research organisation,IT,FALSE,84,353,437,1.64,1.54,C1 Feedstock,3.44,306,1097,99
+Tohoku University,Research organisation,JP,FALSE,182,226,436,1.05,0.46,C4 Recycling & circularity,1.48,451,778,100
+Beijing National Laboratory for Molecular Sciences,Research organisation,CN,FALSE,87,346,433,1.61,1.46,C6 Green chemistry,2.54,297,1357,97
+Politecnico di Torino,Research organisation,IT,TRUE,82,345,432,1.6,1.54,C2 Polymer design,2.84,392,867,99
+University of Wisconsin–Madison,Research organisation,US,FALSE,109,262,429,1.22,0.88,C4 Recycling & circularity,1.48,481,777,100
+Nagoya University,Research organisation,JP,FALSE,204,165,429,0.77,0.3,C4 Recycling & circularity,1.65,324,661,99
+Sungkyunkwan University,Research organisation,KR,FALSE,126,291,427,1.35,0.85,C2 Polymer design,2.19,382,926,99
+University of Alberta,Research organisation,CA,FALSE,89,289,425,1.34,1.19,C1 Feedstock,1.26,486,758,100
+Iowa State University,Research organisation,US,FALSE,152,251,425,1.17,0.61,C1 Feedstock,2.21,290,539,99
+University of Tennessee at Knoxville,Research organisation,US,FALSE,86,320,423,1.49,1.37,C2 Polymer design,3.58,368,911,99
+Zhejiang University of Technology,Research organisation,CN,FALSE,50,372,422,1.73,2.73,C7 Pollution & microplastics,1.83,399,789,99
+Yonsei University,Research organisation,KR,FALSE,106,308,419,1.43,1.07,C3 Biodegradability,1.66,446,1018,100
+Indian Institute of Technology Kharagpur,Research organisation,IN,FALSE,136,238,417,1.11,0.64,C1 Feedstock,1.45,199,303,98
+Universitat Politècnica de Catalunya,Research organisation,ES,FALSE,126,285,417,1.33,0.83,C2 Polymer design,1.73,357,689,99
+University of Cambridge,Research organisation,GB,FALSE,127,243,414,1.13,0.7,C2 Polymer design,2.44,617,932,100
+University of Massachusetts Amherst,Research organisation,US,FALSE,98,247,414,1.15,0.93,C2 Polymer design,1.57,530,932,100
+"University of California, Berkeley",Research organisation,US,FALSE,139,224,413,1.04,0.59,C5 Life-cycle assessment,1.53,561,1127,100
+"University of California, Davis",Research organisation,US,FALSE,139,234,412,1.09,0.62,C8 Health & risk,1.33,586,923,100
+University of Washington,Research organisation,US,FALSE,135,215,408,1,0.58,C2 Polymer design,2.3,584,986,100
+East China Normal University,Research organisation,CN,FALSE,33,371,405,1.73,4.13,C7 Pollution & microplastics,5.01,501,1078,99
+Virginia Tech,Research organisation,US,FALSE,116,204,405,0.95,0.65,C8 Health & risk,1.62,371,529,100
+Vellore Institute of Technology University,Research organisation,IN,FALSE,19,385,404,1.79,7.44,C7 Pollution & microplastics,1.53,334,535,99
+Northwest A&F University,Research organisation,CN,FALSE,28,376,404,1.75,4.93,C7 Pollution & microplastics,3.42,398,892,99
+Washington State University,Research organisation,US,FALSE,117,267,403,1.24,0.84,C2 Polymer design,2.32,391,736,99
+University of Nottingham,Research organisation,GB,FALSE,127,226,402,1.05,0.65,C6 Green chemistry,1.88,395,695,100
+RMIT University,Research organisation,AU,FALSE,69,329,400,1.53,1.75,C5 Life-cycle assessment,2.1,405,762,99
+Korea Institute of Science and Technology,Research organisation,KR,FALSE,147,236,399,1.1,0.59,C6 Green chemistry,1.72,282,1003,99
+Indian Institute of Technology Roorkee,Research organisation,IN,FALSE,131,261,398,1.21,0.73,C8 Health & risk,1.28,275,417,99
+University of Padua,Research organisation,IT,FALSE,102,270,397,1.26,0.97,C4 Recycling & circularity,1.25,524,836,100
+Shenzhen University,Research organisation,CN,FALSE,34,363,397,1.69,3.92,C4 Recycling & circularity,1.44,479,969,99
+Jinan University,Research organisation,CN,FALSE,49,346,395,1.61,2.59,C7 Pollution & microplastics,1.59,401,799,99
+Norwegian University of Science and Technology,Research organisation,NO,FALSE,69,308,395,1.43,1.64,C7 Pollution & microplastics,2.97,610,1290,100
+Chongqing University,Research organisation,CN,FALSE,65,329,394,1.53,1.86,C4 Recycling & circularity,1.33,386,669,99
+AGH University of Krakow,Research organisation,PL,FALSE,38,355,394,1.65,3.43,C3 Biodegradability,1.51,292,798,99
+Xiamen University,Research organisation,CN,FALSE,51,339,391,1.58,2.44,C7 Pollution & microplastics,2.85,476,1003,100
+Sorbonne Université,Research organisation,FR,FALSE,102,268,391,1.25,0.96,C7 Pollution & microplastics,2.46,909,2593,100
+Karlsruhe Institute of Technology,Research organisation,DE,FALSE,79,297,389,1.38,1.38,C6 Green chemistry,4.23,467,850,99
+Université de Montpellier,Research organisation,FR,FALSE,99,269,389,1.25,1,C1 Feedstock,2.21,701,1899,100
+University of Bayreuth,Research organisation,DE,FALSE,46,324,388,1.51,2.59,C7 Pollution & microplastics,3.73,358,666,99
+Consejo Superior de Investigaciones Científicas,Research organisation,ES,FALSE,123,239,387,1.11,0.71,C1 Feedstock,1.85,504,1194,100
+École Polytechnique Fédérale de Lausanne,Research organisation,CH,FALSE,130,214,386,1,0.6,C6 Green chemistry,1.87,397,648,100
+Northwestern University,Research organisation,US,FALSE,99,242,382,1.13,0.9,C2 Polymer design,4.72,375,585,99
+Guangdong University of Technology,Research organisation,CN,FALSE,16,366,382,1.7,8.4,C7 Pollution & microplastics,1.85,315,755,98
+Politecnico di Milano,Research organisation,IT,FALSE,72,307,382,1.43,1.57,C5 Life-cycle assessment,3.18,305,591,99
+King Abdulaziz University,Research organisation,SA,FALSE,56,324,381,1.51,2.12,C3 Biodegradability,1.37,575,1144,100
+Universität Hamburg,Research organisation,DE,FALSE,72,267,379,1.24,1.36,C2 Polymer design,1.9,499,1003,100
+The University of Melbourne,Research organisation,AU,FALSE,104,264,378,1.23,0.93,C5 Life-cycle assessment,2.04,603,1114,100
+Universidade Nova de Lisboa,Research organisation,PT,FALSE,103,266,375,1.24,0.95,C1 Feedstock,2.82,433,1056,99
+City University of Hong Kong,Research organisation,HK,FALSE,77,290,374,1.35,1.38,C7 Pollution & microplastics,2.45,469,1054,99
+Universidade Federal do Rio Grande do Sul,Research organisation,BR,FALSE,75,292,372,1.36,1.43,C2 Polymer design,1.74,233,539,99
+Lund University,Research organisation,SE,FALSE,100,236,371,1.1,0.87,C1 Feedstock,2.51,401,662,100
+University of Oxford,Research organisation,GB,FALSE,75,273,370,1.27,1.34,C5 Life-cycle assessment,1.58,760,1317,100
+South China Agricultural University,Research organisation,CN,FALSE,21,347,369,1.61,6.07,C7 Pollution & microplastics,3.25,278,718,98
+University of Birmingham,Research organisation,GB,FALSE,57,291,366,1.35,1.87,C7 Pollution & microplastics,2.34,585,1058,100
+University of Coimbra,Research organisation,PT,FALSE,53,310,365,1.44,2.15,C1 Feedstock,2.13,353,794,99
+Beijing Forestry University,Research organisation,CN,FALSE,44,318,362,1.48,2.65,C1 Feedstock,3.87,217,537,98
+University of Groningen,Research organisation,NL,FALSE,83,231,359,1.07,1.02,C1 Feedstock,3.07,391,705,99
+Chinese Academy of Agricultural Sciences,Research organisation,CN,FALSE,26,333,359,1.55,4.7,C7 Pollution & microplastics,2.15,464,1210,99
+Northeast Forestry University,Research organisation,CN,FALSE,57,299,356,1.39,1.93,C1 Feedstock,3.43,238,420,98
+University of Waterloo,Research organisation,CA,FALSE,65,253,355,1.18,1.43,C6 Green chemistry,1.84,343,568,99
+Agricultural Research Service,Research organisation,US,FALSE,157,157,353,0.73,0.37,C1 Feedstock,2.41,316,855,99
+Rede de Química e Tecnologia,Research organisation,PT,FALSE,88,262,353,1.22,1.09,C1 Feedstock,2.33,312,988,99
+State Key Laboratory of Polymer Physics and Chemistry,Research organisation,CN,FALSE,156,187,352,0.87,0.44,C3 Biodegradability,1.76,238,1251,97
+Beijing Institute of Technology,Research organisation,CN,FALSE,65,280,351,1.3,1.58,C6 Green chemistry,2.25,319,537,99
+Hunan University,Research organisation,CN,FALSE,52,298,351,1.39,2.1,C7 Pollution & microplastics,1.74,286,619,99
+Research Center for Eco-Environmental Sciences,Research organisation,CN,FALSE,34,317,351,1.47,3.42,C7 Pollution & microplastics,3.5,401,1301,98
+University of Twente,Research organisation,NL,FALSE,106,206,351,0.96,0.71,C3 Biodegradability,1.86,397,737,99
+Northwestern Polytechnical University,Research organisation,CN,FALSE,85,262,350,1.22,1.13,C2 Polymer design,5.76,285,494,98
+Universidade de Santiago de Compostela,Research organisation,ES,FALSE,95,244,350,1.13,0.94,C8 Health & risk,1.59,348,632,99
+Indian Institute of Technology Delhi,Research organisation,IN,FALSE,62,270,347,1.26,1.6,C3 Biodegradability,1.52,297,446,99
+UniTo,Research organisation,IT,TRUE,69,228,314,1.06,1.21,C6 Green chemistry,1.86,529,910,100
+Università degli Studi del Piemonte Orientale “Amedeo Avogadro”,Research organisation,IT,TRUE,21,43,64,0.2,0.75,C6 Green chemistry,2.68,130,177,95
+Istituto Zooprofilattico Sperimentale del Piemonte Liguria e Valle d'Aosta,Research organisation,IT,TRUE,2,25,27,0.12,,C7 Pollution & microplastics,7.06,60,99,91
+Accademia Albertina delle Belle Arti,Research organisation,IT,TRUE,1,18,19,0.08,,C3 Biodegradability,1.59,35,54,82
+Istituto Nazionale di Ricerca Metrologica,Research organisation,IT,TRUE,2,16,18,0.07,,C7 Pollution & microplastics,2.65,26,38,80
+Center for Sustainable Future Technologies,Research organisation,IT,TRUE,1,14,16,0.07,,C1 Feedstock,3.39,25,50,72
+Centro Ricerche FIAT,Research organisation,IT,TRUE,5,10,15,0.05,0.73,C4 Recycling & circularity,2.32,26,34,85
+Azienda Sanitaria Locale Alessandria,Research organisation,IT,TRUE,1,14,15,0.07,,C1 Feedstock,3.62,12,22,68
+Institute for Sustainable Plant Protection,Research organisation,IT,TRUE,1,12,13,0.06,,C8 Health & risk,1.48,42,60,86
+Institute of Ecosystem Study,Research organisation,IT,TRUE,3,9,12,0.04,,,,29,35,72
+UniTo hospital,Research organisation,IT,TRUE,2,9,11,0.04,,C8 Health & risk,2.45,105,111,94
+Torino e-district,Research organisation,IT,TRUE,0,9,9,0.04,,,,39,59,80
+Agenzia Regionale per la Protezione Ambientale del Piemonte,Research organisation,IT,TRUE,2,6,8,0.03,,C7 Pollution & microplastics,8.34,20,32,66
+University of Gastronomic Sciences,Research organisation,IT,TRUE,0,8,8,0.04,,C7 Pollution & microplastics,7.14,9,32,50
+Candiolo Cancer Institute,Research organisation,IT,TRUE,1,6,7,0.03,,C4 Recycling & circularity,2.07,16,28,66
+Azienda Sanitaria Locale di Asti,Research organisation,IT,TRUE,2,4,6,0.02,,,,5,11,48
+Ospedale San Giovanni Bosco,Research organisation,IT,TRUE,0,5,5,0.02,,C3 Biodegradability,3.78,57,74,88
+Research Institute on Sustainable Economic Growth,Research organisation,IT,TRUE,0,4,4,0.02,,,,4,8,20
+"Institute of Electronics, Computer and Telecommunication Engineering",Research organisation,IT,TRUE,1,2,3,0.01,,,,8,12,47
+CSI Piemonte,Research organisation,IT,TRUE,0,3,3,0.01,,,,7,9,45
+Italian institute for Genomic Medicine,Research organisation,IT,TRUE,1,2,3,0.01,,,,11,17,56
+Environment Park,Research organisation,IT,TRUE,0,3,3,0.01,,,,3,4,43

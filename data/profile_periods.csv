@@ -1,0 +1,2925 @@
+corpus,actor_id,period,n,c1,c2,c3,c4,c5,c6,c7,c8
+Publications,A:World,All years,315064,34841,4373,83424,108867,13502,9181,33073,81897
+Publications,C:US,All years,39356,3577,595,9734,13993,1688,1099,3316,10770
+Publications,C:BR,All years,6549,823,104,2188,1666,229,163,801,1874
+Publications,C:PT,All years,3096,483,33,885,861,156,140,591,639
+Publications,O:I17974374,All years,962,145,17,287,243,23,23,112,289
+Publications,O:I182534213,All years,506,45,4,132,128,21,8,108,152
+Publications,C:RO,All years,1660,248,12,584,560,66,40,178,368
+Publications,A:Italy,All years,10099,1573,107,2836,3238,632,381,1692,2168
+Publications,C:CA,All years,7259,971,100,1692,2362,390,218,1044,1865
+Publications,C:IT,All years,10099,1573,107,2836,3238,632,381,1692,2168
+Publications,O:I181391015,All years,550,77,10,191,133,14,25,42,185
+Publications,O:I93860229,All years,382,56,10,119,160,52,8,25,35
+Publications,C:HR,All years,431,41,6,109,118,17,14,108,129
+Publications,C:IN,All years,19384,2344,240,7397,5466,771,614,1899,4853
+Publications,O:I145894827,All years,417,67,2,120,144,20,10,21,106
+Publications,C:CZ,All years,2172,290,21,692,713,93,49,225,514
+Publications,C:ZA,All years,1749,166,19,467,522,113,54,346,506
+Publications,C:HK,All years,1582,134,11,349,650,72,34,264,361
+Publications,C:KR,All years,8219,983,103,2643,2337,259,295,847,2113
+Publications,O:I193775966,All years,419,38,8,184,109,16,17,39,84
+Publications,O:I219193219,All years,596,53,5,126,226,37,18,46,175
+Publications,C:CN,All years,49648,5232,705,11759,18655,1621,1617,5566,12530
+Publications,C:DE,All years,11784,1714,140,2626,4176,604,493,1670,2566
+Publications,O:I3019562804,All years,73,3,1,13,25,4,4,12,25
+Publications,O:I889804353,All years,62,6,2,17,16,5,4,17,24
+Publications,C:PL,All years,4536,600,40,1518,1359,195,193,430,1115
+Publications,C:NZ,All years,889,98,4,213,286,52,16,229,225
+Publications,C:DK,All years,1738,180,16,356,607,158,31,390,451
+Publications,O:I96673099,All years,581,72,7,122,222,82,7,118,144
+Publications,C:FR,All years,7811,1136,129,1713,2588,271,332,1008,1984
+Publications,O:I100532134,All years,468,57,9,108,126,9,17,48,160
+Publications,O:I1294671590,All years,3673,603,68,778,1253,96,191,517,783
+Publications,O:I183067930,All years,1051,49,33,318,443,46,32,91,185
+Publications,C:JP,All years,12051,1406,122,2952,4791,408,289,780,2588
+Publications,O:I73613424,All years,454,71,7,169,141,17,13,16,74
+Publications,C:IR,All years,5589,437,32,1948,1548,130,313,363,1526
+Publications,C:HU,All years,879,77,15,231,329,37,29,66,236
+Publications,C:GB,All years,11051,1045,141,2440,4149,702,330,1941,2398
+Publications,C:RU,All years,4766,467,29,1488,1416,90,166,407,1278
+Publications,O:I1313323035,All years,480,69,0,166,96,3,19,52,128
+Publications,C:NL,All years,4184,647,86,1019,1242,297,119,894,795
+Publications,C:ES,All years,8178,1259,101,2137,2400,447,315,1281,2223
+Publications,O:I142263535,All years,402,39,6,171,128,19,22,25,45
+Publications,C:TW,All years,3118,296,38,868,956,90,102,261,983
+Publications,A:Piedmont,All years,955,184,19,244,326,65,52,120,183
+Publications,O:Politecnico di Torino,All years,432,121,17,91,156,39,35,12,61
+Publications,O:I169108374,All years,771,180,18,187,200,41,93,37,201
+Publications,O:I154526488,All years,545,19,1,161,172,6,6,21,185
+Publications,O:I879563668,All years,503,68,10,180,101,15,14,63,143
+Publications,C:BG,All years,529,50,11,187,161,20,17,45,103
+Publications,O:I74801974,All years,827,125,10,193,359,68,16,64,119
+Publications,O:I154851008,All years,398,54,7,122,125,20,6,15,132
+Publications,O:I19894307,All years,389,95,7,97,107,12,21,52,95
+Publications,C:UA,All years,935,53,11,216,322,22,26,74,315
+Publications,O:I83558840,All years,375,117,4,93,81,17,27,58,82
+Publications,C:SG,All years,1981,185,53,720,727,98,77,192,299
+Publications,O:I165932596,All years,971,108,24,377,344,57,36,128,125
+Publications,O:I157725225,All years,516,34,18,83,219,12,14,24,161
+Publications,C:CH,All years,2618,328,24,694,873,168,66,341,604
+Publications,C:ID,All years,4850,331,121,1356,1707,165,46,849,1246
+Publications,C:BE,All years,2827,419,66,664,992,188,121,321,701
+Publications,O:I23946033,All years,538,41,1,220,157,16,28,36,135
+Publications,C:MY,All years,5502,895,93,1992,1514,238,108,620,1353
+Publications,O:I139322472,All years,770,192,11,321,161,33,9,74,180
+Publications,O:I4576418,All years,721,110,20,317,189,31,24,72,138
+Publications,C:AU,All years,5937,435,72,1310,2314,366,166,1138,1247
+Publications,O:I111979921,All years,382,18,25,77,199,14,14,11,63
+Publications,O:I56590836,All years,458,39,9,105,169,21,23,35,120
+Publications,C:SE,All years,2874,598,25,514,952,194,122,369,798
+Publications,O:I165143802,All years,641,101,3,192,174,29,10,108,157
+Publications,O:I63966007,All years,739,76,3,310,254,26,31,27,103
+Publications,O:I22299242,All years,704,83,0,174,292,19,20,39,141
+Publications,C:AR,All years,1290,241,11,321,287,21,16,176,452
+Publications,O:I151201029,All years,823,161,9,216,169,11,10,100,304
+Publications,O:I20231570,All years,689,38,6,173,300,37,16,84,153
+Publications,O:I99065089,All years,1183,181,27,293,491,69,31,123,195
+Publications,O:I99542240,All years,523,114,4,228,120,9,19,51,77
+Publications,O:I90610280,All years,1176,261,40,354,377,34,70,60,238
+Publications,O:I114027177,All years,475,16,2,94,164,8,22,15,180
+Publications,O:I115592961,All years,520,94,4,116,207,16,16,60,156
+Publications,O:I19820366,All years,4146,418,69,1039,1317,148,170,734,1058
+Publications,O:I4210165038,All years,1752,204,29,368,579,66,76,356,432
+Publications,C:GR,All years,1763,286,23,434,615,90,44,284,462
+Publications,O:I76130692,All years,1377,112,22,366,537,66,54,154,286
+Publications,C:TR,All years,3888,446,49,1139,990,158,103,475,1153
+Publications,C:MX,All years,2101,255,21,694,555,78,58,296,571
+Publications,O:I9360294,All years,671,167,3,204,223,47,35,64,139
+Publications,C:AT,All years,1811,371,51,406,726,120,50,245,335
+Publications,O:I102335020,All years,389,86,7,57,143,20,48,22,65
+Publications,O:I35440088,All years,650,89,6,184,253,53,15,84,105
+Publications,O:I5124864,All years,386,63,3,81,164,28,21,27,77
+Publications,O:I3923682,All years,608,50,9,179,268,16,31,23,100
+Publications,O:I889458895,All years,605,30,4,146,256,29,13,68,137
+Publications,O:I24185976,All years,1521,177,36,545,516,45,60,83,299
+Publications,C:EG,All years,3514,364,26,1006,936,124,103,194,1328
+Publications,O:I141945490,All years,553,80,11,123,205,34,15,75,106
+Publications,O:I194450716,All years,743,49,8,157,321,15,36,39,197
+Publications,O:I887968799,All years,746,156,10,151,340,102,33,86,100
+Publications,C:NG,All years,2100,169,33,546,615,103,22,299,806
+Publications,C:TH,All years,2919,436,50,990,693,129,45,327,897
+Publications,O:I134820265,All years,387,79,0,124,129,11,14,50,84
+Publications,O:I47508984,All years,621,71,7,152,259,36,10,77,127
+Publications,C:JO,All years,411,29,5,110,140,18,6,18,140
+Publications,C:SA,All years,3226,334,48,959,1003,171,114,302,917
+Publications,O:I28022161,All years,782,84,8,242,191,29,19,89,279
+Publications,C:TN,All years,553,84,2,113,130,14,12,103,201
+Publications,O:I136199984,All years,748,22,3,279,222,13,12,24,210
+Publications,O:I154425047,All years,425,59,4,125,130,20,9,37,113
+Publications,O:I130442723,All years,372,33,9,119,124,8,10,34,97
+Publications,O:I76903346,All years,365,86,4,113,88,15,14,69,73
+Publications,O:I62916508,All years,445,95,5,98,135,29,13,62,102
+Publications,O:I185261750,All years,836,104,9,201,256,44,13,152,200
+Publications,C:QA,All years,440,27,4,100,197,55,14,57,90
+Publications,O:I28407311,All years,485,67,4,125,225,39,12,37,72
+Publications,O:I139264467,All years,746,59,6,252,217,11,33,40,190
+Publications,O:I151746483,All years,355,55,1,87,125,23,19,54,76
+Publications,O:I87445476,All years,490,29,26,122,225,20,19,29,81
+Publications,O:I138689650,All years,397,44,4,93,172,17,14,43,71
+Publications,O:I130238516,All years,565,86,10,152,199,38,22,36,125
+Publications,O:I24943067,All years,694,29,7,218,256,17,19,61,145
+Publications,O:I686019,All years,394,34,2,158,135,25,17,23,76
+Publications,C:PK,All years,2455,277,12,849,725,117,65,297,699
+Publications,O:I86987016,All years,667,216,5,177,219,57,49,39,123
+Publications,C:CM,All years,112,5,2,18,38,11,0,9,53
+Publications,O:I201448701,All years,408,23,13,107,125,15,14,40,114
+Publications,O:I157485424,All years,475,89,5,157,156,17,33,12,67
+Publications,O:I58716616,All years,399,30,9,178,100,7,20,23,74
+Publications,O:I135310074,All years,429,63,2,86,220,25,18,19,81
+Publications,O:I1285764155,All years,27,0,2,7,10,1,1,0,9
+Publications,O:I66867065,All years,405,21,3,58,120,18,16,213,71
+Publications,O:I4210088555,All years,24,0,0,14,2,0,0,0,8
+Publications,C:SI,All years,681,110,12,131,233,53,10,150,163
+Publications,O:I47689461,All years,356,135,11,104,108,17,13,25,58
+Publications,O:I4210117026,All years,72,20,2,15,21,2,3,1,24
+Publications,C:IE,All years,1097,175,12,362,314,50,16,199,274
+Publications,O:I4210093057,All years,50,11,0,16,11,0,2,2,16
+Publications,O:I82724352,All years,447,60,13,165,121,10,7,36,145
+Publications,O:I33849332,All years,674,110,7,208,155,21,15,60,247
+Publications,O:I135598925,All years,456,23,7,103,168,20,13,72,89
+Publications,C:SK,All years,705,119,13,218,236,31,16,48,177
+Publications,O:I99682543,All years,606,73,7,316,153,29,42,22,73
+Publications,O:I33213144,All years,451,45,14,75,196,27,7,31,113
+Publications,O:I145487455,All years,501,55,1,130,64,6,15,17,271
+Publications,C:DZ,All years,666,66,3,166,251,19,36,27,209
+Publications,O:I51409038,All years,28,2,1,2,5,2,0,0,16
+Publications,O:I9617848,All years,417,79,10,145,123,24,8,23,90
+Publications,O:I87216513,All years,511,104,6,149,165,49,15,37,144
+Publications,C:PS,All years,107,15,1,14,38,6,1,2,48
+Publications,C:MA,All years,633,80,5,146,158,15,19,115,198
+Publications,C:BA,All years,80,9,0,22,22,5,3,13,26
+Publications,C:BJ,All years,60,5,0,15,20,4,1,15,22
+Publications,O:I158842170,All years,394,26,2,87,181,20,6,52,64
+Publications,O:I116953780,All years,830,42,9,198,400,44,13,118,146
+Publications,O:I4575257,All years,498,56,6,156,130,14,22,36,142
+Publications,O:I8961855,All years,471,73,6,139,111,10,15,63,135
+Publications,O:I47720641,All years,664,46,5,115,294,17,27,21,185
+Publications,O:I14243506,All years,515,70,5,135,241,29,13,63,74
+Publications,C:FI,All years,1555,330,10,374,499,105,34,210,345
+Publications,O:I204983213,All years,711,49,15,187,340,28,12,81,128
+Publications,O:I32597200,All years,723,97,31,170,292,74,18,102,118
+Publications,O:I4210131959,All years,522,67,0,180,111,10,20,8,201
+Publications,O:I205237279,All years,565,44,6,117,189,18,20,142,155
+Publications,O:I4210092888,All years,573,42,11,274,142,16,23,4,131
+Publications,C:AE,All years,686,83,12,203,260,65,15,110,120
+Publications,O:I45129253,All years,503,49,2,156,177,49,17,37,103
+Publications,O:I1292669757,All years,31,0,0,0,22,3,0,0,6
+Publications,C:BD,All years,1392,97,6,399,321,36,14,361,503
+Publications,O:I24603500,All years,414,62,9,102,106,9,9,66,125
+Publications,O:I108290504,All years,550,145,3,235,152,22,15,75,93
+Publications,O:I4210163439,All years,41,20,0,17,10,2,1,1,6
+Publications,O:I181326427,All years,623,102,17,251,189,13,26,33,108
+Publications,C:LK,All years,403,38,2,110,128,22,9,97,122
+Publications,O:I27837315,All years,674,8,6,213,186,39,14,37,211
+Publications,C:VN,All years,1035,105,1,241,355,53,23,251,270
+Publications,O:I91045830,All years,465,41,15,104,179,27,13,48,109
+Publications,O:I172675005,All years,674,54,20,242,250,35,28,58,100
+Publications,O:I95457486,All years,413,47,7,71,196,27,5,30,96
+Publications,O:I141596103,All years,453,56,6,91,159,29,29,68,95
+Publications,O:I79619799,All years,366,19,7,78,152,24,6,90,90
+Publications,O:I177909021,All years,456,70,8,152,166,20,15,41,112
+Publications,O:I205783295,All years,591,49,9,182,204,25,32,50,122
+Publications,O:I907500627,All years,33,3,0,8,6,2,0,1,18
+Publications,O:I68891433,All years,347,57,1,140,123,13,8,23,45
+Publications,O:I165779595,All years,378,15,5,86,130,33,4,49,119
+Publications,O:I158708052,All years,632,118,11,185,150,24,7,97,193
+Publications,O:I76569877,All years,466,20,4,87,249,21,8,55,78
+Publications,O:I39804081,All years,391,36,1,69,128,2,22,101,90
+Publications,C:NO,All years,1519,110,20,257,425,112,20,605,400
+Publications,O:I60053951,All years,463,129,0,152,128,29,5,22,139
+Publications,O:I98358874,All years,450,93,17,58,203,47,12,55,48
+Publications,O:I885383172,All years,450,81,9,125,146,11,8,47,112
+Publications,O:I75027704,All years,423,73,21,127,168,18,23,46,66
+Publications,O:I173911158,All years,425,104,6,118,140,15,14,18,88
+Publications,O:I102322142,All years,445,23,0,140,104,11,5,58,148
+Publications,O:I145311948,All years,547,18,2,231,137,12,2,25,160
+Publications,O:I97018004,All years,539,33,6,160,227,29,8,69,119
+Publications,O:I130701444,All years,547,56,22,141,255,35,23,29,70
+Publications,O:I40120149,All years,370,29,2,52,170,25,7,50,88
+Publications,O:I99364266,All years,448,74,3,141,134,20,27,57,100
+Publications,O:I125839683,All years,351,34,5,67,135,13,23,10,106
+Publications,O:I1316910977,All years,111,11,1,16,30,4,3,6,49
+Publications,C:ET,All years,657,62,16,224,184,35,10,44,232
+Publications,O:I67348948,All years,47,1,0,11,6,2,2,4,26
+Publications,C:RS,All years,570,69,6,180,191,32,16,84,166
+Publications,O:I191208505,All years,391,53,2,56,119,14,23,117,94
+Publications,O:I169381384,All years,359,122,6,109,108,21,29,20,43
+Publications,O:I71267560,All years,690,114,7,238,201,23,8,91,186
+Publications,O:I17145004,All years,350,21,28,59,144,5,29,16,89
+Publications,O:I189158943,All years,437,35,3,115,135,13,13,72,136
+Publications,O:I162868743,All years,776,68,10,214,303,33,28,90,150
+Publications,O:I241749,All years,414,22,14,45,238,33,18,36,63
+Publications,C:PH,All years,610,45,14,132,188,30,3,201,159
+Publications,O:I4210155898,All years,437,166,7,184,108,23,29,22,78
+Publications,O:I1332737386,All years,58,1,0,4,15,1,0,0,41
+Publications,O:I154099455,All years,568,61,4,142,223,26,20,76,131
+Publications,O:I180857899,All years,52,1,0,14,5,0,3,0,31
+Publications,O:I86519309,All years,499,23,7,109,149,17,24,11,190
+Publications,O:I130343225,All years,816,154,21,329,156,16,13,81,247
+Publications,O:I98285908,All years,487,76,2,127,197,11,16,21,74
+Publications,O:I4210152478,All years,352,23,7,164,94,7,15,5,68
+Publications,O:I1280527723,All years,29,5,0,3,9,1,0,0,15
+Publications,O:I4210133143,All years,153,13,2,22,43,6,7,7,83
+Publications,O:I130769515,All years,516,44,6,146,203,21,22,29,99
+Publications,O:I27357992,All years,552,69,16,132,238,29,14,43,139
+Publications,C:IQ,All years,1300,60,29,259,527,53,36,59,465
+Publications,O:I118136607,All years,27,0,0,2,16,1,3,1,6
+Publications,O:I1292974536,All years,51,9,0,1,32,14,0,1,6
+Publications,O:I159548981,All years,30,1,0,10,8,3,1,7,4
+Publications,O:I60134161,All years,429,58,1,83,244,10,5,14,55
+Publications,C:CL,All years,852,113,5,234,229,26,24,208,221
+Publications,O:I1312222531,All years,353,94,1,107,56,5,9,16,126
+Publications,O:I187531555,All years,371,103,6,71,133,22,11,35,83
+Publications,C:IL,All years,1094,59,23,437,359,26,39,60,214
+Publications,O:I143593769,All years,663,84,16,174,287,16,31,37,133
+Publications,O:I73305655,All years,29,8,0,6,3,2,3,1,11
+Publications,C:CO,All years,900,99,8,248,265,58,12,144,262
+Publications,O:I72951846,All years,403,83,13,126,137,27,14,45,81
+Publications,C:CY,All years,208,13,1,38,73,11,4,44,55
+Publications,C:KW,All years,208,18,0,70,84,27,3,27,40
+Publications,O:I201537933,All years,436,25,6,85,223,26,7,25,94
+Publications,C:MK,All years,136,12,1,51,50,7,9,13,31
+Publications,O:I82951845,All years,400,32,8,109,184,36,10,66,63
+Publications,O:I913481162,All years,642,109,11,103,138,39,14,318,110
+Publications,C:PY,All years,59,10,0,18,14,3,5,5,23
+Publications,C:GE,All years,74,1,0,40,22,1,0,8,11
+Publications,O:I859038795,All years,405,48,9,75,108,8,12,21,171
+Publications,O:I157773358,All years,683,41,6,182,259,14,28,55,175
+Publications,C:CU,All years,89,15,1,21,21,1,1,6,28
+Publications,O:I84218800,All years,412,48,2,50,147,22,1,54,142
+Publications,O:I137902535,All years,531,89,5,159,168,25,16,48,117
+Publications,O:I135705104,All years,27,0,0,0,22,10,0,1,2
+Publications,O:I75390827,All years,1005,208,47,250,398,30,39,30,210
+Publications,C:LV,All years,326,112,4,101,124,22,7,26,38
+Publications,O:I99464096,All years,503,69,6,73,232,39,18,33,136
+Publications,C:GH,All years,388,11,6,45,156,24,6,102,159
+Publications,C:PE,All years,350,21,1,88,75,15,1,138,96
+Publications,O:I126520041,All years,780,94,29,179,323,29,37,42,163
+Publications,C:IS,All years,62,2,1,7,14,5,0,27,20
+Publications,O:I89652312,All years,404,29,2,136,54,43,1,145,95
+Publications,C:KZ,All years,320,19,3,98,128,11,13,30,84
+Publications,O:I94624287,All years,351,47,4,173,83,21,8,23,50
+Publications,O:I143413998,All years,479,89,6,94,194,19,18,29,119
+Publications,O:I127558574,All years,74,18,3,19,17,0,10,0,14
+Publications,O:I900890020,All years,451,71,3,173,148,26,11,79,61
+Publications,O:I31746571,All years,527,39,7,98,267,46,19,59,80
+Publications,O:I16733864,All years,471,45,4,113,149,13,21,40,145
+Publications,O:I139660479,All years,636,52,4,115,332,18,14,72,116
+Publications,O:I114531698,All years,646,157,5,151,242,14,31,12,122
+Publications,O:I861853513,All years,601,117,7,133,249,39,34,87,101
+Publications,C:LT,All years,382,75,6,104,118,27,7,52,88
+Publications,O:I5023651,All years,646,105,7,160,167,19,17,84,242
+Publications,O:I1283582996,All years,60,6,0,21,13,0,0,1,19
+Publications,O:I83019370,All years,439,76,18,68,241,15,19,3,50
+Publications,O:I205349734,All years,485,109,2,68,198,10,12,41,99
+Publications,O:I4210107087,All years,129,22,4,33,27,6,10,16,51
+Publications,O:I74680897,All years,75,22,0,30,17,2,1,9,19
+Publications,O:I37461747,All years,563,44,8,218,175,29,29,34,118
+Publications,O:I122140584,All years,540,75,8,172,160,27,11,46,149
+Publications,O:I200284239,All years,350,46,1,103,69,21,7,42,145
+Publications,C:PR,All years,98,1,1,29,27,4,1,12,30
+Publications,C:ZW,All years,87,3,0,15,30,7,2,8,38
+Publications,C:MU,All years,50,6,0,18,12,2,0,15,7
+Publications,O:I60858718,All years,545,120,2,100,158,27,25,172,95
+Publications,O:I4210131237,All years,69,15,24,3,34,2,2,1,7
+Publications,O:I54009628,All years,388,60,6,113,91,13,18,152,65
+Publications,O:I4210138501,All years,359,21,1,114,75,25,9,81,122
+Publications,O:I16609230,All years,351,21,7,74,154,14,10,64,62
+Publications,O:I159176309,All years,379,54,10,93,168,18,10,52,79
+Publications,O:I134687103,All years,517,94,5,124,209,29,40,32,125
+Publications,O:I881766915,All years,654,19,5,93,276,17,23,148,175
+Publications,C:VE,All years,137,13,1,39,29,4,4,8,52
+Publications,C:EE,All years,230,48,1,43,90,15,6,45,42
+Publications,O:I848706,All years,427,45,13,177,122,20,10,40,66
+Publications,C:AZ,All years,125,15,0,29,54,6,5,14,36
+Publications,O:I185163786,All years,381,47,1,138,92,17,13,19,112
+Publications,O:I1342131907,All years,31,1,0,1,16,1,1,1,11
+Publications,C:BY,All years,250,13,0,62,92,4,11,16,80
+Publications,O:I123338534,All years,64,6,2,25,15,1,5,10,12
+Publications,O:UniTo,All years,314,36,2,71,114,16,17,40,76
+Publications,O:I193662353,All years,484,52,3,125,118,39,4,149,90
+Publications,O:I4210138594,All years,353,91,1,105,64,13,23,36,110
+Publications,O:I44892455,All years,36,5,0,19,3,0,0,0,9
+Publications,O:I167027274,All years,708,268,23,203,224,37,23,72,132
+Publications,O:I74894318,All years,27,1,0,8,7,3,0,0,12
+Publications,O:I4210144289,All years,351,5,1,44,79,13,0,129,156
+Publications,O:I4210155236,All years,711,132,9,221,152,20,16,217,126
+Publications,O:I105036370,All years,56,3,0,12,11,0,1,3,31
+Publications,C:CI,All years,70,3,0,13,16,1,0,9,37
+Publications,O:I2250650973,All years,85,7,3,28,25,4,2,0,25
+Publications,O:I1306287861,All years,29,5,0,2,16,2,0,0,6
+Publications,O:I1291425158,All years,34,0,0,4,15,1,1,2,13
+Publications,O:I1338503839,All years,30,0,0,8,13,0,0,0,11
+Publications,O:I65143321,All years,59,4,0,7,32,2,0,1,16
+Publications,O:I173709673,All years,32,2,0,5,16,1,2,1,10
+Publications,O:I4210090489,All years,509,28,0,123,139,31,3,189,155
+Publications,C:TJ,All years,88,15,0,41,31,3,1,5,12
+Publications,O:I19880235,All years,442,54,0,169,144,8,21,38,65
+Publications,O:I159948400,All years,395,20,5,82,130,4,9,66,146
+Publications,O:I4210165351,All years,26,7,0,1,12,0,2,0,4
+Publications,O:I175669267,All years,25,2,0,0,4,0,1,0,18
+Publications,O:I21370196,All years,495,126,1,148,127,15,7,56,126
+Publications,O:I139024713,All years,382,50,2,59,170,18,17,74,66
+Publications,O:I118019719,All years,28,1,0,5,9,0,1,0,14
+Publications,O:I111599522,All years,662,127,8,200,183,14,39,59,191
+Publications,O:I876193797,All years,404,42,8,163,142,21,4,65,66
+Publications,O:I4210116048,All years,433,49,7,104,253,27,32,13,25
+Publications,O:I197347611,All years,545,49,9,168,180,25,18,93,152
+Publications,O:I55712492,All years,422,24,6,97,132,14,10,81,139
+Publications,O:I4210164117,All years,26,4,2,7,11,5,1,1,4
+Publications,O:I168719708,All years,374,27,2,67,129,18,11,96,102
+Publications,O:I4210090962,All years,15,0,0,1,12,0,0,0,2
+Publications,O:I4210096856,All years,58,17,0,11,25,4,2,0,12
+Publications,C:UZ,All years,145,9,2,30,48,8,8,14,38
+Publications,C:YE,All years,151,13,4,35,43,8,4,21,56
+Publications,C:LB,All years,263,37,1,53,105,16,5,35,74
+Publications,O:I4210138243,All years,88,43,0,30,40,3,5,4,6
+Publications,O:I150264550,All years,34,3,1,4,10,4,3,2,10
+Publications,O:I4210119016,All years,38,7,0,9,20,0,2,2,9
+Publications,C:EC,All years,412,48,5,97,132,37,6,108,100
+Publications,O:I118347220,All years,24,9,0,3,12,1,0,1,3
+Publications,C:LU,All years,122,28,11,15,50,9,7,8,34
+Publications,O:I4210114297,All years,62,10,2,17,26,2,5,1,12
+Publications,C:OM,All years,207,27,4,63,78,15,4,24,45
+Publications,O:I4210151091,All years,7,0,0,1,5,0,0,1,1
+Publications,O:I923382979,All years,78,2,0,10,16,1,1,3,50
+Publications,O:I38877650,All years,562,59,6,132,216,22,35,46,124
+Publications,C:NP,All years,294,14,5,84,79,16,5,39,122
+Publications,O:I204778367,All years,395,41,3,53,159,50,4,123,118
+Publications,O:I4210140030,All years,50,7,0,14,3,0,2,5,31
+Publications,O:I7923278,All years,44,5,1,7,14,9,2,1,15
+Publications,O:I4210164971,All years,39,28,0,10,16,14,1,6,0
+Publications,O:I4210140553,All years,31,0,0,17,5,2,1,0,7
+Publications,C:UG,All years,141,14,1,24,42,7,3,21,62
+Publications,O:I200439574,All years,54,9,0,6,15,4,3,1,25
+Publications,O:I1295346377,All years,28,10,0,3,4,0,0,0,14
+Publications,O:I2802964274,All years,51,8,1,11,15,3,4,3,13
+Publications,O:I4210108542,All years,40,4,1,10,13,0,1,6,12
+Publications,C:UY,All years,81,6,2,12,22,0,4,28,25
+Publications,O:I106994412,All years,168,26,2,40,88,11,4,9,22
+Publications,O:I4210116579,All years,68,10,0,12,25,0,1,3,25
+Publications,O:I4210167157,All years,25,3,0,10,3,0,0,0,12
+Publications,O:I4210161781,All years,55,17,1,51,17,7,0,9,4
+Publications,O:I180726961,All years,397,24,6,67,197,23,10,44,81
+Publications,O:I4210089156,All years,13,3,0,1,4,2,0,1,5
+Publications,C:BW,All years,76,13,1,11,28,9,1,14,21
+Publications,O:I4210106541,All years,89,11,4,61,13,0,1,0,11
+Publications,O:I257179599,All years,27,3,1,13,6,3,0,0,1
+Publications,O:I31683504,All years,362,155,10,108,110,19,7,17,47
+Publications,O:I62856769,All years,30,2,1,6,10,11,2,1,1
+Publications,O:I4210122849,All years,27,0,1,4,10,1,0,0,11
+Publications,C:KH,All years,53,2,1,12,17,0,0,16,12
+Publications,O:I164928964,All years,34,0,0,10,13,2,2,1,11
+Publications,C:TZ,All years,173,29,2,26,39,13,1,33,69
+Publications,O:I4210166413,All years,31,1,0,4,10,1,0,0,16
+Publications,C:SD,All years,157,3,1,42,36,7,1,6,76
+Publications,O:I101479585,All years,369,68,2,76,67,9,13,126,125
+Publications,O:I4210115317,All years,33,5,0,6,17,2,1,2,8
+Publications,O:I36527812,All years,41,4,0,11,19,3,1,0,4
+Publications,O:I1341412227,All years,35,3,0,0,19,1,1,0,12
+Publications,C:MD,All years,59,7,2,7,19,4,6,1,21
+Publications,O:I158108717,All years,24,2,0,2,11,0,1,3,6
+Publications,O:I4387154587,All years,30,7,0,6,8,0,0,1,11
+Publications,O:I4210136064,All years,39,3,0,13,11,2,1,1,16
+Publications,O:I151809719,All years,35,8,0,1,19,0,2,1,8
+Publications,O:I4210112383,All years,33,9,0,6,14,4,0,1,12
+Publications,O:I4210128183,All years,15,6,1,1,7,1,2,0,1
+Publications,C:KE,All years,374,37,2,65,101,11,7,93,141
+Publications,O:I4210145660,All years,33,3,0,20,5,0,2,0,5
+Publications,O:I4210150908,All years,16,6,1,2,5,3,2,2,3
+Publications,O:I168192097,All years,37,2,0,7,7,2,0,2,20
+Publications,O:I4210161797,All years,59,7,2,11,30,6,2,10,5
+Publications,O:I4210136559,All years,18,1,1,4,4,1,1,5,6
+Publications,O:I4210159094,All years,28,3,0,1,9,0,8,0,9
+Publications,O:I32393484,All years,50,4,0,14,32,4,2,5,4
+Publications,O:I4210128200,All years,29,8,0,5,16,1,4,1,3
+Publications,O:I1330063522,All years,35,2,1,20,5,2,2,1,10
+Publications,C:CR,All years,86,9,2,33,14,0,2,27,16
+Publications,O:UniTo hospital,All years,11,0,0,1,2,1,0,0,7
+Publications,O:I4210120325,All years,25,19,0,4,8,2,1,3,2
+Publications,C:SY,All years,77,3,0,30,11,1,3,2,37
+Publications,O:I188703185,All years,38,1,0,17,12,0,1,1,9
+Publications,C:SN,All years,51,3,0,8,12,3,1,5,32
+Publications,C:ZM,All years,76,0,1,5,25,1,1,9,40
+Publications,O:I1300504238,All years,29,3,0,16,10,1,1,4,6
+Publications,O:I4210136872,All years,17,5,0,4,3,1,0,4,3
+Publications,O:I4210107172,All years,39,25,2,3,7,1,0,0,4
+Publications,C:RW,All years,54,1,0,8,20,0,1,13,24
+Publications,O:I182023848,All years,35,5,0,13,8,2,0,4,9
+Publications,O:I4210111911,All years,6,0,0,3,4,0,0,0,0
+Publications,O:I4210113975,All years,12,2,0,4,3,0,0,4,0
+Publications,O:I4210135984,All years,27,4,0,3,5,0,0,1,18
+Publications,C:LY,All years,82,6,0,20,14,2,0,3,50
+Publications,O:I4210095558,All years,4,0,0,0,2,0,0,2,2
+Publications,O:I4210100607,All years,3,0,0,3,0,0,0,0,0
+Publications,O:I103084370,All years,33,2,0,10,14,6,5,0,3
+Publications,O:I4210096850,All years,19,1,0,8,2,0,0,4,6
+Publications,O:I98227222,All years,55,6,2,15,22,2,2,5,8
+Publications,O:I4210143841,All years,41,0,1,6,15,10,1,5,7
+Publications,O:I4210107917,All years,27,11,2,8,7,0,2,1,2
+Publications,O:I4210144430,All years,29,9,1,13,8,0,2,1,3
+Publications,C:MO,All years,132,5,1,34,47,6,1,16,48
+Publications,O:I4210166196,All years,27,1,0,1,1,0,0,20,13
+Publications,O:I4210108106,All years,40,5,1,14,8,3,9,2,6
+Publications,O:I4210123319,All years,3,0,0,0,2,0,0,0,1
+Publications,O:I114007267,All years,8,0,0,0,0,0,0,7,1
+Publications,O:I4210128445,All years,9,2,0,1,2,0,1,3,2
+Publications,O:I4210121781,All years,26,4,1,6,9,3,0,5,12
+Publications,C:BN,All years,92,11,1,20,22,5,1,36,33
+Publications,O:I4210120238,All years,27,0,0,6,7,1,2,6,9
+Publications,O:I31762744,All years,8,1,0,2,4,0,0,6,0
+Publications,O:I4210135994,All years,26,1,1,2,21,1,0,0,2
+Publications,O:I4210145126,All years,28,4,0,13,10,4,0,5,5
+Publications,O:I85461943,All years,466,51,10,219,132,33,13,71,78
+Publications,O:I4210119509,All years,5,0,0,5,0,0,0,0,0
+Publications,O:I4210162562,All years,26,1,1,1,21,0,2,2,2
+Publications,O:I4210116480,All years,27,2,1,3,16,7,1,6,0
+Publications,O:I194343955,All years,38,4,1,14,18,0,0,3,4
+Publications,O:I4210139629,All years,3,0,0,1,2,0,0,1,0
+Publications,O:I4210148225,All years,25,1,0,1,23,1,0,0,1
+Publications,O:I4210110110,All years,3,0,0,0,0,0,0,3,0
+Publications,O:I4210140063,All years,4,0,0,0,4,0,0,0,0
+Publications,A:World,1980-1999,21086,1404,109,3822,8931,191,222,392,6991
+Publications,C:US,1980-1999,4966,273,19,940,2184,36,45,61,1588
+Publications,C:PL,1980-1999,162,11,0,24,60,3,2,1,66
+Publications,C:CH,1980-1999,235,49,0,66,78,3,2,4,58
+Publications,C:GB,1980-1999,900,68,5,161,370,6,10,9,298
+Publications,O:I111979921,1980-1999,41,0,0,2,24,0,2,0,13
+Publications,O:I63966007,1980-1999,164,4,0,88,49,1,0,0,26
+Publications,C:JP,1980-1999,1591,145,0,336,682,13,16,16,448
+Publications,O:I22299242,1980-1999,118,10,0,41,39,1,1,1,25
+Publications,C:GR,1980-1999,129,1,0,16,47,1,0,1,68
+Publications,C:DE,1980-1999,932,88,6,173,388,8,24,11,289
+Publications,O:I35440088,1980-1999,45,21,0,18,6,0,0,0,9
+Publications,C:TN,1980-1999,4,0,0,3,0,0,0,0,1
+Publications,O:I136199984,1980-1999,136,5,0,66,54,0,0,0,13
+Publications,C:FR,1980-1999,599,37,0,112,253,3,6,7,204
+Publications,O:I154526488,1980-1999,48,6,0,8,29,2,0,0,5
+Publications,O:I135310074,1980-1999,58,4,0,2,41,0,0,0,11
+Publications,C:BE,1980-1999,174,9,1,56,50,0,0,1,64
+Publications,O:I1285764155,1980-1999,7,0,0,3,3,0,0,0,1
+Publications,C:ES,1980-1999,276,17,3,58,72,3,1,1,135
+Publications,C:SK,1980-1999,31,2,0,6,15,3,0,2,4
+Publications,C:CZ,1980-1999,120,11,0,45,31,0,1,0,35
+Publications,C:CN,1980-1999,338,36,0,58,114,3,1,4,138
+Publications,C:IN,1980-1999,500,67,3,63,160,1,3,4,210
+Publications,O:I154851008,1980-1999,6,1,0,1,2,0,0,0,2
+Publications,O:I219193219,1980-1999,52,5,0,9,29,0,0,1,12
+Publications,C:FI,1980-1999,100,1,0,33,28,1,1,2,38
+Publications,C:CA,1980-1999,643,36,1,111,295,5,7,7,207
+Publications,C:SI,1980-1999,11,0,0,1,4,1,0,0,5
+Publications,C:UA,1980-1999,28,1,0,3,10,0,0,0,14
+Publications,C:KR,1980-1999,238,28,0,53,73,1,3,0,96
+Publications,O:I157485424,1980-1999,45,10,0,16,11,0,1,0,14
+Publications,O:I154425047,1980-1999,47,6,0,9,26,0,0,0,7
+Publications,O:I99065089,1980-1999,18,4,0,2,8,0,0,1,5
+Publications,O:I87216513,1980-1999,50,6,0,6,26,1,0,0,12
+Publications,C:NL,1980-1999,298,31,1,89,82,3,8,4,96
+Publications,O:I4210163439,1980-1999,4,0,0,4,0,0,0,0,0
+Publications,A:Italy,1980-1999,448,44,1,87,196,1,4,2,132
+Publications,C:IT,1980-1999,448,44,1,87,196,1,4,2,132
+Publications,O:I108290504,1980-1999,41,1,0,16,18,0,0,0,6
+Publications,C:EG,1980-1999,83,5,0,8,15,1,0,0,56
+Publications,O:I4210131959,1980-1999,17,1,0,1,2,0,0,0,13
+Publications,C:NG,1980-1999,19,0,0,4,5,0,0,0,10
+Publications,O:I24603500,1980-1999,69,28,0,19,11,0,0,0,20
+Publications,C:TW,1980-1999,165,8,0,17,49,1,1,1,89
+Publications,O:I9360294,1980-1999,45,4,0,7,16,0,2,0,19
+Publications,O:I97018004,1980-1999,56,1,0,2,41,0,0,1,12
+Publications,C:AU,1980-1999,252,14,1,18,128,1,2,8,85
+Publications,C:SE,1980-1999,235,17,1,45,98,1,5,0,79
+Publications,C:BG,1980-1999,55,3,0,9,28,0,0,0,16
+Publications,C:RU,1980-1999,256,19,0,35,79,0,4,17,107
+Publications,C:HU,1980-1999,59,5,0,7,25,0,0,0,24
+Publications,C:TR,1980-1999,65,6,0,18,21,0,0,0,22
+Publications,O:I67348948,1980-1999,17,1,0,4,1,0,0,0,12
+Publications,O:I205783295,1980-1999,73,3,0,17,35,0,0,2,18
+Publications,O:I95457486,1980-1999,50,1,0,3,31,1,0,0,16
+Publications,O:I102322142,1980-1999,70,1,0,16,28,0,3,1,25
+Publications,O:I189158943,1980-1999,35,0,1,4,17,0,1,0,13
+Publications,O:I887968799,1980-1999,15,0,0,4,10,0,0,0,2
+Publications,O:I241749,1980-1999,44,2,0,3,35,0,0,1,4
+Publications,O:I33213144,1980-1999,35,1,1,3,20,1,0,1,10
+Publications,O:I1332737386,1980-1999,45,0,0,2,8,0,0,0,37
+Publications,O:I130238516,1980-1999,81,10,0,22,32,0,0,2,19
+Publications,O:I180857899,1980-1999,11,0,0,8,2,0,0,0,1
+Publications,O:I86519309,1980-1999,120,1,0,11,28,0,3,0,78
+Publications,O:I74801974,1980-1999,114,23,0,6,67,0,0,1,19
+Publications,O:I98285908,1980-1999,57,6,0,2,33,2,0,1,14
+Publications,O:I19820366,1980-1999,59,8,0,8,12,0,1,0,33
+Publications,O:I4210092888,1980-1999,28,3,0,3,5,0,0,0,17
+Publications,O:I4210152478,1980-1999,9,0,0,3,1,0,0,0,5
+Publications,C:AR,1980-1999,53,2,0,6,14,1,0,1,33
+Publications,O:I1294671590,1980-1999,220,8,0,47,99,1,2,6,63
+Publications,O:I151201029,1980-1999,31,0,0,0,4,0,0,0,27
+Publications,O:I130769515,1980-1999,51,0,0,9,24,0,3,1,16
+Publications,O:I32597200,1980-1999,34,1,0,22,5,0,0,0,7
+Publications,O:I159548981,1980-1999,4,0,0,3,1,0,0,0,0
+Publications,O:I201448701,1980-1999,58,1,0,11,26,0,0,0,22
+Publications,C:CL,1980-1999,17,0,0,0,6,0,0,1,10
+Publications,O:I187531555,1980-1999,35,4,0,5,20,0,1,0,5
+Publications,O:I1316910977,1980-1999,41,0,0,4,13,0,0,0,24
+Publications,C:AT,1980-1999,62,7,0,10,27,0,0,3,19
+Publications,O:I73305655,1980-1999,12,1,0,2,3,0,1,0,5
+Publications,O:I913481162,1980-1999,24,6,0,12,6,0,1,0,1
+Publications,O:I169108374,1980-1999,50,5,0,4,5,0,0,0,38
+Publications,O:I72951846,1980-1999,19,0,0,2,11,1,0,1,4
+Publications,C:IL,1980-1999,130,9,0,47,53,0,4,2,24
+Publications,C:MY,1980-1999,27,1,0,4,8,1,1,0,12
+Publications,O:I157725225,1980-1999,24,0,0,6,9,0,0,0,11
+Publications,C:DK,1980-1999,59,2,0,6,25,1,1,3,21
+Publications,O:I96673099,1980-1999,22,0,0,3,15,0,1,2,1
+Publications,O:I185261750,1980-1999,70,1,0,21,27,1,0,0,23
+Publications,O:I27837315,1980-1999,90,0,0,32,29,2,0,0,28
+Publications,O:I127558574,1980-1999,12,1,0,2,5,0,0,0,6
+Publications,O:I94624287,1980-1999,39,1,0,20,7,0,1,0,12
+Publications,O:I861853513,1980-1999,20,8,0,4,7,0,0,0,4
+Publications,O:I145311948,1980-1999,92,2,1,38,39,0,1,0,14
+Publications,O:I5023651,1980-1999,76,12,0,17,33,0,0,0,19
+Publications,O:I86987016,1980-1999,46,4,0,19,21,0,0,0,9
+Publications,O:I141945490,1980-1999,33,0,0,5,22,0,0,0,6
+Publications,O:I1283582996,1980-1999,22,6,0,3,3,0,0,1,9
+Publications,O:I75027704,1980-1999,17,2,0,5,8,0,0,0,3
+Publications,O:I114531698,1980-1999,103,7,0,14,44,0,1,0,40
+Publications,O:I4210131237,1980-1999,1,1,0,0,0,0,0,0,0
+Publications,O:I114027177,1980-1999,51,1,0,2,19,0,0,0,29
+Publications,O:I84218800,1980-1999,39,1,0,3,25,0,0,2,9
+Publications,O:I73613424,1980-1999,28,4,0,18,8,0,0,0,2
+Publications,O:I159176309,1980-1999,40,3,0,9,14,0,1,0,14
+Publications,O:I100532134,1980-1999,18,1,0,7,4,0,0,2,5
+Publications,O:I1313323035,1980-1999,37,1,0,6,3,0,2,6,19
+Publications,C:HK,1980-1999,57,13,0,12,20,0,0,1,19
+Publications,O:I20231570,1980-1999,27,0,0,4,16,0,0,0,7
+Publications,A:Piedmont,1980-1999,30,7,0,5,13,0,0,0,6
+Publications,O:Politecnico di Torino,1980-1999,5,0,0,0,2,0,0,0,3
+Publications,O:I137902535,1980-1999,41,3,0,9,15,0,0,0,15
+Publications,O:I93860229,1980-1999,3,0,0,1,1,0,0,0,1
+Publications,C:BR,1980-1999,69,3,4,7,34,1,0,1,23
+Publications,O:I1342131907,1980-1999,11,0,0,1,10,0,0,0,0
+Publications,C:LT,1980-1999,3,0,0,0,2,0,0,0,1
+Publications,O:I83019370,1980-1999,23,3,0,4,9,0,0,0,8
+Publications,C:PT,1980-1999,31,2,0,9,10,0,0,1,9
+Publications,O:I182534213,1980-1999,8,0,0,6,2,0,0,0,0
+Publications,O:I60858718,1980-1999,4,0,0,1,1,0,0,0,2
+Publications,O:I99682543,1980-1999,9,0,0,6,2,0,0,0,1
+Publications,O:I60134161,1980-1999,60,13,0,9,34,1,0,1,10
+Publications,O:I44892455,1980-1999,13,0,0,12,1,0,0,0,0
+Publications,C:HR,1980-1999,8,2,0,1,1,1,0,1,3
+Publications,O:I1280527723,1980-1999,9,1,0,0,3,0,0,0,5
+Publications,O:I74894318,1980-1999,7,1,0,5,1,1,0,0,1
+Publications,O:I126520041,1980-1999,13,1,0,1,2,0,0,0,9
+Publications,O:I134820265,1980-1999,25,1,0,9,11,0,0,0,6
+Publications,O:I1306287861,1980-1999,11,0,0,1,9,0,0,0,1
+Publications,O:I879563668,1980-1999,2,0,0,1,2,1,0,0,0
+Publications,O:I4210088555,1980-1999,4,0,0,1,0,0,0,0,3
+Publications,O:I79619799,1980-1999,18,1,0,4,10,0,1,0,2
+Publications,O:I1338503839,1980-1999,6,0,0,3,0,0,0,0,3
+Publications,O:I1312222531,1980-1999,39,7,0,16,6,0,1,0,15
+Publications,O:I54009628,1980-1999,18,3,1,1,6,0,1,0,8
+Publications,O:I201537933,1980-1999,28,2,0,0,18,0,0,0,8
+Publications,C:MX,1980-1999,46,2,0,10,20,0,0,2,13
+Publications,O:I173709673,1980-1999,10,0,0,0,1,0,0,0,9
+Publications,O:I4210165351,1980-1999,5,0,0,0,5,0,0,0,0
+Publications,O:I175669267,1980-1999,20,2,0,0,4,0,0,0,14
+Publications,O:I21370196,1980-1999,32,0,0,11,7,1,0,1,15
+Publications,O:I1292974536,1980-1999,8,0,0,0,8,0,0,0,0
+Publications,O:I40120149,1980-1999,22,2,0,1,14,1,0,0,4
+Publications,O:I130701444,1980-1999,16,1,0,3,9,1,0,1,3
+Publications,C:PR,1980-1999,7,0,0,4,2,0,0,0,1
+Publications,C:IR,1980-1999,16,3,1,3,5,0,0,0,4
+Publications,O:I28407311,1980-1999,44,3,0,3,20,0,0,0,19
+Publications,O:I138689650,1980-1999,25,0,0,5,16,0,0,0,4
+Publications,O:I205349734,1980-1999,36,8,0,10,14,0,0,0,5
+Publications,O:I169381384,1980-1999,45,9,0,22,4,0,1,0,9
+Publications,C:RO,1980-1999,37,0,0,5,7,0,0,0,25
+Publications,O:I82951845,1980-1999,2,0,0,0,2,0,0,0,0
+Publications,O:I859038795,1980-1999,85,14,0,5,13,0,0,0,54
+Publications,O:I150264550,1980-1999,17,0,0,2,6,0,0,2,9
+Publications,O:UniTo,1980-1999,17,5,0,0,9,0,0,0,3
+Publications,O:I142263535,1980-1999,49,2,0,32,14,0,1,0,2
+Publications,O:I900890020,1980-1999,24,1,0,4,13,0,2,0,4
+Publications,O:I5124864,1980-1999,42,3,0,8,14,3,1,2,12
+Publications,O:I99542240,1980-1999,29,8,0,10,7,0,1,1,5
+Publications,O:I58716616,1980-1999,16,2,0,7,0,0,0,0,9
+Publications,O:I173911158,1980-1999,22,2,0,14,4,0,0,0,7
+Publications,O:I4210140030,1980-1999,21,3,0,6,1,0,1,0,13
+Publications,O:I4210119016,1980-1999,7,0,0,0,2,0,0,0,5
+Publications,O:I7923278,1980-1999,11,0,0,1,5,0,1,0,4
+Publications,O:I19880235,1980-1999,17,2,0,2,9,0,0,0,5
+Publications,O:I193662353,1980-1999,23,2,0,3,10,0,1,1,8
+Publications,O:I1295346377,1980-1999,21,6,0,3,1,0,0,0,14
+Publications,C:UY,1980-1999,6,0,0,1,1,0,0,1,3
+Publications,O:I122140584,1980-1999,19,0,2,1,9,0,0,0,7
+Publications,C:NO,1980-1999,51,2,0,10,24,0,0,0,15
+Publications,O:I3019562804,1980-1999,15,1,0,3,6,0,0,0,5
+Publications,C:VE,1980-1999,17,2,0,0,5,0,0,0,10
+Publications,O:I118019719,1980-1999,11,0,0,2,4,0,1,0,5
+Publications,O:I62916508,1980-1999,22,1,0,4,8,1,0,1,7
+Publications,O:I139264467,1980-1999,38,6,0,5,18,0,0,0,12
+Publications,O:I923382979,1980-1999,31,1,0,6,7,0,1,0,17
+Publications,O:I76130692,1980-1999,21,1,0,7,3,0,0,0,10
+Publications,O:I47508984,1980-1999,29,0,0,7,10,1,1,0,11
+Publications,O:I99464096,1980-1999,32,2,0,7,10,0,0,0,14
+Publications,C:BY,1980-1999,10,2,0,2,3,0,2,0,3
+Publications,O:I102335020,1980-1999,13,1,0,1,6,0,1,0,5
+Publications,O:I181391015,1980-1999,10,0,0,1,6,0,0,0,4
+Publications,O:I105036370,1980-1999,18,1,0,2,0,0,0,0,15
+Publications,O:I71267560,1980-1999,33,3,0,7,15,1,0,0,10
+Publications,O:I1291425158,1980-1999,2,0,0,2,0,0,0,0,0
+Publications,O:I4210106541,1980-1999,12,6,0,8,0,0,0,0,4
+Publications,O:I19894307,1980-1999,21,3,0,9,6,0,0,0,7
+Publications,O:I39804081,1980-1999,21,1,0,4,14,0,0,0,2
+Publications,O:I151746483,1980-1999,37,3,0,2,16,0,3,0,14
+Publications,O:I165779595,1980-1999,10,0,0,0,6,0,0,1,3
+Publications,O:I257179599,1980-1999,2,0,0,2,0,0,0,0,0
+Publications,C:TH,1980-1999,16,0,0,1,5,0,0,0,10
+Publications,O:I56590836,1980-1999,37,1,0,0,11,0,2,0,23
+Publications,O:I165143802,1980-1999,27,0,0,4,11,0,0,1,12
+Publications,O:I889458895,1980-1999,20,3,0,1,10,0,0,0,7
+Publications,O:I91045830,1980-1999,27,0,0,2,14,1,0,0,11
+Publications,O:I4210133143,1980-1999,35,1,0,3,7,0,0,0,26
+Publications,C:GE,1980-1999,5,0,0,2,3,0,0,0,0
+Publications,C:ID,1980-1999,3,0,0,2,0,0,0,1,0
+Publications,O:I38877650,1980-1999,2,0,0,0,0,0,0,0,2
+Publications,O:I62856769,1980-1999,1,0,0,1,0,0,0,0,0
+Publications,O:I4575257,1980-1999,12,1,0,3,2,0,0,0,6
+Publications,O:I848706,1980-1999,10,0,0,6,3,0,0,0,1
+Publications,O:I135598925,1980-1999,41,0,0,5,23,0,0,0,15
+Publications,O:I139322472,1980-1999,7,0,0,0,0,0,0,0,7
+Publications,C:ZA,1980-1999,33,0,1,6,11,0,0,7,9
+Publications,O:I16733864,1980-1999,22,1,0,3,6,0,1,0,12
+Publications,O:I37461747,1980-1999,10,0,0,7,2,0,0,0,1
+Publications,O:I33849332,1980-1999,11,0,0,1,5,0,0,0,5
+Publications,O:I158708052,1980-1999,3,0,0,1,1,0,0,0,1
+Publications,O:I145894827,1980-1999,43,12,0,4,3,0,1,0,25
+Publications,O:I4210138594,1980-1999,3,0,0,1,1,0,0,0,1
+Publications,O:I4210107087,1980-1999,11,0,0,3,3,0,1,1,4
+Publications,O:I164928964,1980-1999,4,0,0,1,3,0,0,0,0
+Publications,O:I204778367,1980-1999,18,1,0,4,12,0,0,0,1
+Publications,C:BD,1980-1999,21,0,0,2,5,0,0,0,14
+Publications,C:JO,1980-1999,8,0,0,0,2,0,0,0,6
+Publications,O:I145487455,1980-1999,14,1,0,1,2,0,0,0,11
+Publications,O:I162868743,1980-1999,10,0,0,0,7,0,0,0,3
+Publications,O:I191208505,1980-1999,1,0,0,0,0,0,0,0,1
+Publications,O:I68891433,1980-1999,15,2,0,1,6,0,0,0,6
+Publications,C:NZ,1980-1999,24,1,0,4,14,0,0,1,4
+Publications,C:RS,1980-1999,12,2,0,3,9,0,0,0,2
+Publications,O:I130343225,1980-1999,4,1,0,1,1,0,1,0,0
+Publications,C:EE,1980-1999,5,0,0,0,5,0,0,0,0
+Publications,O:I193775966,1980-1999,5,0,0,1,0,0,0,0,4
+Publications,C:SA,1980-1999,12,1,0,1,7,0,0,0,3
+Publications,O:I90610280,1980-1999,5,0,0,2,2,0,0,0,1
+Publications,O:I168719708,1980-1999,7,1,0,0,0,0,0,0,6
+Publications,O:I4210155236,1980-1999,6,5,0,2,1,0,0,0,0
+Publications,O:I200284239,1980-1999,11,0,0,6,1,0,0,0,4
+Publications,O:I125839683,1980-1999,6,0,0,2,1,0,0,0,3
+Publications,C:IE,1980-1999,30,2,0,9,10,1,0,0,9
+Publications,C:DZ,1980-1999,4,0,0,0,1,0,0,0,3
+Publications,C:KE,1980-1999,3,0,0,0,2,0,0,0,1
+Publications,O:I14243506,1980-1999,21,9,0,10,6,0,0,1,2
+Publications,C:IQ,1980-1999,7,0,0,0,3,0,0,0,5
+Publications,C:MA,1980-1999,14,0,0,0,5,0,1,0,8
+Publications,C:KW,1980-1999,6,0,0,0,4,1,0,0,1
+Publications,O:I1341412227,1980-1999,19,2,0,0,8,0,0,0,9
+Publications,O:I4210161781,1980-1999,5,0,0,5,1,0,0,0,0
+Publications,C:CU,1980-1999,3,1,0,0,1,0,0,0,1
+Publications,O:I28022161,1980-1999,4,0,0,1,3,0,0,0,0
+Publications,O:I143593769,1980-1999,2,0,0,0,0,0,0,0,2
+Publications,C:SG,1980-1999,35,1,0,2,15,0,0,1,17
+Publications,O:I172675005,1980-1999,5,0,0,0,2,0,0,0,3
+Publications,O:I165932596,1980-1999,29,1,0,2,12,0,0,0,15
+Publications,C:UZ,1980-1999,6,0,0,0,1,0,0,4,1
+Publications,C:LV,1980-1999,8,3,0,0,5,0,0,0,0
+Publications,C:PK,1980-1999,7,1,0,0,4,0,0,0,2
+Publications,O:I1292669757,1980-1999,6,0,0,0,4,0,0,0,2
+Publications,O:I4210122849,1980-1999,10,0,0,0,4,0,0,0,6
+Publications,O:I4210159094,1980-1999,15,2,0,1,8,0,0,0,5
+Publications,O:I45129253,1980-1999,21,5,0,5,8,0,0,0,5
+Publications,O:I4210150908,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,C:ZW,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,O:I183067930,1980-1999,7,1,0,0,1,0,0,0,5
+Publications,O:I31746571,1980-1999,25,2,0,2,10,0,0,1,10
+Publications,O:I907500627,1980-1999,9,0,0,1,2,0,0,0,8
+Publications,O:I177909021,1980-1999,6,0,1,0,3,0,0,0,2
+Publications,C:KH,1980-1999,2,0,0,0,2,0,0,0,0
+Publications,O:I17145004,1980-1999,3,0,0,0,2,0,0,1,0
+Publications,O:I8961855,1980-1999,10,0,0,0,7,0,0,1,2
+Publications,O:I4387154587,1980-1999,2,1,0,1,1,0,0,0,0
+Publications,O:I4210167157,1980-1999,3,0,0,2,0,0,0,0,1
+Publications,O:I168192097,1980-1999,10,0,0,0,1,0,0,0,9
+Publications,O:I4210166413,1980-1999,14,0,0,3,2,0,0,0,9
+Publications,O:I60053951,1980-1999,6,0,0,3,0,0,0,0,3
+Publications,O:I2250650973,1980-1999,3,1,0,1,1,0,0,0,1
+Publications,O:I188703185,1980-1999,4,0,0,2,2,0,0,0,0
+Publications,O:I65143321,1980-1999,14,3,0,1,3,0,0,0,7
+Publications,O:I17974374,1980-1999,5,1,0,3,0,0,0,0,1
+Publications,O:I194450716,1980-1999,6,1,0,2,2,0,0,0,1
+Publications,O:I47720641,1980-1999,2,0,0,0,1,0,0,0,1
+Publications,O:I83558840,1980-1999,6,2,0,1,1,0,0,0,2
+Publications,C:IS,1980-1999,3,0,0,0,1,0,0,0,2
+Publications,O:I2802964274,1980-1999,7,1,0,1,1,0,0,0,4
+Publications,C:KZ,1980-1999,3,0,0,2,1,0,0,0,1
+Publications,O:I98358874,1980-1999,12,2,0,1,6,1,0,1,1
+Publications,O:I118347220,1980-1999,7,0,0,0,7,0,0,0,0
+Publications,O:I23946033,1980-1999,4,0,0,2,1,0,0,0,1
+Publications,O:I4210128200,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,C:TZ,1980-1999,2,0,0,0,2,0,0,0,0
+Publications,O:I4210115317,1980-1999,7,2,0,0,3,2,0,0,2
+Publications,O:I9617848,1980-1999,6,0,0,4,2,0,0,0,0
+Publications,O:I205237279,1980-1999,3,1,0,1,1,0,0,0,0
+Publications,O:I74680897,1980-1999,11,1,0,7,4,0,0,0,2
+Publications,O:I66867065,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,C:CI,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,O:I4210116579,1980-1999,4,0,0,0,1,0,0,0,3
+Publications,C:VN,1980-1999,4,1,0,0,2,0,0,0,1
+Publications,C:LK,1980-1999,2,0,0,0,0,0,0,0,2
+Publications,O:I4210136872,1980-1999,2,2,0,0,0,0,0,0,0
+Publications,O:I118136607,1980-1999,9,0,0,1,3,0,0,1,5
+Publications,O:I1330063522,1980-1999,4,0,0,1,2,0,1,1,1
+Publications,O:I16609230,1980-1999,1,0,0,0,0,0,0,0,1
+Publications,O:I182023848,1980-1999,2,0,0,2,0,0,0,0,0
+Publications,O:I197347611,1980-1999,7,0,0,2,1,1,0,0,4
+Publications,O:I4210117026,1980-1999,2,0,0,2,0,0,0,0,0
+Publications,O:I24185976,1980-1999,3,0,0,0,0,0,0,0,3
+Publications,O:I24943067,1980-1999,7,0,0,2,2,0,0,0,3
+Publications,O:I87445476,1980-1999,6,0,0,0,5,0,0,0,1
+Publications,O:I881766915,1980-1999,3,0,0,0,0,0,0,0,3
+Publications,O:I27357992,1980-1999,1,0,0,0,0,0,0,0,1
+Publications,O:I141596103,1980-1999,4,0,0,0,1,0,0,1,2
+Publications,C:CO,1980-1999,7,0,0,2,3,0,0,0,2
+Publications,C:QA,1980-1999,2,0,0,0,0,0,0,0,2
+Publications,O:I135705104,1980-1999,2,0,0,0,0,0,0,0,2
+Publications,O:I4210112383,1980-1999,1,0,0,0,0,0,0,0,1
+Publications,C:EC,1980-1999,2,0,0,0,0,0,0,0,2
+Publications,O:I130442723,1980-1999,5,1,0,0,2,0,0,0,2
+Publications,C:GH,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,C:MK,1980-1999,1,0,0,0,0,0,0,0,1
+Publications,C:UG,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,O:I4210114297,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,O:I116953780,1980-1999,1,1,0,0,0,0,0,0,1
+Publications,O:I204983213,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,O:I185163786,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,O:I36527812,1980-1999,5,1,0,3,0,0,1,0,0
+Publications,C:OM,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,O:I157773358,1980-1999,1,1,0,0,0,0,0,0,0
+Publications,O:I151809719,1980-1999,1,0,0,0,0,0,0,0,1
+Publications,O:I686019,1980-1999,1,0,0,0,0,0,0,0,1
+Publications,O:I76903346,1980-1999,2,0,0,0,1,0,0,0,1
+Publications,O:I75390827,1980-1999,1,0,0,0,0,0,0,0,1
+Publications,O:I889804353,1980-1999,2,0,0,0,0,0,0,0,2
+Publications,O:I1300504238,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,C:ET,1980-1999,1,0,0,0,0,0,0,0,1
+Publications,C:PH,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,C:TJ,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,C:LY,1980-1999,1,0,0,0,1,0,0,0,0
+Publications,O:I101479585,1980-1999,1,1,0,0,0,0,0,0,0
+Publications,A:World,2000-2014,78957,6950,557,23233,26118,1862,2204,1339,23201
+Publications,C:HR,2000-2014,87,13,1,17,27,1,6,1,34
+Publications,C:ZA,2000-2014,227,13,0,77,64,8,6,7,71
+Publications,C:US,2000-2014,12515,980,92,3687,4348,256,343,196,3381
+Publications,A:Italy,2000-2014,2221,219,12,738,781,57,96,27,508
+Publications,C:IT,2000-2014,2221,219,12,738,781,57,96,27,508
+Publications,C:KR,2000-2014,2455,198,18,952,645,27,69,21,667
+Publications,O:I193775966,2000-2014,106,0,0,52,30,2,2,0,22
+Publications,C:CN,2000-2014,9807,593,24,3032,3042,129,249,66,3194
+Publications,C:PL,2000-2014,844,93,2,296,232,14,33,4,247
+Publications,C:JP,2000-2014,5047,512,33,1384,2092,159,116,40,1083
+Publications,C:BR,2000-2014,1399,172,20,470,378,14,34,33,465
+Publications,O:I73613424,2000-2014,232,40,5,88,66,9,9,1,37
+Publications,C:HU,2000-2014,225,14,2,57,85,4,8,1,75
+Publications,C:RU,2000-2014,798,101,0,207,260,3,21,35,229
+Publications,A:Piedmont,2000-2014,206,19,0,80,63,9,8,4,51
+Publications,O:Politecnico di Torino,2000-2014,82,11,0,28,16,4,2,0,29
+Publications,C:CZ,2000-2014,457,42,2,163,151,9,10,5,115
+Publications,C:BG,2000-2014,135,3,2,60,42,0,4,3,26
+Publications,C:IN,2000-2014,3392,359,15,1136,853,19,124,10,1152
+Publications,O:I154851008,2000-2014,131,1,0,12,27,0,0,0,93
+Publications,C:FR,2000-2014,2277,224,9,605,820,25,86,52,650
+Publications,C:ES,2000-2014,1871,196,10,514,553,45,65,33,611
+Publications,O:I1294671590,2000-2014,1037,110,4,266,417,9,57,22,225
+Publications,O:I19894307,2000-2014,99,10,0,30,33,0,6,2,27
+Publications,C:UA,2000-2014,183,7,0,22,78,3,6,13,61
+Publications,C:SG,2000-2014,589,28,4,328,144,4,20,8,85
+Publications,O:I165932596,2000-2014,264,12,1,175,45,2,10,4,29
+Publications,C:AU,2000-2014,1251,106,8,377,450,34,30,42,303
+Publications,C:GB,2000-2014,2653,174,23,639,1146,76,96,87,588
+Publications,O:I56590836,2000-2014,145,8,0,36,48,1,10,2,49
+Publications,C:DE,2000-2014,3024,320,15,834,1026,63,148,53,780
+Publications,C:SE,2000-2014,734,104,2,165,225,34,32,11,252
+Publications,O:I111979921,2000-2014,99,0,0,35,41,0,0,2,22
+Publications,O:I165143802,2000-2014,159,31,0,65,44,5,1,5,31
+Publications,C:NZ,2000-2014,220,28,2,62,75,13,2,14,64
+Publications,C:CH,2000-2014,751,82,2,260,236,26,18,17,170
+Publications,O:I5124864,2000-2014,130,14,0,31,51,5,9,2,27
+Publications,C:HK,2000-2014,377,28,1,117,150,6,3,1,101
+Publications,O:I889458895,2000-2014,169,6,1,59,59,1,1,0,51
+Publications,C:CA,2000-2014,1849,167,17,520,630,52,46,42,523
+Publications,O:I99542240,2000-2014,139,31,0,56,34,0,8,1,24
+Publications,O:I141945490,2000-2014,125,15,2,31,54,4,0,4,24
+Publications,C:BE,2000-2014,720,79,3,241,197,16,22,19,193
+Publications,O:I887968799,2000-2014,109,19,1,33,28,7,3,1,30
+Publications,O:I47508984,2000-2014,165,20,1,63,68,4,1,0,24
+Publications,O:I63966007,2000-2014,284,43,0,147,78,0,16,2,24
+Publications,C:PT,2000-2014,689,100,7,267,174,18,36,24,143
+Publications,O:I76903346,2000-2014,53,7,1,19,13,0,1,2,11
+Publications,O:I136199984,2000-2014,274,6,1,115,88,4,5,1,58
+Publications,O:I219193219,2000-2014,129,6,2,31,61,1,1,0,34
+Publications,O:I62916508,2000-2014,82,5,0,22,25,1,1,1,33
+Publications,O:I28407311,2000-2014,116,7,0,31,66,4,0,0,14
+Publications,O:I139264467,2000-2014,289,13,1,135,75,3,11,2,57
+Publications,O:I201448701,2000-2014,135,8,5,48,34,2,6,4,34
+Publications,C:SI,2000-2014,108,13,1,18,35,5,3,2,37
+Publications,O:I74801974,2000-2014,307,32,1,92,126,33,4,3,55
+Publications,C:IE,2000-2014,215,28,5,60,62,5,2,9,70
+Publications,O:I135598925,2000-2014,169,7,0,51,70,5,7,1,36
+Publications,C:EG,2000-2014,522,59,1,147,104,5,4,1,256
+Publications,O:I99682543,2000-2014,224,18,2,138,37,7,25,0,27
+Publications,O:I33213144,2000-2014,130,13,0,24,65,7,2,0,26
+Publications,O:I145487455,2000-2014,98,22,0,23,8,1,1,0,57
+Publications,O:I9617848,2000-2014,126,9,0,43,31,1,1,2,48
+Publications,C:BA,2000-2014,19,0,0,7,5,1,0,0,7
+Publications,O:I19820366,2000-2014,810,39,2,296,218,10,23,5,255
+Publications,O:I20231570,2000-2014,137,4,0,45,48,0,0,0,46
+Publications,C:SK,2000-2014,137,19,4,39,35,8,3,2,42
+Publications,O:I4575257,2000-2014,180,12,2,83,35,1,3,1,45
+Publications,O:I204983213,2000-2014,120,2,1,36,56,2,0,2,29
+Publications,O:I157725225,2000-2014,160,14,2,33,67,1,1,1,44
+Publications,C:AT,2000-2014,323,52,2,96,98,15,11,6,68
+Publications,C:MY,2000-2014,865,145,9,264,234,9,14,7,292
+Publications,C:AE,2000-2014,47,1,0,10,19,3,2,1,16
+Publications,O:I157485424,2000-2014,173,26,0,85,32,2,6,0,28
+Publications,O:I1292669757,2000-2014,24,0,0,0,17,3,0,0,4
+Publications,C:PK,2000-2014,158,10,0,51,52,2,5,0,50
+Publications,C:BD,2000-2014,77,3,1,36,20,1,0,1,22
+Publications,O:I145894827,2000-2014,136,17,0,43,48,1,4,0,31
+Publications,O:I47720641,2000-2014,121,8,0,35,35,2,2,3,45
+Publications,C:RO,2000-2014,239,21,0,69,74,1,9,2,93
+Publications,O:I24603500,2000-2014,98,20,0,21,29,0,4,1,33
+Publications,O:I108290504,2000-2014,159,30,1,89,36,3,4,2,29
+Publications,C:CM,2000-2014,12,0,0,0,3,0,0,0,9
+Publications,C:ID,2000-2014,186,24,5,67,47,0,2,2,66
+Publications,O:I22299242,2000-2014,279,28,0,78,127,4,6,0,53
+Publications,O:I181326427,2000-2014,152,6,0,74,26,0,2,0,51
+Publications,C:LK,2000-2014,68,1,1,17,25,1,3,2,27
+Publications,C:GR,2000-2014,375,24,0,106,134,5,13,12,109
+Publications,O:I130238516,2000-2014,182,32,1,60,56,8,4,0,43
+Publications,C:TW,2000-2014,1069,66,7,327,326,12,34,8,365
+Publications,O:I27837315,2000-2014,254,3,1,101,66,5,6,2,75
+Publications,O:I87216513,2000-2014,215,60,0,71,53,14,7,3,69
+Publications,O:I99065089,2000-2014,290,71,2,101,86,5,3,2,53
+Publications,C:IR,2000-2014,1114,49,2,319,345,9,88,1,368
+Publications,O:I91045830,2000-2014,132,5,2,36,63,2,3,2,28
+Publications,O:I95457486,2000-2014,139,18,3,25,85,4,0,5,17
+Publications,C:NG,2000-2014,166,15,1,43,44,7,2,0,70
+Publications,O:I76130692,2000-2014,314,6,1,109,115,5,7,1,80
+Publications,C:QA,2000-2014,48,1,0,7,27,12,3,0,7
+Publications,O:I68891433,2000-2014,62,9,0,31,20,1,1,0,10
+Publications,O:I39804081,2000-2014,102,8,0,19,40,0,8,10,22
+Publications,O:I60053951,2000-2014,121,19,0,27,41,1,1,0,44
+Publications,O:I86987016,2000-2014,199,41,0,63,61,10,19,1,44
+Publications,O:I885383172,2000-2014,75,7,0,10,36,0,2,1,23
+Publications,O:I75027704,2000-2014,86,9,0,37,26,5,3,1,12
+Publications,O:I102322142,2000-2014,149,11,0,63,32,2,0,1,43
+Publications,O:I145311948,2000-2014,175,2,0,81,47,0,1,2,46
+Publications,C:NO,2000-2014,215,2,1,53,73,8,2,10,78
+Publications,O:I102335020,2000-2014,79,19,0,11,27,1,10,3,15
+Publications,O:I40120149,2000-2014,75,4,0,13,38,1,1,2,17
+Publications,O:I125839683,2000-2014,65,3,0,17,20,1,1,0,26
+Publications,C:TH,2000-2014,491,58,9,156,100,18,9,3,192
+Publications,O:I191208505,2000-2014,51,4,0,8,23,0,1,0,17
+Publications,C:NL,2000-2014,1002,121,7,350,299,48,28,26,194
+Publications,O:I169381384,2000-2014,83,14,0,37,20,1,5,0,10
+Publications,O:I177909021,2000-2014,110,16,1,25,45,0,4,0,34
+Publications,O:I17145004,2000-2014,85,4,0,16,17,0,7,2,43
+Publications,C:TR,2000-2014,632,69,4,184,182,4,8,6,215
+Publications,O:I130701444,2000-2014,196,15,4,58,79,5,6,11,26
+Publications,O:I162868743,2000-2014,186,11,1,77,36,1,8,3,63
+Publications,O:I116953780,2000-2014,178,15,0,54,74,4,3,0,37
+Publications,C:PH,2000-2014,49,4,0,15,19,0,0,0,19
+Publications,O:I4210155898,2000-2014,84,19,1,55,9,2,4,0,12
+Publications,O:I9360294,2000-2014,169,21,1,56,51,5,9,1,45
+Publications,O:I154099455,2000-2014,102,13,0,30,31,4,5,0,29
+Publications,O:I139322472,2000-2014,175,54,1,50,42,3,0,1,52
+Publications,O:I130343225,2000-2014,142,30,2,53,29,3,4,0,41
+Publications,C:MX,2000-2014,390,33,2,116,117,6,15,3,140
+Publications,O:I33849332,2000-2014,146,19,0,31,25,0,2,1,81
+Publications,O:I1280527723,2000-2014,13,1,0,2,5,0,0,0,7
+Publications,O:I4210133143,2000-2014,53,3,0,7,11,1,1,1,35
+Publications,C:DK,2000-2014,311,28,0,58,90,29,3,8,126
+Publications,O:I96673099,2000-2014,111,12,0,14,30,20,1,3,48
+Publications,O:I118136607,2000-2014,11,0,0,0,8,1,2,0,0
+Publications,O:I1292974536,2000-2014,17,1,0,0,14,2,0,0,2
+Publications,O:I1312222531,2000-2014,157,40,1,48,25,2,4,0,52
+Publications,C:IL,2000-2014,384,12,3,167,136,3,14,1,64
+Publications,O:I143593769,2000-2014,132,1,0,45,45,0,4,1,43
+Publications,O:I90610280,2000-2014,242,31,0,82,47,5,12,0,87
+Publications,C:CO,2000-2014,75,8,0,31,17,2,1,1,27
+Publications,O:I142263535,2000-2014,127,7,3,64,40,1,8,0,10
+Publications,O:I201537933,2000-2014,182,6,3,43,95,8,0,1,37
+Publications,C:MK,2000-2014,25,2,0,12,9,1,2,0,4
+Publications,O:I82951845,2000-2014,69,9,0,19,22,3,1,3,17
+Publications,O:I183067930,2000-2014,230,8,2,98,73,1,4,3,55
+Publications,C:PY,2000-2014,15,1,0,0,6,0,0,0,8
+Publications,C:GE,2000-2014,23,1,0,18,5,0,0,0,0
+Publications,O:I859038795,2000-2014,116,6,2,22,30,0,4,3,53
+Publications,C:TN,2000-2014,83,11,1,12,26,0,5,0,36
+Publications,O:I181391015,2000-2014,193,28,6,66,30,1,13,5,77
+Publications,O:I157773358,2000-2014,120,6,0,50,33,0,5,0,29
+Publications,C:CU,2000-2014,43,10,0,12,3,0,0,0,20
+Publications,O:I84218800,2000-2014,139,14,1,17,59,4,0,9,44
+Publications,O:I913481162,2000-2014,88,21,0,17,19,9,2,13,20
+Publications,O:I185261750,2000-2014,211,26,1,82,74,9,0,2,40
+Publications,O:I205783295,2000-2014,189,20,0,90,49,0,8,1,39
+Publications,O:I137902535,2000-2014,165,16,2,40,60,0,2,4,46
+Publications,O:I686019,2000-2014,38,1,0,16,13,0,2,0,8
+Publications,C:SA,2000-2014,246,25,3,69,60,2,7,3,101
+Publications,O:I173911158,2000-2014,152,48,2,47,36,1,2,0,32
+Publications,O:I72951846,2000-2014,117,27,0,35,32,7,3,2,27
+Publications,O:I135705104,2000-2014,22,0,0,0,19,10,0,1,0
+Publications,O:I60134161,2000-2014,204,19,0,55,116,4,0,1,26
+Publications,O:I67348948,2000-2014,16,0,0,3,5,1,1,0,6
+Publications,O:I99464096,2000-2014,127,18,1,16,59,3,4,2,37
+Publications,C:GH,2000-2014,23,0,0,2,10,1,0,0,13
+Publications,C:PE,2000-2014,27,4,0,9,4,0,1,0,14
+Publications,C:IS,2000-2014,8,0,0,1,2,0,0,0,5
+Publications,O:I89652312,2000-2014,28,0,0,13,12,1,0,0,3
+Publications,C:DZ,2000-2014,128,8,0,24,46,0,6,0,58
+Publications,O:I94624287,2000-2014,106,4,2,72,17,0,1,0,12
+Publications,O:I143413998,2000-2014,82,7,0,17,24,0,3,0,39
+Publications,O:I8961855,2000-2014,91,18,1,20,18,0,6,0,39
+Publications,O:I900890020,2000-2014,109,8,0,50,43,3,1,1,13
+Publications,O:I31746571,2000-2014,95,11,2,28,44,3,0,1,11
+Publications,C:RS,2000-2014,86,8,0,31,29,3,2,0,24
+Publications,O:I16733864,2000-2014,156,6,0,43,56,2,8,0,44
+Publications,O:I97018004,2000-2014,159,13,0,48,63,7,3,2,36
+Publications,O:I139660479,2000-2014,96,6,0,25,49,1,0,0,18
+Publications,O:I205237279,2000-2014,109,5,1,38,41,0,8,1,24
+Publications,C:AR,2000-2014,357,58,1,87,84,1,2,6,149
+Publications,O:I4576418,2000-2014,105,13,0,52,25,4,2,0,26
+Publications,O:I45129253,2000-2014,123,14,0,40,44,6,1,0,22
+Publications,C:JO,2000-2014,57,0,1,6,11,1,0,3,36
+Publications,O:I194450716,2000-2014,154,5,1,38,50,2,7,4,53
+Publications,O:I4210092888,2000-2014,192,7,1,114,31,0,7,0,44
+Publications,O:I4210165038,2000-2014,166,9,0,74,35,3,4,2,46
+Publications,C:IQ,2000-2014,68,1,0,9,23,1,1,0,35
+Publications,O:I17974374,2000-2014,260,32,5,83,67,2,9,4,92
+Publications,O:I151746483,2000-2014,65,5,0,16,19,4,5,1,19
+Publications,C:PS,2000-2014,16,0,0,0,5,0,0,0,11
+Publications,O:I83019370,2000-2014,163,30,3,18,88,2,6,0,21
+Publications,O:I47689461,2000-2014,57,13,0,11,19,0,1,2,16
+Publications,O:I205349734,2000-2014,174,42,0,25,74,2,5,2,35
+Publications,O:I879563668,2000-2014,98,17,1,47,15,1,0,4,25
+Publications,O:I861853513,2000-2014,124,24,1,27,54,8,14,0,17
+Publications,O:I86519309,2000-2014,195,5,1,63,61,4,7,0,59
+Publications,O:I172675005,2000-2014,221,10,3,108,64,2,10,4,34
+Publications,O:I37461747,2000-2014,183,8,2,105,26,2,12,0,52
+Publications,O:I122140584,2000-2014,125,17,1,35,39,2,1,1,43
+Publications,C:LT,2000-2014,80,14,0,29,16,2,0,1,28
+Publications,O:I200284239,2000-2014,95,6,0,26,17,2,0,1,48
+Publications,C:PR,2000-2014,35,0,0,14,9,1,0,0,11
+Publications,O:I154526488,2000-2014,195,2,0,59,77,0,1,0,60
+Publications,C:ZW,2000-2014,8,0,0,1,2,0,0,1,4
+Publications,O:I14243506,2000-2014,129,23,0,50,54,4,0,1,16
+Publications,O:I100532134,2000-2014,147,11,0,43,35,1,7,1,67
+Publications,C:VN,2000-2014,68,10,0,24,14,0,5,0,20
+Publications,C:FI,2000-2014,345,47,2,114,94,8,6,5,96
+Publications,O:I182534213,2000-2014,106,9,1,41,25,3,0,1,35
+Publications,O:I60858718,2000-2014,96,29,1,12,34,2,3,6,22
+Publications,O:I35440088,2000-2014,158,16,1,61,53,6,1,3,27
+Publications,O:I180857899,2000-2014,27,1,0,4,3,0,2,0,19
+Publications,C:ET,2000-2014,28,1,0,12,2,0,1,0,12
+Publications,O:I98358874,2000-2014,124,27,4,19,56,8,3,0,17
+Publications,O:I135310074,2000-2014,109,11,0,31,46,2,11,1,21
+Publications,O:I32597200,2000-2014,157,21,0,58,31,7,2,12,35
+Publications,O:I16609230,2000-2014,52,5,0,9,21,2,0,0,16
+Publications,O:I134687103,2000-2014,71,6,0,14,21,0,8,0,26
+Publications,O:I881766915,2000-2014,136,5,0,22,60,1,7,0,50
+Publications,C:VE,2000-2014,49,4,0,17,14,0,0,0,18
+Publications,O:I114531698,2000-2014,305,76,2,76,118,4,13,2,49
+Publications,C:EE,2000-2014,38,5,0,6,19,0,1,0,9
+Publications,O:I58716616,2000-2014,147,3,1,81,17,0,8,0,39
+Publications,O:I848706,2000-2014,126,7,3,73,18,1,3,0,26
+Publications,O:I169108374,2000-2014,158,26,3,37,26,4,16,0,65
+Publications,C:MA,2000-2014,74,7,0,16,26,1,2,0,28
+Publications,O:I185163786,2000-2014,56,10,0,28,9,1,3,1,12
+Publications,C:BY,2000-2014,59,2,0,11,23,1,0,0,25
+Publications,O:I123338534,2000-2014,21,1,0,13,5,0,1,0,2
+Publications,O:UniTo,2000-2014,69,3,0,21,31,2,4,1,15
+Publications,O:I98285908,2000-2014,219,29,0,68,90,3,6,4,29
+Publications,O:I24943067,2000-2014,168,4,0,79,38,2,4,1,43
+Publications,O:I134820265,2000-2014,123,10,0,38,47,2,3,4,28
+Publications,O:I193662353,2000-2014,146,16,0,74,29,14,3,1,25
+Publications,O:I23946033,2000-2014,134,3,0,43,38,0,3,0,60
+Publications,O:I105036370,2000-2014,24,0,0,3,8,0,1,1,12
+Publications,C:CI,2000-2014,8,0,0,2,2,0,0,0,4
+Publications,O:I1283582996,2000-2014,26,0,0,14,6,0,0,0,6
+Publications,O:I4210155236,2000-2014,90,7,1,39,22,1,2,2,26
+Publications,O:I189158943,2000-2014,110,6,0,38,41,0,4,1,29
+Publications,O:I114027177,2000-2014,102,1,0,26,47,0,1,0,27
+Publications,O:I1291425158,2000-2014,22,0,0,1,10,0,1,0,12
+Publications,O:I93860229,2000-2014,72,4,1,33,25,2,2,0,9
+Publications,O:I241749,2000-2014,127,10,1,14,76,4,7,1,21
+Publications,O:I75390827,2000-2014,242,17,0,74,64,2,4,0,91
+Publications,O:I4210138594,2000-2014,88,33,0,23,8,0,4,1,33
+Publications,O:I83558840,2000-2014,103,32,0,26,20,0,10,7,21
+Publications,O:I65143321,2000-2014,26,0,0,2,20,0,0,0,4
+Publications,O:I138689650,2000-2014,102,7,1,23,49,5,2,3,15
+Publications,O:I71267560,2000-2014,161,14,0,55,62,3,2,0,38
+Publications,O:I159176309,2000-2014,72,4,0,28,30,4,1,1,10
+Publications,O:I4210090489,2000-2014,56,11,0,12,13,3,2,0,24
+Publications,O:I130442723,2000-2014,75,4,2,18,34,0,0,2,24
+Publications,O:I1316910977,2000-2014,45,9,0,5,14,2,2,1,15
+Publications,O:I54009628,2000-2014,46,2,0,12,14,1,3,1,15
+Publications,O:I158708052,2000-2014,136,20,2,44,19,2,3,0,68
+Publications,O:I197347611,2000-2014,122,8,1,40,44,0,0,2,39
+Publications,O:I55712492,2000-2014,50,4,0,10,20,0,0,1,23
+Publications,O:I4210093057,2000-2014,11,1,0,2,4,0,0,0,5
+Publications,O:I82724352,2000-2014,66,5,1,19,14,0,1,0,38
+Publications,O:I154425047,2000-2014,89,7,1,29,29,3,2,0,21
+Publications,O:I4210164117,2000-2014,3,0,0,0,1,0,0,0,2
+Publications,O:I1306287861,2000-2014,16,5,0,0,6,2,0,0,5
+Publications,O:I4210090962,2000-2014,5,0,0,1,2,0,0,0,2
+Publications,O:I87445476,2000-2014,76,4,1,37,22,1,0,0,14
+Publications,O:I187531555,2000-2014,100,18,1,24,37,2,4,0,28
+Publications,O:I4210096856,2000-2014,19,5,0,6,8,0,0,0,4
+Publications,C:UZ,2000-2014,8,0,0,1,3,2,0,1,1
+Publications,O:I130769515,2000-2014,178,11,0,65,57,1,10,2,37
+Publications,O:I151201029,2000-2014,196,20,0,52,44,0,0,2,91
+Publications,C:YE,2000-2014,17,0,0,5,0,0,0,0,12
+Publications,O:I79619799,2000-2014,57,2,0,13,18,2,2,3,19
+Publications,O:I5023651,2000-2014,172,19,0,59,40,3,5,1,74
+Publications,O:I158842170,2000-2014,65,2,0,27,26,0,0,0,11
+Publications,O:I3923682,2000-2014,99,6,0,48,29,0,4,0,14
+Publications,O:I4210119016,2000-2014,16,2,0,3,8,0,1,0,3
+Publications,O:I118347220,2000-2014,13,6,0,3,5,1,0,0,2
+Publications,C:LU,2000-2014,9,1,0,3,3,0,0,1,2
+Publications,O:I74680897,2000-2014,37,17,0,15,8,0,0,0,9
+Publications,O:I4210114297,2000-2014,28,5,0,10,6,0,0,0,7
+Publications,C:OM,2000-2014,20,2,0,1,11,0,0,1,5
+Publications,O:I4210151091,2000-2014,1,0,0,1,0,0,0,0,0
+Publications,C:NP,2000-2014,34,0,0,10,3,1,0,0,21
+Publications,O:I73305655,2000-2014,12,3,0,4,0,1,1,1,5
+Publications,O:I159948400,2000-2014,49,2,0,11,25,0,0,0,14
+Publications,O:I126520041,2000-2014,145,5,0,53,43,0,8,1,37
+Publications,O:I141596103,2000-2014,67,4,1,17,27,1,6,2,16
+Publications,O:I27357992,2000-2014,120,4,0,32,48,0,3,0,38
+Publications,O:I24185976,2000-2014,348,17,0,203,53,1,4,0,90
+Publications,O:I139024713,2000-2014,16,0,0,2,10,0,0,0,5
+Publications,O:I21370196,2000-2014,113,10,0,45,33,2,3,2,27
+Publications,O:I2802964274,2000-2014,21,6,1,4,5,0,1,0,6
+Publications,O:I4210167157,2000-2014,20,2,0,8,2,0,0,0,10
+Publications,O:I3019562804,2000-2014,16,1,0,2,2,2,0,0,11
+Publications,O:I4210107087,2000-2014,28,7,0,8,6,1,2,1,10
+Publications,O:I165779595,2000-2014,104,7,1,35,31,10,2,3,25
+Publications,C:UG,2000-2014,8,0,0,1,1,0,0,0,7
+Publications,O:I111599522,2000-2014,93,8,0,34,20,1,5,0,33
+Publications,O:I4210161781,2000-2014,16,2,0,16,3,2,0,2,0
+Publications,C:AZ,2000-2014,17,1,0,1,9,0,0,0,6
+Publications,O:I168719708,2000-2014,77,1,0,17,29,2,2,0,31
+Publications,O:I28022161,2000-2014,80,5,2,24,16,0,0,1,35
+Publications,O:I4210144289,2000-2014,34,0,0,7,10,0,0,0,18
+Publications,O:I4210152478,2000-2014,156,8,0,92,25,1,5,0,32
+Publications,O:I204778367,2000-2014,69,1,1,12,32,1,0,2,25
+Publications,O:I4210131959,2000-2014,83,3,0,16,24,2,0,1,44
+Publications,O:I115592961,2000-2014,41,2,0,6,20,0,1,0,14
+Publications,O:I1313323035,2000-2014,186,33,0,52,42,1,3,17,57
+Publications,O:I118019719,2000-2014,13,1,0,3,3,0,0,0,7
+Publications,O:I180726961,2000-2014,34,0,1,5,13,0,0,1,14
+Publications,O:I159548981,2000-2014,10,0,0,4,3,0,0,1,2
+Publications,O:I4210089156,2000-2014,1,0,0,1,0,0,0,0,0
+Publications,O:I106994412,2000-2014,26,0,1,6,11,0,0,0,8
+Publications,O:I4210116579,2000-2014,18,0,0,3,2,0,0,0,14
+Publications,O:I4210116048,2000-2014,87,4,0,31,39,0,5,0,9
+Publications,C:LB,2000-2014,30,2,0,9,11,1,0,3,10
+Publications,C:LV,2000-2014,75,19,0,32,28,0,1,0,9
+Publications,O:I1332737386,2000-2014,8,0,0,0,4,1,0,0,4
+Publications,C:TJ,2000-2014,35,5,0,18,11,1,1,1,2
+Publications,O:I19880235,2000-2014,104,13,0,33,53,1,3,1,13
+Publications,O:I4210138501,2000-2014,26,3,0,5,7,1,3,1,8
+Publications,C:UY,2000-2014,6,1,1,0,2,0,0,1,1
+Publications,C:BW,2000-2014,4,0,0,1,0,0,0,0,3
+Publications,O:I150264550,2000-2014,5,0,0,1,2,0,2,0,0
+Publications,O:I4210163439,2000-2014,4,0,0,2,1,0,1,0,0
+Publications,C:CY,2000-2014,15,1,0,2,5,0,0,1,6
+Publications,C:KZ,2000-2014,15,0,0,6,6,0,0,0,4
+Publications,O:I2250650973,2000-2014,35,2,0,8,12,1,0,0,14
+Publications,C:CL,2000-2014,118,6,0,30,38,1,2,9,40
+Publications,O:I38877650,2000-2014,66,1,0,21,17,0,0,0,28
+Publications,O:I66867065,2000-2014,33,0,0,12,14,1,4,1,2
+Publications,O:I44892455,2000-2014,8,0,0,3,1,0,0,0,4
+Publications,O:I173709673,2000-2014,10,0,0,0,8,0,1,0,1
+Publications,O:I4210106541,2000-2014,39,0,0,36,1,0,0,0,2
+Publications,O:I31683504,2000-2014,44,11,0,13,10,2,0,0,13
+Publications,O:I923382979,2000-2014,28,0,0,2,2,1,0,0,23
+Publications,O:I76569877,2000-2014,50,2,1,5,33,2,1,0,7
+Publications,O:I175669267,2000-2014,5,0,0,0,0,0,1,0,4
+Publications,O:I4210122849,2000-2014,11,0,0,1,6,0,0,0,4
+Publications,O:I4210164971,2000-2014,3,3,0,0,0,1,0,0,0
+Publications,O:I74894318,2000-2014,17,0,0,2,4,1,0,0,11
+Publications,C:KH,2000-2014,6,0,0,1,3,0,0,0,2
+Publications,O:I876193797,2000-2014,19,2,0,13,3,0,0,0,7
+Publications,O:I4210117026,2000-2014,28,2,0,8,4,0,0,0,14
+Publications,C:TZ,2000-2014,15,1,0,1,6,1,0,0,6
+Publications,O:I4210166413,2000-2014,8,0,0,0,2,0,0,0,6
+Publications,O:I99364266,2000-2014,9,1,0,3,5,0,0,0,1
+Publications,C:SD,2000-2014,20,0,0,3,2,0,0,0,15
+Publications,O:I1338503839,2000-2014,10,0,0,5,3,0,0,0,4
+Publications,O:I101479585,2000-2014,21,2,0,4,5,1,0,0,10
+Publications,O:I4210140030,2000-2014,14,0,0,3,2,0,1,1,9
+Publications,O:I127558574,2000-2014,30,9,0,10,3,0,3,0,7
+Publications,O:I4210115317,2000-2014,15,3,0,6,6,0,0,0,2
+Publications,O:I257179599,2000-2014,11,1,0,4,4,1,0,0,1
+Publications,O:I907500627,2000-2014,4,1,0,1,1,0,0,0,1
+Publications,O:I36527812,2000-2014,21,0,0,6,14,0,0,0,1
+Publications,O:I1341412227,2000-2014,13,1,0,0,8,1,1,0,3
+Publications,C:MD,2000-2014,9,0,0,0,0,0,0,0,9
+Publications,O:I4210108542,2000-2014,17,1,0,5,5,0,0,0,7
+Publications,O:I158108717,2000-2014,6,0,0,1,3,0,0,0,2
+Publications,O:I4210131237,2000-2014,9,4,0,2,4,0,0,0,1
+Publications,O:I1342131907,2000-2014,9,0,0,0,3,0,0,0,6
+Publications,O:I4387154587,2000-2014,23,6,0,4,4,0,0,0,9
+Publications,O:I4210136064,2000-2014,13,0,0,4,2,0,1,0,7
+Publications,O:I151809719,2000-2014,7,3,0,0,0,0,1,1,2
+Publications,O:I4210112383,2000-2014,7,1,0,0,3,1,0,0,3
+Publications,O:I4210128183,2000-2014,1,0,0,0,0,0,1,0,0
+Publications,O:I164928964,2000-2014,6,0,0,1,3,0,0,0,3
+Publications,C:MU,2000-2014,13,0,0,10,2,2,0,0,2
+Publications,O:I4210145660,2000-2014,6,1,0,4,0,0,0,0,1
+Publications,C:EC,2000-2014,13,0,0,1,4,0,0,2,6
+Publications,O:I4210150908,2000-2014,1,1,0,0,0,0,0,0,0
+Publications,O:I200439574,2000-2014,16,3,0,1,2,1,3,0,8
+Publications,O:I168192097,2000-2014,10,1,0,1,0,0,0,0,8
+Publications,O:I4210138243,2000-2014,6,3,0,2,1,0,0,0,0
+Publications,O:I7923278,2000-2014,16,0,0,2,5,2,1,0,7
+Publications,O:I4210136559,2000-2014,2,0,0,1,0,0,0,0,1
+Publications,O:I4210088555,2000-2014,8,0,0,4,1,0,0,0,3
+Publications,C:BJ,2000-2014,8,2,0,2,1,0,0,0,3
+Publications,O:I32393484,2000-2014,13,0,0,7,6,0,1,1,2
+Publications,O:I4210128200,2000-2014,10,1,0,1,7,0,0,0,2
+Publications,O:I62856769,2000-2014,5,0,0,0,3,1,2,0,0
+Publications,O:I1330063522,2000-2014,20,1,1,14,2,2,1,0,2
+Publications,O:I167027274,2000-2014,36,5,0,14,12,0,0,0,10
+Publications,C:CR,2000-2014,11,2,0,6,1,0,0,0,3
+Publications,C:KE,2000-2014,23,3,0,5,9,0,2,0,6
+Publications,C:SY,2000-2014,12,0,0,3,3,0,0,0,7
+Publications,C:SN,2000-2014,4,0,0,1,2,0,0,0,1
+Publications,C:KW,2000-2014,21,0,0,7,7,1,0,0,7
+Publications,C:ZM,2000-2014,5,0,0,0,0,0,0,1,4
+Publications,O:I1300504238,2000-2014,7,0,0,4,1,0,0,0,2
+Publications,O:I4210136872,2000-2014,4,1,0,2,1,1,0,0,1
+Publications,O:I4210107172,2000-2014,7,3,0,0,2,0,0,0,2
+Publications,C:RW,2000-2014,4,1,0,0,1,0,0,0,2
+Publications,O:I4210159094,2000-2014,3,0,0,0,0,0,0,0,3
+Publications,O:I182023848,2000-2014,6,0,0,2,2,0,0,1,1
+Publications,O:I4210111911,2000-2014,2,0,0,2,0,0,0,0,0
+Publications,O:I51409038,2000-2014,8,1,0,0,1,1,0,0,5
+Publications,O:I4210161797,2000-2014,3,1,0,1,0,0,1,0,1
+Publications,O:I4210113975,2000-2014,3,0,0,1,2,0,0,0,0
+Publications,O:I4210135984,2000-2014,1,0,0,0,1,0,0,0,0
+Publications,C:LY,2000-2014,3,0,0,1,1,0,0,0,1
+Publications,O:I4210095558,2000-2014,1,0,0,0,1,0,0,0,0
+Publications,O:I4210165351,2000-2014,9,4,0,1,1,0,0,0,3
+Publications,O:I4210100607,2000-2014,1,0,0,1,0,0,0,0,0
+Publications,O:I103084370,2000-2014,4,0,0,2,1,0,0,0,1
+Publications,O:I188703185,2000-2014,14,1,0,4,6,0,0,0,4
+Publications,O:I4210120325,2000-2014,2,2,0,0,0,0,0,0,0
+Publications,O:I4210096850,2000-2014,1,0,0,1,0,0,0,0,0
+Publications,O:I98227222,2000-2014,5,0,0,2,1,0,0,1,1
+Publications,O:I4210140553,2000-2014,3,0,0,1,1,0,0,0,1
+Publications,O:I4210143841,2000-2014,4,0,0,1,0,1,0,0,2
+Publications,O:I4210107917,2000-2014,9,8,1,2,0,0,0,0,0
+Publications,O:I4210144430,2000-2014,6,0,0,4,1,0,0,0,1
+Publications,C:MO,2000-2014,4,0,0,0,2,1,0,0,1
+Publications,O:I4210166196,2000-2014,2,0,0,0,1,0,0,0,1
+Publications,O:I889804353,2000-2014,5,1,0,1,2,0,1,0,1
+Publications,O:I4210108106,2000-2014,3,0,0,1,2,0,0,0,0
+Publications,O:I1295346377,2000-2014,7,4,0,0,3,0,0,0,0
+Publications,O:I1285764155,2000-2014,6,0,0,1,2,0,0,0,3
+Publications,O:UniTo hospital,2000-2014,2,0,0,0,1,0,0,0,1
+Publications,O:I4210123319,2000-2014,1,0,0,0,0,0,0,0,1
+Publications,O:I114007267,2000-2014,2,0,0,0,0,0,0,1,1
+Publications,O:I4210121781,2000-2014,1,0,0,1,0,0,0,0,0
+Publications,O:I4210120238,2000-2014,1,0,0,0,0,0,0,0,1
+Publications,O:I4210135994,2000-2014,1,0,0,0,0,0,0,0,1
+Publications,O:I4210145126,2000-2014,1,1,0,0,0,0,0,0,0
+Publications,A:World,2015-2025,215021,26487,3707,56369,73818,11449,6755,31342,51705
+Publications,C:BR,2015-2025,5081,648,80,1711,1254,214,129,767,1386
+Publications,C:PT,2015-2025,2376,381,26,609,677,138,104,566,487
+Publications,O:I17974374,2015-2025,697,112,12,201,176,21,14,108,196
+Publications,O:I182534213,2015-2025,392,36,3,85,101,18,8,107,117
+Publications,C:RO,2015-2025,1384,227,12,510,479,65,31,176,250
+Publications,A:Italy,2015-2025,7430,1310,94,2011,2261,574,281,1663,1528
+Publications,C:CA,2015-2025,4767,768,82,1061,1437,333,165,995,1135
+Publications,C:IT,2015-2025,7430,1310,94,2011,2261,574,281,1663,1528
+Publications,O:I181391015,2015-2025,347,49,4,124,97,13,12,37,104
+Publications,O:I93860229,2015-2025,307,52,9,85,134,50,6,25,25
+Publications,C:IN,2015-2025,15492,1918,222,6198,4453,751,487,1885,3491
+Publications,O:I145894827,2015-2025,238,38,2,73,93,19,5,21,50
+Publications,C:CZ,2015-2025,1595,237,19,484,531,84,38,220,364
+Publications,C:HK,2015-2025,1148,93,10,220,480,66,31,262,241
+Publications,C:US,2015-2025,21875,2324,484,5107,7461,1396,711,3059,5801
+Publications,O:I219193219,2015-2025,415,42,3,86,136,36,17,45,129
+Publications,C:DE,2015-2025,7828,1306,119,1619,2762,533,321,1606,1497
+Publications,O:I3019562804,2015-2025,42,1,1,8,17,2,4,12,9
+Publications,O:I889804353,2015-2025,55,5,2,16,14,5,3,17,21
+Publications,C:NZ,2015-2025,645,69,2,147,197,39,14,214,157
+Publications,C:DK,2015-2025,1368,150,16,292,492,128,27,379,304
+Publications,O:I96673099,2015-2025,448,60,7,105,177,62,5,113,95
+Publications,C:FR,2015-2025,4935,875,120,996,1515,243,240,949,1130
+Publications,C:CN,2015-2025,39503,4603,681,8669,15499,1489,1367,5496,9198
+Publications,O:I100532134,2015-2025,303,45,9,58,87,8,10,45,88
+Publications,O:I1294671590,2015-2025,2416,485,64,465,737,86,132,489,495
+Publications,O:I183067930,2015-2025,814,40,31,220,369,45,28,88,125
+Publications,C:IR,2015-2025,4459,385,29,1626,1198,121,225,362,1154
+Publications,C:ZA,2015-2025,1489,153,18,384,447,105,48,332,426
+Publications,C:GB,2015-2025,7498,803,113,1640,2633,620,224,1845,1512
+Publications,C:RU,2015-2025,3712,347,29,1246,1077,87,141,355,942
+Publications,O:I1313323035,2015-2025,257,35,0,108,51,2,14,29,52
+Publications,C:NL,2015-2025,2884,495,78,580,861,246,83,864,505
+Publications,C:ES,2015-2025,6031,1046,88,1565,1775,399,249,1247,1477
+Publications,O:I142263535,2015-2025,226,30,3,75,74,18,13,25,33
+Publications,C:TW,2015-2025,1884,222,31,524,581,77,67,252,529
+Publications,O:I169108374,2015-2025,563,149,15,146,169,37,77,37,98
+Publications,O:I154526488,2015-2025,302,11,1,94,66,4,5,21,120
+Publications,O:I879563668,2015-2025,403,51,9,132,84,13,14,59,118
+Publications,C:JP,2015-2025,5413,749,89,1232,2017,236,157,724,1057
+Publications,O:I74801974,2015-2025,406,70,9,95,166,35,12,60,45
+Publications,O:I83558840,2015-2025,266,83,4,66,60,17,17,51,59
+Publications,O:I157725225,2015-2025,332,20,16,44,143,11,13,23,106
+Publications,C:ID,2015-2025,4661,307,116,1287,1660,165,44,846,1180
+Publications,C:BE,2015-2025,1933,331,62,367,745,172,99,301,444
+Publications,O:I23946033,2015-2025,400,38,1,175,118,16,25,36,74
+Publications,C:MY,2015-2025,4610,749,84,1724,1272,228,93,613,1049
+Publications,O:I139322472,2015-2025,588,138,10,271,119,30,9,73,121
+Publications,O:I4576418,2015-2025,616,97,20,265,164,27,22,72,112
+Publications,C:AU,2015-2025,4434,315,63,915,1736,331,134,1088,859
+Publications,C:PL,2015-2025,3530,496,38,1198,1067,178,158,425,802
+Publications,C:AR,2015-2025,880,181,10,228,189,19,14,169,270
+Publications,O:I151201029,2015-2025,596,141,9,164,121,11,10,98,186
+Publications,O:I20231570,2015-2025,525,34,6,124,236,37,16,84,100
+Publications,O:I99065089,2015-2025,875,106,25,190,397,64,28,120,137
+Publications,O:I99542240,2015-2025,355,75,4,162,79,9,10,49,48
+Publications,O:I90610280,2015-2025,929,230,40,270,328,29,58,60,150
+Publications,O:I114027177,2015-2025,322,14,2,66,98,8,21,15,124
+Publications,O:I115592961,2015-2025,479,92,4,110,187,16,15,60,142
+Publications,O:I19820366,2015-2025,3277,371,67,735,1087,138,146,729,770
+Publications,O:I4210165038,2015-2025,1586,195,29,294,544,63,72,354,386
+Publications,O:I76130692,2015-2025,1042,105,21,250,419,61,47,153,196
+Publications,C:TR,2015-2025,3191,371,45,937,787,154,95,469,916
+Publications,C:MX,2015-2025,1665,220,19,568,418,72,43,291,418
+Publications,O:I9360294,2015-2025,457,142,2,141,156,42,24,63,75
+Publications,C:AT,2015-2025,1426,312,49,300,601,105,39,236,248
+Publications,O:I102335020,2015-2025,297,66,7,45,110,19,37,19,45
+Publications,O:I3923682,2015-2025,509,44,9,131,239,16,27,23,86
+Publications,O:I24185976,2015-2025,1170,160,36,342,463,44,56,83,206
+Publications,C:EG,2015-2025,2909,300,25,851,817,118,99,193,1016
+Publications,C:KR,2015-2025,5526,757,85,1638,1619,231,223,826,1350
+Publications,O:I194450716,2015-2025,583,43,7,117,269,13,29,35,143
+Publications,C:NG,2015-2025,1915,154,32,499,566,96,20,299,726
+Publications,C:TH,2015-2025,2412,378,41,833,588,111,36,324,695
+Publications,O:I134820265,2015-2025,239,68,0,77,71,9,11,46,50
+Publications,C:JO,2015-2025,346,29,4,104,127,17,6,15,98
+Publications,C:SA,2015-2025,2968,308,45,889,936,169,107,299,813
+Publications,O:I28022161,2015-2025,698,79,6,217,172,29,19,88,244
+Publications,O:I154425047,2015-2025,289,46,3,87,75,17,7,37,85
+Publications,O:I130442723,2015-2025,292,28,7,101,88,8,10,32,71
+Publications,O:I185261750,2015-2025,555,77,8,98,155,34,13,150,137
+Publications,C:QA,2015-2025,390,26,4,93,170,43,11,57,81
+Publications,O:I193775966,2015-2025,308,38,8,131,79,14,15,39,58
+Publications,O:I151746483,2015-2025,253,47,1,69,90,19,11,53,43
+Publications,O:I87445476,2015-2025,408,25,25,85,198,19,19,29,66
+Publications,O:I138689650,2015-2025,270,37,3,65,107,12,12,40,52
+Publications,O:I130238516,2015-2025,302,44,9,70,111,30,18,34,63
+Publications,O:I24943067,2015-2025,519,25,7,137,216,15,15,60,99
+Publications,O:I686019,2015-2025,355,33,2,142,122,25,15,23,67
+Publications,C:PK,2015-2025,2290,266,12,798,669,115,60,297,647
+Publications,C:SE,2015-2025,1905,477,22,304,629,159,85,358,467
+Publications,O:I86987016,2015-2025,422,171,5,95,137,47,30,38,70
+Publications,C:CM,2015-2025,100,5,2,18,35,11,0,9,44
+Publications,O:I157485424,2015-2025,257,53,5,56,113,15,26,12,25
+Publications,O:I58716616,2015-2025,236,25,8,90,83,7,12,23,26
+Publications,O:I66867065,2015-2025,371,21,3,46,105,17,12,212,69
+Publications,O:I4210088555,2015-2025,12,0,0,9,1,0,0,0,2
+Publications,O:I47689461,2015-2025,299,122,11,93,89,17,12,23,42
+Publications,O:I4210117026,2015-2025,42,18,2,5,17,2,3,1,10
+Publications,O:I4210093057,2015-2025,39,10,0,14,7,0,2,2,11
+Publications,O:I82724352,2015-2025,381,55,12,146,107,10,6,36,107
+Publications,O:I33849332,2015-2025,517,91,7,176,125,21,13,59,161
+Publications,O:I62916508,2015-2025,341,89,5,72,102,27,12,60,62
+Publications,C:DZ,2015-2025,534,58,3,142,204,19,30,27,148
+Publications,O:I51409038,2015-2025,20,1,1,2,4,1,0,0,11
+Publications,O:I87216513,2015-2025,246,38,6,72,86,34,8,34,63
+Publications,C:PS,2015-2025,91,15,1,14,33,6,1,2,37
+Publications,C:MA,2015-2025,545,73,5,130,127,14,16,115,162
+Publications,O:I99682543,2015-2025,373,55,5,172,114,22,17,22,45
+Publications,C:BJ,2015-2025,52,3,0,13,19,4,1,15,19
+Publications,O:I158842170,2015-2025,329,24,2,60,155,20,6,52,53
+Publications,O:I116953780,2015-2025,651,26,9,144,326,40,10,118,108
+Publications,O:I8961855,2015-2025,370,55,5,119,86,10,9,62,94
+Publications,O:I47720641,2015-2025,541,38,5,80,258,15,25,18,139
+Publications,O:I14243506,2015-2025,365,38,5,75,181,25,13,61,56
+Publications,O:I32597200,2015-2025,532,75,31,90,256,67,16,90,76
+Publications,O:I4210131959,2015-2025,422,63,0,163,85,8,20,7,144
+Publications,O:I205237279,2015-2025,453,38,5,78,147,18,12,141,131
+Publications,O:I4210092888,2015-2025,353,32,10,157,106,16,16,4,70
+Publications,O:I45129253,2015-2025,359,30,2,111,125,43,16,37,76
+Publications,C:VN,2015-2025,963,94,1,217,339,53,18,251,249
+Publications,C:SG,2015-2025,1357,156,49,390,568,94,57,183,197
+Publications,C:SK,2015-2025,537,98,9,173,186,20,13,44,131
+Publications,O:I172675005,2015-2025,448,44,17,134,184,33,18,54,63
+Publications,O:I141596103,2015-2025,382,52,5,74,131,28,23,65,77
+Publications,O:I154851008,2015-2025,261,52,7,109,96,20,6,15,37
+Publications,O:I108290504,2015-2025,350,114,2,130,98,19,11,73,58
+Publications,O:I79619799,2015-2025,291,16,7,61,124,22,3,87,69
+Publications,O:I177909021,2015-2025,340,54,6,127,118,20,11,41,76
+Publications,O:I205783295,2015-2025,329,26,9,75,120,25,24,47,65
+Publications,O:I907500627,2015-2025,20,2,0,6,3,2,0,1,9
+Publications,O:I9617848,2015-2025,285,70,10,98,90,23,7,21,42
+Publications,O:I165143802,2015-2025,455,70,3,123,119,24,9,102,114
+Publications,O:I165779595,2015-2025,264,8,4,51,93,23,2,45,91
+Publications,O:I158708052,2015-2025,493,98,9,140,130,22,4,97,124
+Publications,O:I76569877,2015-2025,416,18,3,82,216,19,7,55,71
+Publications,C:NO,2015-2025,1253,106,19,194,328,104,18,595,307
+Publications,O:I98358874,2015-2025,314,64,13,38,141,38,9,54,30
+Publications,C:HU,2015-2025,595,58,13,167,219,33,21,65,137
+Publications,C:HR,2015-2025,336,26,5,91,90,15,8,106,92
+Publications,C:IE,2015-2025,852,145,7,293,242,44,14,190,195
+Publications,O:I173911158,2015-2025,251,54,4,57,100,14,12,18,49
+Publications,O:I130701444,2015-2025,335,40,18,80,167,29,17,17,41
+Publications,O:I99364266,2015-2025,439,73,3,138,129,20,27,57,99
+Publications,O:I24603500,2015-2025,247,14,9,62,66,9,5,65,72
+Publications,O:I1316910977,2015-2025,25,2,1,7,3,2,1,5,10
+Publications,C:ET,2015-2025,628,61,16,212,182,35,9,44,219
+Publications,C:RS,2015-2025,472,59,6,146,153,29,14,84,140
+Publications,O:I71267560,2015-2025,496,97,7,176,124,19,6,91,138
+Publications,O:I27837315,2015-2025,330,5,5,80,91,32,8,35,108
+Publications,O:I27357992,2015-2025,431,65,16,100,190,29,11,43,100
+Publications,C:IQ,2015-2025,1225,59,29,250,501,52,35,59,425
+Publications,C:PH,2015-2025,560,41,14,117,168,30,3,201,140
+Publications,O:I60134161,2015-2025,165,26,1,19,94,5,5,12,19
+Publications,O:I204983213,2015-2025,590,47,14,151,283,26,12,79,99
+Publications,O:I72951846,2015-2025,267,56,13,89,94,19,11,42,50
+Publications,C:CY,2015-2025,193,12,1,36,68,11,4,43,49
+Publications,C:KW,2015-2025,181,18,0,63,73,25,3,27,32
+Publications,C:FI,2015-2025,1110,282,8,227,377,96,27,203,211
+Publications,O:I885383172,2015-2025,375,74,9,115,110,11,6,46,89
+Publications,O:I75390827,2015-2025,762,191,47,176,334,28,35,30,118
+Publications,C:BG,2015-2025,339,44,9,118,91,20,13,42,61
+Publications,C:LV,2015-2025,243,90,4,69,91,22,6,26,29
+Publications,C:LK,2015-2025,333,37,1,93,103,21,6,95,93
+Publications,O:I126520041,2015-2025,622,88,29,125,278,29,29,41,117
+Publications,C:KZ,2015-2025,302,19,3,90,121,11,13,30,79
+Publications,O:I91045830,2015-2025,306,36,13,66,102,24,10,46,70
+Publications,C:IL,2015-2025,580,38,20,223,170,23,21,57,126
+Publications,O:I40120149,2015-2025,273,23,2,38,118,23,6,48,67
+Publications,O:I114531698,2015-2025,238,74,3,61,80,10,17,10,33
+Publications,C:LT,2015-2025,299,61,6,75,100,25,7,51,59
+Publications,C:CH,2015-2025,1632,197,22,368,559,139,46,320,376
+Publications,C:GR,2015-2025,1259,261,23,312,434,84,31,271,285
+Publications,O:I887968799,2015-2025,622,137,9,114,302,95,30,85,68
+Publications,O:I139264467,2015-2025,419,40,5,112,124,8,22,38,121
+Publications,O:I130343225,2015-2025,670,123,19,275,126,13,8,81,206
+Publications,O:I4210107087,2015-2025,90,15,4,22,18,5,7,14,37
+Publications,O:I74680897,2015-2025,27,4,0,8,5,2,1,9,8
+Publications,O:I165932596,2015-2025,678,95,23,200,287,55,26,124,81
+Publications,C:MU,2015-2025,37,6,0,8,10,0,0,15,5
+Publications,O:I205349734,2015-2025,275,59,2,33,110,8,7,39,59
+Publications,O:I54009628,2015-2025,324,55,5,100,71,12,14,151,42
+Publications,O:I143593769,2015-2025,529,83,16,129,242,16,27,36,88
+Publications,O:I5124864,2015-2025,214,46,3,42,99,20,11,23,38
+Publications,O:I5023651,2015-2025,398,74,7,84,94,16,12,83,149
+Publications,O:I4210138501,2015-2025,333,18,1,109,68,24,6,80,114
+Publications,O:I82951845,2015-2025,329,23,8,90,160,33,9,63,46
+Publications,A:Piedmont,2015-2025,719,158,19,159,250,56,44,116,126
+Publications,O:Politecnico di Torino,2015-2025,345,110,17,63,138,35,33,12,29
+Publications,C:ZW,2015-2025,78,3,0,14,27,7,2,7,34
+Publications,C:AZ,2015-2025,108,14,0,28,45,6,5,14,30
+Publications,O:I135310074,2015-2025,262,48,2,53,133,23,7,18,49
+Publications,O:I4210138594,2015-2025,262,58,1,81,55,13,19,35,76
+Publications,O:I137902535,2015-2025,325,70,3,110,93,25,14,44,56
+Publications,O:I167027274,2015-2025,672,263,23,189,212,37,23,72,122
+Publications,O:I4210144289,2015-2025,317,5,1,37,69,13,0,129,138
+Publications,O:I4210155236,2015-2025,615,120,8,180,129,19,14,215,100
+Publications,O:I76903346,2015-2025,310,79,3,94,74,15,13,67,61
+Publications,O:I2250650973,2015-2025,47,4,3,19,12,3,2,0,10
+Publications,O:I4575257,2015-2025,306,43,4,70,93,13,19,35,91
+Publications,C:UA,2015-2025,724,45,11,191,234,19,20,61,240
+Publications,O:I95457486,2015-2025,224,28,4,43,80,22,5,25,63
+Publications,O:I19894307,2015-2025,269,82,7,58,68,12,15,50,61
+Publications,C:GH,2015-2025,364,11,6,43,145,23,6,102,146
+Publications,C:TN,2015-2025,466,73,1,98,104,14,7,103,164
+Publications,C:PE,2015-2025,323,17,1,79,71,15,0,138,82
+Publications,O:I154099455,2015-2025,466,48,4,112,192,22,15,76,102
+Publications,O:I89652312,2015-2025,376,29,2,123,42,42,1,145,92
+Publications,C:TJ,2015-2025,52,10,0,23,19,2,0,4,10
+Publications,O:I19880235,2015-2025,321,39,0,134,82,7,18,37,47
+Publications,O:I4210155898,2015-2025,353,147,6,129,99,21,25,22,66
+Publications,C:VE,2015-2025,71,7,1,22,10,4,4,8,24
+Publications,O:I159948400,2015-2025,346,18,5,71,105,4,9,66,132
+Publications,O:I16733864,2015-2025,293,38,4,67,87,11,12,40,89
+Publications,O:I139024713,2015-2025,366,50,2,57,160,18,17,74,61
+Publications,O:I37461747,2015-2025,370,36,6,106,147,27,17,34,65
+Publications,O:I22299242,2015-2025,307,45,0,55,126,14,13,38,63
+Publications,O:I111979921,2015-2025,242,18,25,40,134,14,12,9,28
+Publications,O:I118019719,2015-2025,4,0,0,0,2,0,0,0,2
+Publications,O:I99464096,2015-2025,344,49,5,50,163,36,14,31,85
+Publications,O:I111599522,2015-2025,569,119,8,166,163,13,34,59,158
+Publications,O:I876193797,2015-2025,385,40,8,150,139,21,4,65,59
+Publications,O:I4210116048,2015-2025,346,45,7,73,214,27,27,13,16
+Publications,O:I159176309,2015-2025,267,47,10,56,124,14,8,51,55
+Publications,O:I139660479,2015-2025,540,46,4,90,283,17,14,72,98
+Publications,O:I98285908,2015-2025,211,41,2,57,74,6,10,16,31
+Publications,O:I17145004,2015-2025,262,17,28,43,125,5,22,13,46
+Publications,O:I168719708,2015-2025,290,25,2,50,100,16,9,96,65
+Publications,O:I187531555,2015-2025,236,81,5,42,76,20,6,35,50
+Publications,C:SI,2015-2025,562,97,11,112,194,47,7,148,121
+Publications,O:I145311948,2015-2025,280,14,1,112,51,12,0,23,100
+Publications,O:I145487455,2015-2025,389,32,1,106,54,5,14,17,203
+Publications,O:I102322142,2015-2025,226,11,0,61,44,9,2,56,80
+Publications,C:CL,2015-2025,717,107,5,204,185,25,22,198,171
+Publications,O:I197347611,2015-2025,416,41,8,126,135,24,18,91,109
+Publications,O:I130769515,2015-2025,287,33,6,72,122,20,9,26,46
+Publications,O:I35440088,2015-2025,447,52,5,105,194,47,14,81,69
+Publications,C:PR,2015-2025,56,1,1,11,16,3,1,12,18
+Publications,O:I141945490,2015-2025,395,65,9,87,129,30,15,71,76
+Publications,O:I125839683,2015-2025,280,31,5,48,114,12,22,10,77
+Publications,O:I189158943,2015-2025,292,29,2,73,77,13,8,71,94
+Publications,O:I181326427,2015-2025,471,96,17,177,163,13,24,33,57
+Publications,O:I68891433,2015-2025,270,46,1,108,97,12,7,23,29
+Publications,O:I241749,2015-2025,243,10,13,28,127,29,11,34,38
+Publications,O:I913481162,2015-2025,530,82,11,74,113,30,11,305,89
+Publications,O:I122140584,2015-2025,396,58,5,136,112,25,10,45,99
+Publications,O:I848706,2015-2025,291,38,10,98,101,19,7,40,39
+Publications,O:I4210152478,2015-2025,187,15,7,69,68,6,10,5,31
+Publications,O:I86519309,2015-2025,184,17,6,35,60,13,14,11,53
+Publications,O:I60053951,2015-2025,336,110,0,122,87,28,4,22,92
+Publications,C:BD,2015-2025,1294,94,5,361,296,35,14,360,467
+Publications,O:I47508984,2015-2025,427,51,6,82,181,31,8,77,92
+Publications,C:LB,2015-2025,233,35,1,44,94,15,5,32,64
+Publications,C:YE,2015-2025,134,13,4,30,43,8,4,21,44
+Publications,O:I134687103,2015-2025,446,88,5,110,188,29,32,32,99
+Publications,O:I4210138243,2015-2025,82,40,0,28,39,3,5,4,6
+Publications,O:I135598925,2015-2025,246,16,7,47,75,15,6,71,38
+Publications,O:I83019370,2015-2025,253,43,15,46,144,13,13,3,21
+Publications,O:I881766915,2015-2025,515,14,5,71,216,16,16,148,122
+Publications,O:I169381384,2015-2025,231,99,6,50,84,20,23,20,24
+Publications,O:I94624287,2015-2025,206,42,2,81,59,21,6,23,26
+Publications,C:EC,2015-2025,397,48,5,96,128,37,6,106,92
+Publications,O:I157773358,2015-2025,562,34,6,132,226,14,23,55,146
+Publications,O:I31746571,2015-2025,407,26,5,68,213,43,19,57,59
+Publications,O:I136199984,2015-2025,338,11,2,98,80,9,7,23,139
+Publications,O:I889458895,2015-2025,416,21,3,86,187,28,12,68,79
+Publications,C:UZ,2015-2025,131,9,2,29,44,6,8,9,36
+Publications,O:I127558574,2015-2025,32,8,3,7,9,0,7,0,1
+Publications,O:I28407311,2015-2025,325,57,4,91,139,35,12,37,39
+Publications,O:I923382979,2015-2025,19,1,0,2,7,0,0,3,10
+Publications,O:I38877650,2015-2025,494,58,6,111,199,22,35,46,94
+Publications,O:I201448701,2015-2025,215,14,8,48,65,13,8,36,58
+Publications,O:I204778367,2015-2025,308,39,2,37,115,49,4,121,92
+Publications,O:I39804081,2015-2025,268,27,1,46,74,2,14,91,66
+Publications,O:I201537933,2015-2025,226,17,3,42,110,18,7,24,49
+Publications,O:I63966007,2015-2025,291,29,3,75,127,25,15,25,53
+Publications,C:CO,2015-2025,818,91,8,215,245,56,11,143,233
+Publications,O:I185163786,2015-2025,324,37,1,110,82,16,10,18,100
+Publications,O:I33213144,2015-2025,286,31,13,48,111,19,5,30,77
+Publications,O:I162868743,2015-2025,580,57,9,137,260,32,20,87,84
+Publications,O:I859038795,2015-2025,204,28,7,48,65,8,8,18,64
+Publications,O:I143413998,2015-2025,397,82,6,77,170,19,15,29,80
+Publications,O:I56590836,2015-2025,276,30,9,69,110,20,11,33,48
+Publications,O:I1312222531,2015-2025,157,47,0,43,25,3,4,16,59
+Publications,O:I4210164971,2015-2025,36,25,0,10,16,13,1,6,0
+Publications,O:I60858718,2015-2025,445,91,1,87,123,25,22,166,71
+Publications,O:I4210140553,2015-2025,28,0,0,16,4,2,1,0,6
+Publications,C:UG,2015-2025,132,14,1,23,40,7,3,21,55
+Publications,O:I200439574,2015-2025,38,6,0,5,13,3,0,1,17
+Publications,C:GE,2015-2025,46,0,0,20,14,1,0,8,11
+Publications,O:I4210108542,2015-2025,23,3,1,5,8,0,1,6,5
+Publications,O:I106994412,2015-2025,142,26,1,34,77,11,4,9,14
+Publications,O:I4210116579,2015-2025,46,10,0,9,22,0,1,3,8
+Publications,O:I2802964274,2015-2025,23,1,0,6,9,3,3,3,3
+Publications,O:I73613424,2015-2025,194,27,2,63,67,8,4,15,35
+Publications,O:I67348948,2015-2025,14,0,0,4,0,1,1,4,8
+Publications,O:I84218800,2015-2025,234,33,1,30,63,18,1,43,89
+Publications,C:MK,2015-2025,110,10,1,39,41,6,7,13,26
+Publications,O:I97018004,2015-2025,324,19,6,110,123,22,5,66,71
+Publications,O:I900890020,2015-2025,318,62,3,119,92,23,8,78,44
+Publications,O:I75027704,2015-2025,320,62,21,85,134,13,20,45,51
+Publications,O:I4210165351,2015-2025,12,3,0,0,6,0,2,0,1
+Publications,O:I4210161797,2015-2025,56,6,2,10,30,6,1,10,4
+Publications,O:I180726961,2015-2025,363,24,5,62,184,23,10,43,67
+Publications,O:I191208505,2015-2025,339,49,2,48,96,14,22,117,76
+Publications,O:I55712492,2015-2025,372,20,6,87,112,14,10,80,116
+Publications,O:I4210114297,2015-2025,33,5,2,7,19,2,5,1,5
+Publications,O:I31683504,2015-2025,318,144,10,95,100,17,7,17,34
+Publications,O:I200284239,2015-2025,244,40,1,71,51,19,7,41,93
+Publications,O:I21370196,2015-2025,350,116,1,92,87,12,4,53,84
+Publications,O:I4210128183,2015-2025,14,6,1,1,7,1,1,0,1
+Publications,O:UniTo hospital,2015-2025,9,0,0,1,1,1,0,0,6
+Publications,O:UniTo,2015-2025,228,28,2,50,74,14,13,39,58
+Publications,O:I4210120325,2015-2025,23,17,0,4,8,2,1,3,2
+Publications,O:I193662353,2015-2025,315,34,3,48,79,25,0,147,57
+Publications,O:I16609230,2015-2025,298,16,7,65,133,12,10,64,45
+Publications,O:I4210090489,2015-2025,453,17,0,111,126,28,1,189,131
+Publications,O:I861853513,2015-2025,457,85,6,102,188,31,20,87,80
+Publications,C:SD,2015-2025,137,3,1,39,34,7,1,6,61
+Publications,C:EE,2015-2025,187,43,1,37,66,15,5,45,33
+Publications,O:I123338534,2015-2025,43,5,2,12,10,1,4,10,10
+Publications,O:I257179599,2015-2025,14,2,1,7,2,2,0,0,0
+Publications,O:I62856769,2015-2025,24,2,1,5,7,10,0,1,1
+Publications,O:I4210096856,2015-2025,39,12,0,5,17,4,2,0,8
+Publications,C:OM,2015-2025,186,25,4,62,66,15,4,23,40
+Publications,O:I4210090962,2015-2025,10,0,0,0,10,0,0,0,0
+Publications,O:I4210089156,2015-2025,12,3,0,0,4,2,0,1,5
+Publications,O:I4210107172,2015-2025,32,22,2,3,5,1,0,0,2
+Publications,C:KE,2015-2025,348,34,2,60,90,11,5,93,134
+Publications,O:I135705104,2015-2025,3,0,0,0,3,0,0,0,0
+Publications,C:LU,2015-2025,113,27,11,12,47,9,7,7,32
+Publications,O:I4210133143,2015-2025,65,9,2,12,25,5,6,6,22
+Publications,C:AE,2015-2025,639,82,12,193,241,62,13,109,104
+Publications,O:I36527812,2015-2025,15,3,0,2,5,3,0,0,3
+Publications,O:I4210161781,2015-2025,34,15,1,30,13,5,0,7,4
+Publications,O:I159548981,2015-2025,16,1,0,3,4,3,1,6,2
+Publications,C:TZ,2015-2025,156,28,2,25,31,12,1,33,63
+Publications,O:I4210128445,2015-2025,9,2,0,1,2,0,1,3,2
+Publications,C:BY,2015-2025,181,9,0,49,66,3,9,16,52
+Publications,O:I1292974536,2015-2025,26,8,0,1,10,12,0,1,4
+Publications,O:I1342131907,2015-2025,11,1,0,0,3,1,1,1,5
+Publications,C:SY,2015-2025,65,3,0,27,8,1,3,2,30
+Publications,O:I4210131237,2015-2025,59,10,24,1,30,2,2,1,6
+Publications,O:I118347220,2015-2025,4,3,0,0,0,0,0,1,1
+Publications,O:I151809719,2015-2025,27,5,0,1,19,0,1,0,5
+Publications,O:I101479585,2015-2025,347,65,2,72,62,8,13,126,115
+Publications,O:I4210121781,2015-2025,25,4,1,5,9,3,0,5,12
+Publications,C:BN,2015-2025,92,11,1,20,22,5,1,36,33
+Publications,C:IS,2015-2025,51,2,1,6,11,5,0,27,13
+Publications,O:I103084370,2015-2025,29,2,0,8,13,6,5,0,2
+Publications,O:I150264550,2015-2025,12,3,1,1,2,4,1,0,1
+Publications,C:NP,2015-2025,260,14,5,74,76,15,5,39,101
+Publications,O:I1338503839,2015-2025,14,0,0,0,10,0,0,0,4
+Publications,O:I173709673,2015-2025,12,2,0,5,7,1,1,1,0
+Publications,O:I4210166413,2015-2025,9,1,0,1,6,1,0,0,1
+Publications,O:I1291425158,2015-2025,10,0,0,1,5,1,0,2,1
+Publications,C:CR,2015-2025,75,7,2,27,13,0,2,27,13
+Publications,C:BA,2015-2025,61,9,0,15,17,4,3,13,19
+Publications,O:I4210108106,2015-2025,37,5,1,13,6,3,9,2,6
+Publications,O:I114007267,2015-2025,6,0,0,0,0,0,0,6,0
+Publications,O:I4210095558,2015-2025,3,0,0,0,1,0,0,2,2
+Publications,C:LY,2015-2025,78,6,0,19,12,2,0,3,49
+Publications,O:I4210111911,2015-2025,4,0,0,1,4,0,0,0,0
+Publications,O:I44892455,2015-2025,15,5,0,4,1,0,0,0,5
+Publications,O:I1341412227,2015-2025,3,0,0,0,3,0,0,0,0
+Publications,O:I188703185,2015-2025,20,0,0,11,4,0,1,1,5
+Publications,O:I65143321,2015-2025,19,1,0,4,9,2,0,1,5
+Publications,O:I118136607,2015-2025,7,0,0,1,5,0,1,0,1
+Publications,O:I32393484,2015-2025,37,4,0,7,26,4,1,4,2
+Publications,C:BW,2015-2025,72,13,1,10,28,9,1,14,18
+Publications,O:I4210140030,2015-2025,15,4,0,5,0,0,0,4,9
+Publications,C:PY,2015-2025,44,9,0,18,8,3,5,5,15
+Publications,C:MO,2015-2025,128,5,1,34,45,5,1,16,47
+Publications,O:I4210128200,2015-2025,18,7,0,4,8,1,4,1,1
+Publications,O:I4210115317,2015-2025,11,0,0,0,8,0,1,2,4
+Publications,C:CI,2015-2025,61,3,0,11,13,1,0,9,33
+Publications,O:I1283582996,2015-2025,12,0,0,4,4,0,0,0,4
+Publications,C:UY,2015-2025,69,5,1,11,19,0,4,26,21
+Publications,O:I31762744,2015-2025,8,1,0,2,4,0,0,6,0
+Publications,O:I4210135984,2015-2025,26,4,0,3,4,0,0,1,18
+Publications,O:I4387154587,2015-2025,5,0,0,1,3,0,0,1,2
+Publications,O:I4210113975,2015-2025,9,2,0,3,1,0,0,4,0
+Publications,O:I4210145660,2015-2025,27,2,0,16,5,0,2,0,4
+Publications,O:I1285764155,2015-2025,14,0,2,3,5,1,1,0,5
+Publications,O:I4210106541,2015-2025,38,5,4,17,12,0,1,0,5
+Publications,O:I105036370,2015-2025,14,2,0,7,3,0,0,2,4
+Publications,C:KH,2015-2025,45,2,1,11,12,0,0,16,10
+Publications,C:ZM,2015-2025,71,0,1,5,25,1,1,8,36
+Publications,O:I1330063522,2015-2025,11,1,0,5,1,0,0,0,7
+Publications,C:RW,2015-2025,50,0,0,8,19,0,1,13,22
+Publications,O:I4210163439,2015-2025,33,20,0,11,9,2,0,1,6
+Publications,O:I4210145126,2015-2025,27,3,0,13,10,4,0,5,5
+Publications,O:I85461943,2015-2025,466,51,10,219,132,33,13,71,78
+Publications,C:SN,2015-2025,47,3,0,7,10,3,1,5,31
+Publications,C:MD,2015-2025,50,7,2,7,19,4,6,1,12
+Publications,O:I4210144430,2015-2025,23,9,1,9,7,0,2,1,2
+Publications,O:I4210151091,2015-2025,6,0,0,0,5,0,0,1,1
+Publications,O:I1306287861,2015-2025,2,0,0,1,1,0,0,0,0
+Publications,O:I4210136559,2015-2025,16,1,1,3,4,1,1,5,5
+Publications,O:I1300504238,2015-2025,21,3,0,12,8,1,1,4,4
+Publications,O:I7923278,2015-2025,17,5,1,4,4,7,0,1,4
+Publications,O:I4210119016,2015-2025,15,5,0,6,10,0,1,2,1
+Publications,O:I1332737386,2015-2025,5,1,0,2,3,0,0,0,0
+Publications,O:I4210166196,2015-2025,25,1,0,1,0,0,0,20,12
+Publications,C:CU,2015-2025,43,4,1,9,17,1,1,6,7
+Publications,O:I4210159094,2015-2025,10,1,0,0,1,0,8,0,1
+Publications,O:I98227222,2015-2025,50,6,2,13,21,2,2,4,7
+Publications,O:I4210136064,2015-2025,26,3,0,9,9,2,0,1,9
+Publications,O:I4210122849,2015-2025,6,0,1,3,0,1,0,0,1
+Publications,O:I4210096850,2015-2025,18,1,0,7,2,0,0,4,6
+Publications,O:I1292669757,2015-2025,1,0,0,0,1,0,0,0,0
+Publications,O:I74894318,2015-2025,3,0,0,1,2,1,0,0,0
+Publications,O:I4210119509,2015-2025,5,0,0,5,0,0,0,0,0
+Publications,O:I4210162562,2015-2025,26,1,1,1,21,0,2,2,2
+Publications,O:I180857899,2015-2025,14,0,0,2,0,0,1,0,11
+Publications,O:I158108717,2015-2025,18,2,0,1,8,0,1,3,4
+Publications,O:I164928964,2015-2025,24,0,0,8,7,2,2,1,8
+Publications,O:I4210143841,2015-2025,37,0,1,5,15,9,1,5,5
+Publications,O:I182023848,2015-2025,27,5,0,9,6,2,0,3,8
+Publications,O:I1280527723,2015-2025,7,3,0,1,1,1,0,0,3
+Publications,O:I4210112383,2015-2025,25,8,0,6,11,3,0,1,8
+Publications,O:I4210107917,2015-2025,18,3,1,6,7,0,2,1,2
+Publications,O:I4210136872,2015-2025,11,2,0,2,2,0,0,4,2
+Publications,O:I4210120238,2015-2025,26,0,0,6,7,1,2,6,8
+Publications,O:I4210116480,2015-2025,27,2,1,3,16,7,1,6,0
+Publications,O:I4210164117,2015-2025,23,4,2,7,10,5,1,1,2
+Publications,O:I168192097,2015-2025,17,1,0,6,6,2,0,2,3
+Publications,O:I4210150908,2015-2025,14,5,1,2,4,3,2,2,3
+Publications,O:I4210135994,2015-2025,25,1,1,2,21,1,0,0,1
+Publications,O:I194343955,2015-2025,38,4,1,14,18,0,0,3,4
+Publications,O:I4210139629,2015-2025,3,0,0,1,2,0,0,1,0
+Publications,O:I4210148225,2015-2025,25,1,0,1,23,1,0,0,1
+Publications,O:I4210110110,2015-2025,3,0,0,0,0,0,0,3,0
+Publications,O:I73305655,2015-2025,5,4,0,0,0,1,1,0,1
+Publications,O:I4210167157,2015-2025,2,1,0,0,1,0,0,0,1
+Publications,O:I4210123319,2015-2025,2,0,0,0,2,0,0,0,0
+Publications,O:I4210100607,2015-2025,2,0,0,2,0,0,0,0,0
+Publications,O:I4210140063,2015-2025,4,0,0,0,4,0,0,0,0
+Patents,A:World,All years,314265,18898,82,54171,217219,3037,49204,1044,6530
+Patents,C:GB,All years,2870,203,2,834,1925,27,38,3,50
+Patents,O:RAYCHEM CORPORATION,All years,155,0,0,2,153,0,0,0,0
+Patents,C:US,All years,20727,1603,18,6134,13585,257,374,25,417
+Patents,C:NL,All years,1459,99,0,475,945,27,28,1,17
+Patents,O:SHELL INTERNATIONALE RESEARCH MAATSCHAPPIJ,All years,130,1,0,5,125,0,0,0,1
+Patents,C:CA,All years,1816,154,1,477,1269,35,49,3,31
+Patents,C:DE,All years,9622,452,1,1566,7705,62,199,7,85
+Patents,C:FR,All years,2804,240,1,721,1967,23,22,1,44
+Patents,C:SE,All years,566,57,0,162,344,6,20,0,17
+Patents,C:BE,All years,1020,88,0,253,700,12,28,1,7
+Patents,O:DUPONT,All years,270,28,0,62,184,0,6,0,4
+Patents,O:PHILLIPS PETROLEUM COMPANY,All years,118,0,0,1,117,0,0,0,0
+Patents,C:AT,All years,772,35,0,120,629,2,11,1,1
+Patents,C:CH,All years,1234,75,1,386,795,10,18,1,21
+Patents,O:TOYO SEIKAN,All years,113,7,0,30,79,0,1,0,0
+Patents,O:SHELL OIL COMPANY,All years,120,0,0,4,117,0,0,0,0
+Patents,A:Italy,All years,1922,113,2,535,1357,29,19,2,34
+Patents,C:IT,All years,1922,113,2,535,1357,29,19,2,34
+Patents,C:IE,All years,212,15,0,68,133,2,3,0,7
+Patents,C:HK,All years,159,11,0,34,110,3,18,2,4
+Patents,C:IL,All years,343,29,1,170,168,5,6,0,9
+Patents,C:SG,All years,237,15,0,116,117,5,1,0,6
+Patents,C:AU,All years,480,28,1,136,322,10,7,0,5
+Patents,O:DOW CHEMICAL COMPANY,All years,178,1,0,22,151,0,7,0,1
+Patents,O:P&G PROCTER & GAMBLE COMPANY,All years,367,65,0,211,121,9,0,0,1
+Patents,C:NO,All years,117,4,0,27,88,0,2,0,1
+Patents,C:JP,All years,7285,578,1,2243,4631,112,145,14,18
+Patents,C:DK,All years,339,21,0,85,240,6,2,0,3
+Patents,C:ZA,All years,97,8,0,32,66,0,2,1,0
+Patents,O:MITSUBISHI CHEMICALS CORPORATION,All years,381,12,0,109,265,4,1,0,0
+Patents,O:EXXONMOBIL CHEMICAL PATENTS,All years,146,3,1,0,143,1,0,0,0
+Patents,C:KR,All years,12238,655,1,3099,7713,59,2141,29,104
+Patents,C:CN,All years,15420,657,3,2121,11257,75,1710,29,768
+Patents,C:FI,All years,566,68,0,148,375,4,10,1,3
+Patents,C:IN,All years,967,72,2,331,587,37,66,5,25
+Patents,C:TW,All years,2293,163,2,482,1623,27,264,2,54
+Patents,C:RU,All years,2690,46,1,469,2158,10,40,4,69
+Patents,C:ES,All years,1727,87,0,293,1393,37,28,4,20
+Patents,O:IBM INTERNATIONAL BUSINESS MACHINES CORPORATION,All years,168,44,0,69,57,0,4,0,4
+Patents,O:SHARP CORPORATION,All years,113,6,0,4,106,1,1,0,0
+Patents,O:BOREALIS,All years,203,1,0,2,198,5,0,0,0
+Patents,O:MIT MASSACHUSETTS INSTITUTE OF TECHNOLOGY,All years,188,23,1,121,66,1,0,0,16
+Patents,C:GR,All years,168,10,0,33,132,3,14,1,0
+Patents,C:PT,All years,174,25,0,60,99,5,7,0,0
+Patents,C:HU,All years,151,1,0,17,128,0,10,0,0
+Patents,O:COUNCIL OF SCIENTIFIC AND INDUSTRIAL RESEARCH,All years,90,16,1,38,50,4,9,0,2
+Patents,O:NOVAMONT,All years,97,21,0,90,9,0,0,0,0
+Patents,O:GE GENERAL ELECTRIC COMPANY,All years,118,0,0,5,114,0,2,0,1
+Patents,O:BAYER,All years,193,6,0,49,139,1,4,0,1
+Patents,O:BATTELLE MEMORIAL INSTITUTE,All years,53,5,0,27,22,0,2,0,1
+Patents,A:Piedmont,All years,244,25,0,107,132,1,2,0,3
+Patents,O:ISTITUTO GUIDO DONEGANI,All years,4,0,0,0,4,0,0,0,0
+Patents,O:AMUT,All years,7,0,0,0,7,0,0,0,0
+Patents,C:MX,All years,628,51,0,153,441,47,46,1,20
+Patents,O:TOSHIBA CORPORATION,All years,382,0,0,24,360,0,3,0,0
+Patents,O:JSR CORPORATION JAPAN SYNTHETIC RUBBER,All years,229,4,0,39,187,0,2,0,0
+Patents,O:FIAT AUTO,All years,8,0,0,0,8,0,0,0,0
+Patents,O:TECNOCOLOR SAS DI CELEBRANO A & COMPANY,All years,3,0,0,1,2,0,0,0,0
+Patents,O:ABET LAMINATI,All years,4,0,0,0,4,0,0,0,0
+Patents,O:COBARR,All years,6,0,0,0,6,0,0,0,0
+Patents,O:CIUFFO GATTO,All years,3,0,0,3,0,0,0,0,0
+Patents,C:BR,All years,491,83,1,142,325,27,15,0,10
+Patents,O:MONDO,All years,4,0,0,1,3,0,0,0,0
+Patents,C:TR,All years,261,21,0,63,183,15,11,2,2
+Patents,O:HITACHI,All years,386,3,0,35,351,0,4,0,0
+Patents,O:SHIN ETSU CHEMICAL COMPANY,All years,313,8,0,216,84,6,1,0,8
+Patents,O:MITSUBISHI HEAVY INDUSTRIES,All years,256,2,0,9,248,0,0,0,0
+Patents,O:TORAY INDUSTRIES,All years,725,168,0,168,440,4,16,0,0
+Patents,O:KAO CORPORATION,All years,329,64,0,98,148,36,5,1,0
+Patents,O:TEIJIN,All years,320,65,0,96,184,4,1,0,0
+Patents,O:TOPPAN PRINTING COMPANY,All years,296,29,0,104,194,0,11,0,0
+Patents,O:MITSUBISHI GAS CHEMICAL COMPANY,All years,148,20,0,42,96,1,1,0,0
+Patents,O:NIPPON STEEL CORPORATION,All years,283,0,0,12,274,0,0,0,0
+Patents,O:MITSUI TOATSU CHEMICALS,All years,226,60,0,67,131,2,1,0,2
+Patents,O:CANON,All years,396,76,0,87,272,6,1,0,0
+Patents,O:SONY CORPORATION,All years,185,5,0,47,138,0,0,0,0
+Patents,O:KONICA CORPORATION,All years,108,0,0,21,85,0,2,0,0
+Patents,O:SUMITOMO CHEMICAL COMPANY,All years,275,30,0,28,223,1,0,0,0
+Patents,O:TERUMO CORPORATION,All years,120,12,0,67,55,1,0,0,1
+Patents,O:ASAHI CHEMICAL AND INDUSTRIAL COMPANY,All years,292,3,0,57,238,1,2,0,0
+Patents,O:SUMITOMO ELECTRIC INDUSTRIES,All years,114,6,0,16,97,2,0,0,0
+Patents,O:PANASONIC CORPORATION,All years,401,7,0,58,343,0,5,0,0
+Patents,O:FURUKAWA ELECTRIC CO LTD,All years,110,2,1,9,99,0,1,0,0
+Patents,O:SEKISUI CHEMICAL COMPANY,All years,257,3,0,36,199,18,6,0,1
+Patents,O:AIST NATIONAL INSTITUTE OF ADVANCED INDUSTRIAL SCIENCE AND TECHNOLOGY METI,All years,352,32,0,130,215,4,3,0,0
+Patents,O:MITSUI CHEMICALS,All years,277,42,0,110,141,3,4,1,1
+Patents,O:KURARAY COMPANY,All years,457,22,0,158,263,1,20,3,2
+Patents,O:FUJIFILM,All years,581,8,0,169,395,13,8,0,0
+Patents,O:TOSOH CORPORATION,All years,152,12,0,14,124,3,0,0,0
+Patents,O:MITSUBISHI PLASTICS,All years,228,120,0,85,86,0,4,0,0
+Patents,O:SHIMADZU CORPORATION,All years,186,111,0,83,43,0,0,1,0
+Patents,O:MITSUBISHI RAYON COMPANY,All years,343,17,0,51,272,2,7,0,0
+Patents,O:TOYOBO COMPANY,All years,337,26,0,89,238,2,9,0,0
+Patents,O:HITACHI ZOSEN CORPORATION,All years,195,4,0,5,191,1,0,0,0
+Patents,O:ASAHI GLASS COMPANY,All years,126,0,0,8,105,9,4,0,0
+Patents,O:NKK CORPORATION,All years,277,2,0,11,266,0,0,0,0
+Patents,O:NIPPON SHOKUBAI COMPANY,All years,289,2,0,105,173,10,4,0,2
+Patents,O:NITTO DENKO CORPORATION,All years,296,15,0,58,217,4,13,0,0
+Patents,O:KANEBO,All years,146,29,0,56,68,8,0,0,1
+Patents,O:KANEGAFUCHI CHEMICAL INDUSTRY COMPANY,All years,128,16,0,23,92,1,1,0,1
+Patents,O:TOYOTA MOTOR CORPORATION,All years,214,42,0,33,158,1,2,0,0
+Patents,O:MITSUBISHI ELECTRIC CORPORATION,All years,158,5,0,15,139,0,1,0,0
+Patents,O:DAICEL CORPORATION,All years,180,4,0,90,89,1,2,0,3
+Patents,O:DNP DAINIPPON PRINTING COMPANY,All years,271,19,0,41,184,26,23,0,2
+Patents,O:UBE IND,All years,153,1,0,18,136,0,0,0,0
+Patents,O:UNITIKA,All years,345,174,0,177,83,2,2,0,2
+Patents,O:HITACHI CHEMICAL COMPANY,All years,187,4,0,40,150,1,2,0,1
+Patents,O:PANASONIC ELECTRIC WORKS,All years,115,1,0,5,111,0,1,0,0
+Patents,O:ZEON CORPORATION,All years,225,3,0,24,200,4,0,0,0
+Patents,O:SHOWA DENKO,All years,184,12,0,29,145,0,7,0,0
+Patents,O:BRIDGESTONE CORPORATION,All years,143,2,1,15,123,5,0,0,1
+Patents,O:IDEMITSU PETROCHEM COMPANY,All years,108,4,0,32,74,0,2,0,1
+Patents,O:ASAHI KASEI,All years,126,10,0,28,95,1,3,1,0
+Patents,O:DIC CORPORATION,All years,281,18,0,85,185,0,9,0,0
+Patents,O:RICOH COMPANY,All years,248,17,0,35,205,1,6,0,0
+Patents,O:JAPAN STEEL WORKS,All years,114,12,0,18,96,0,1,0,0
+Patents,O:SANYO CHEM IND,All years,130,9,0,18,109,0,0,0,0
+Patents,O:SEIKO EPSON CORPORATION,All years,183,0,0,23,150,1,11,0,0
+Patents,O:KURITA WATER IND,All years,160,1,0,25,147,0,0,0,0
+Patents,O:HONDA MOTOR COMPANY,All years,122,1,0,7,116,0,1,0,0
+Patents,O:JAPAN SCIENCE AND TECHNOLOGY AGENCY,All years,95,4,0,29,67,0,2,0,0
+Patents,O:TOKYO OHKA KOGYO COMPANY,All years,115,0,0,106,8,1,0,0,0
+Patents,O:KANEKA CORPORATION,All years,336,103,0,124,123,5,8,0,0
+Patents,C:PH,All years,202,11,0,60,150,5,19,0,4
+Patents,O:3M INNOVATIVE PROPERTIES COMPANY MINNESOTA MINING AND MANUFACTURING INNOVATIVE PROPERTIES COMPANY,All years,125,23,0,28,70,1,4,0,0
+Patents,O:KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY,All years,247,19,1,81,146,5,30,5,2
+Patents,O:KIST KOREA INSTITUTE OF SCIENCE AND TECHNOLOGY,All years,201,18,2,89,111,1,23,1,1
+Patents,O:KAIST KOREA ADVANCED INSTITUTE OF SCIENCE AND TECHNOLOGY,All years,148,39,0,55,57,0,15,1,5
+Patents,O:HYUNDAI MOTOR COMPANY,All years,165,15,0,17,119,1,26,0,1
+Patents,O:LG CHEM,All years,653,59,0,195,372,2,92,0,3
+Patents,O:SAMSUNG ELECTRONICS COMPANY,All years,131,10,0,33,82,1,21,0,0
+Patents,O:SK CHEMICALS COMPANY,All years,110,9,0,29,59,3,22,0,0
+Patents,O:KOREA INSTITUTE OF ENERGY RESEARCH,All years,94,4,0,7,79,0,9,0,0
+Patents,O:SEOUL NATIONAL UNIVERSITY,All years,140,12,0,74,63,1,11,1,0
+Patents,O:GYEONGSANG NATIONAL UNIVERSITY,All years,54,9,0,13,30,3,11,0,0
+Patents,C:LT,All years,52,5,0,6,41,2,8,0,0
+Patents,C:LU,All years,58,11,3,20,27,2,2,0,0
+Patents,C:MY,All years,192,36,0,64,104,5,11,0,5
+Patents,O:BASF BADISCHE ANILIN & SODA FABRIK,All years,714,50,0,171,520,5,7,1,0
+Patents,C:NZ,All years,100,7,0,29,62,1,3,0,3
+Patents,O:NALCO,All years,121,0,0,11,108,0,5,0,2
+Patents,C:PL,All years,555,20,0,194,373,3,2,0,2
+Patents,O:SINOPEC CHINA PETROCHEMICAL CORPORATION,All years,1513,78,0,268,1086,6,195,2,25
+Patents,O:DALIAN UNIVERSITY OF TECHNOLOGY,All years,362,54,4,83,208,14,69,3,13
+Patents,C:RO,All years,379,34,0,79,294,1,10,1,6
+Patents,C:SU,All years,85,1,0,9,73,1,0,0,2
+Patents,C:UA,All years,535,5,0,48,480,0,6,1,6
+Patents,O:ASTAR AGENCY FOR SCIENCE TECHNOLOGY AND RESEARCH,All years,55,3,0,33,22,1,0,0,3
+Patents,C:SI,All years,63,7,0,11,45,0,7,0,0
+Patents,C:SK,All years,120,12,0,27,85,0,2,0,4
+Patents,C:CZ,All years,341,23,0,89,237,1,8,0,7
+Patents,O:ITRI INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE,All years,115,10,0,40,68,0,1,0,0
+Patents,C:TH,All years,65,8,0,22,36,1,2,0,0
+Patents,O:KIMBERLY CLARK CORPORATION,All years,178,46,0,117,50,3,6,0,0
+Patents,O:HENKEL,All years,202,26,0,85,63,10,24,1,3
+Patents,O:XEROX CORPORATION,All years,109,22,0,24,68,5,8,0,2
+Patents,O:JHU JOHNS HOPKINS UNIVERSITY,All years,56,5,0,42,11,1,0,0,3
+Patents,O:CNRS CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE,All years,175,22,0,54,111,1,1,0,3
+Patents,O:DOW GLOBAL TECHNOLOGIES,All years,238,20,0,30,186,5,8,0,1
+Patents,O:HARVARD UNIVERSITY,All years,59,3,1,42,15,1,0,0,1
+Patents,O:UNIVERSITY OF TEXAS SYSTEM,All years,79,4,0,46,33,2,0,0,3
+Patents,O:UNIVERSITY OF CALIFORNIA,All years,135,13,1,53,75,2,7,2,3
+Patents,O:RUTGERS STATE UNIVERSITY NEW JERSEY,All years,61,1,0,36,21,0,0,0,8
+Patents,O:HOECHST,All years,109,0,0,17,86,0,1,0,6
+Patents,O:GEORGIA INSTITUTE OF TECHNOLOGY,All years,53,1,2,17,36,0,2,0,0
+Patents,C:AR,All years,60,3,0,14,44,0,1,1,4
+Patents,O:EASTMAN,All years,235,7,0,46,189,16,1,1,0
+Patents,O:NORTHWESTERN UNIVERSITY,All years,99,6,0,27,60,0,14,0,3
+Patents,O:MICHIGAN STATE UNIVERSITY,All years,52,16,0,31,20,0,3,0,0
+Patents,C:CO,All years,82,8,0,20,59,4,5,0,1
+Patents,O:FRAUNHOFER,All years,118,4,0,31,87,0,2,0,2
+Patents,O:CORNELL UNIVERSITY,All years,54,1,0,32,24,0,0,0,0
+Patents,C:BG,All years,127,1,0,17,103,0,2,1,5
+Patents,C:IR,All years,73,11,0,25,47,1,6,2,0
+Patents,C:SA,All years,210,13,1,24,176,6,8,0,0
+Patents,O:NORTHEASTERN UNIVERSITY,All years,84,0,0,17,51,0,22,1,2
+Patents,O:IFPEN IFP ENERGIES NOUVELLES,All years,119,2,0,16,117,1,0,0,0
+Patents,O:CHINESE ACADEMY OF SCIENCES,All years,2474,439,0,728,1181,56,478,43,76
+Patents,O:ARKEMA,All years,169,41,0,30,115,4,3,0,0
+Patents,O:JFE STEEL,All years,135,0,0,5,128,0,3,0,0
+Patents,O:BEIJING UNIVERSITY OF CHEMICAL TECHNOLOGY,All years,549,99,0,123,270,16,140,1,18
+Patents,O:HUNAN UNIVERSITY,All years,107,6,0,16,74,0,19,6,2
+Patents,O:XIAN JIAOTONG UNIVERSITY,All years,226,14,0,50,162,1,29,0,6
+Patents,C:CL,All years,81,11,0,25,53,1,3,0,1
+Patents,O:FUDAN UNIVERSITY,All years,265,39,0,70,119,7,63,2,11
+Patents,O:HOHAI UNIVERSITY,All years,111,10,0,14,71,0,19,8,6
+Patents,O:SICHUAN UNIVERSITY,All years,655,98,1,187,328,9,112,3,22
+Patents,O:UNIVERSITY OF SCIENCE AND TECHNOLOGY BEIJING,All years,133,3,1,35,76,1,23,2,6
+Patents,O:TONGJI UNIVERSITY,All years,416,56,0,116,233,6,72,4,14
+Patents,O:CNPC CHINA NATIONAL PETROLEUM CORPORATION,All years,169,11,0,33,116,1,26,0,2
+Patents,O:NANJING AGRICULTURAL UNIVERSITY,All years,63,8,0,24,33,0,6,0,4
+Patents,O:CEA COMMISSARIAT A L ENERGIE ATOMIQUE,All years,61,0,1,14,51,0,0,0,1
+Patents,O:CHUNGNAM NATIONAL UNIVERSITY,All years,70,3,0,25,37,0,18,1,0
+Patents,O:KOREA INSTITUTE OF INDUSTRIAL TECHNOLOGY,All years,95,14,0,20,50,1,18,3,0
+Patents,O:CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS,All years,52,14,0,21,25,1,0,0,2
+Patents,O:YONSEI UNIVERSITY,All years,58,5,0,31,21,0,3,1,1
+Patents,O:SHANGHAI JIAO TONG UNIVERSITY,All years,378,35,0,119,197,8,45,2,9
+Patents,O:TIANJIN UNIVERSITY,All years,347,32,0,82,205,12,53,6,16
+Patents,O:SOUTH CHINA UNIVERSITY OF TECHNOLOGY,All years,684,73,1,186,328,13,198,5,31
+Patents,O:JILIN UNIVERSITY,All years,298,24,0,68,172,8,70,1,16
+Patents,O:ZHEJIANG UNIVERSITY,All years,779,68,0,197,423,6,166,9,19
+Patents,O:TSINGHUA UNIVERSITY,All years,321,57,0,55,178,8,54,5,5
+Patents,O:NORTHWESTERN POLYTECHNICAL UNIVERSITY,All years,138,6,1,20,93,2,23,0,5
+Patents,O:DONGHUA UNIVERSITY,All years,198,17,0,61,84,1,53,0,9
+Patents,O:ZHEJIANG UNIVERSITY OF TECHNOLOGY,All years,338,25,0,64,205,4,65,3,9
+Patents,O:OCEAN UNIVERSITY OF CHINA,All years,94,3,0,20,53,1,25,3,1
+Patents,O:CHONGQING UNIVERSITY,All years,158,26,0,29,89,2,28,2,5
+Patents,O:XIANGTAN UNIVERSITY,All years,88,10,0,24,50,1,13,1,3
+Patents,O:PEKING UNIVERSITY,All years,158,22,0,48,79,1,26,1,8
+Patents,O:NANJING UNIVERSITY,All years,241,24,0,51,154,7,32,14,14
+Patents,O:HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY,All years,259,29,0,63,164,4,38,4,4
+Patents,O:XIAMEN UNIVERSITY,All years,137,17,0,15,76,5,35,2,6
+Patents,O:NORTHWEST NORMAL UNIVERSITY,All years,109,6,0,31,43,2,43,0,5
+Patents,O:HARBIN INSTITUTE OF TECHNOLOGY,All years,345,32,0,57,240,5,43,13,4
+Patents,O:SOUTHEAST UNIVERSITY,All years,299,34,0,85,150,6,70,2,8
+Patents,O:FUZHOU UNIVERSITY,All years,277,41,0,65,136,12,82,0,7
+Patents,O:NANKAI UNIVERSITY,All years,172,21,0,46,88,4,33,3,17
+Patents,O:SHANDONG UNIVERSITY,All years,274,18,0,50,182,4,49,1,7
+Patents,O:WUHAN UNIVERSITY,All years,180,7,0,65,89,6,38,3,13
+Patents,O:SHENYANG JIANZHU UNIVERSITY,All years,70,1,0,3,64,2,8,0,0
+Patents,O:HEFEI UNIVERSITY OF TECHNOLOGY,All years,183,23,0,46,96,6,39,1,7
+Patents,O:SOUTH CHINA AGRICULTURAL UNIVERSITY,All years,203,62,1,57,74,2,49,4,14
+Patents,O:UNIVERSITY OF JINAN,All years,299,26,0,39,193,4,65,13,10
+Patents,O:PETROCHINA COMPANY,All years,476,19,1,60,340,0,87,0,6
+Patents,O:HEBEI UNIVERSITY OF TECHNOLOGY,All years,93,5,0,13,58,1,20,1,2
+Patents,O:SHANDONG AGRICULTURAL UNIVERSITY,All years,72,11,0,38,22,1,16,3,0
+Patents,O:JIANGSU UNIVERSITY,All years,256,14,0,28,174,4,57,5,10
+Patents,O:SUNGKYUNKWAN UNIVERSITY,All years,74,6,0,38,26,2,9,0,1
+Patents,O:SUN YAT SEN UNIVERSITY,All years,226,26,0,86,91,3,45,4,10
+Patents,O:SOUTHWEST JIAOTONG UNIVERSITY,All years,99,9,0,42,51,2,13,1,2
+Patents,O:EAST CHINA UNIVERSITY OF SCIENCE AND TECHNOLOGY,All years,333,69,0,83,149,3,66,1,14
+Patents,O:GUILIN UNIVERSITY OF TECHNOLOGY,All years,138,14,0,26,41,2,70,4,9
+Patents,O:SHAANXI NORMAL UNIVERSITY,All years,54,7,0,9,23,3,24,3,6
+Patents,O:ZHEJIANG SCI TECH UNIVERSITY,All years,286,30,0,88,143,4,79,0,13
+Patents,O:WUHAN UNIVERSITY OF SCIENCE AND TECHNOLOGY,All years,76,5,0,15,47,1,20,0,0
+Patents,O:HUNAN UNIVERSITY OF SCIENCE AND TECHNOLOGY,All years,56,5,0,8,41,0,10,0,3
+Patents,O:CNOOC CHINA NATIONAL OFFSHORE OIL CORPORATION,All years,154,2,0,30,105,1,32,0,3
+Patents,O:ZHENGZHOU UNIVERSITY,All years,240,36,0,46,121,9,64,2,10
+Patents,O:ANHUI UNIVERSITY OF TECHNOLOGY,All years,61,0,1,2,48,0,13,0,0
+Patents,O:WUHAN UNIVERSITY OF TECHNOLOGY,All years,210,21,1,43,114,0,54,0,7
+Patents,O:KMUST KUNMING UNIVERSITY OF SCIENCE AND TECHNOLOGY,All years,246,21,0,38,177,3,49,3,9
+Patents,O:SHANGHAI UNIVERSITY,All years,192,20,0,45,115,4,36,3,7
+Patents,O:EAST CHINA NORMAL UNIVERSITY,All years,84,6,0,16,49,2,24,4,1
+Patents,O:BEIJING UNIVERSITY OF TECHNOLOGY,All years,175,13,0,11,126,1,41,1,4
+Patents,O:BEIJING INSTITUTE OF TECHNOLOGY,All years,145,11,0,25,66,2,48,1,10
+Patents,O:JIANGNAN UNIVERSITY,All years,682,155,0,206,244,14,217,8,45
+Patents,O:CHONNAM NATIONAL UNIVERSITY,All years,65,13,0,31,27,0,4,2,0
+Patents,O:CHINA UNIVERSITY OF MINING AND TECHNOLOGY,All years,137,10,0,23,96,2,25,1,4
+Patents,O:SK INNOVATION COMPANY,All years,127,1,0,14,105,0,14,1,1
+Patents,C:RS,All years,56,2,0,13,40,0,8,1,1
+Patents,O:CHINA UNIVERSITY OF GEOSCIENCES WUHAN,All years,72,8,0,13,46,2,15,1,4
+Patents,O:CHINA JILIANG UNIVERSITY,All years,52,0,0,2,42,0,7,0,2
+Patents,O:SHAANXI UNIVERSITY OF SCIENCE AND TECHNOLOGY,All years,392,41,4,120,154,7,131,2,28
+Patents,O:NANJING NORMAL UNIVERSITY,All years,68,2,0,26,33,1,15,4,5
+Patents,O:PUSAN NATIONAL UNIVERSITY,All years,51,1,3,28,18,0,9,1,0
+Patents,O:NANJING UNIVERSITY OF SCIENCE AND TECHNOLOGY,All years,115,10,0,26,62,4,27,0,3
+Patents,O:TAIYUAN UNIVERSITY OF TECHNOLOGY,All years,146,5,0,18,106,0,29,2,2
+Patents,O:NANCHANG UNIVERSITY,All years,106,4,0,16,73,2,19,1,3
+Patents,O:YANGZHOU UNIVERSITY,All years,122,18,0,34,51,0,31,2,8
+Patents,O:GUIZHOU UNIVERSITY,All years,138,14,0,18,98,2,24,3,0
+Patents,O:GUANGDONG UNIVERSITY OF TECHNOLOGY,All years,259,33,1,56,115,11,70,15,8
+Patents,O:SHANDONG UNIVERSITY OF TECHNOLOGY,All years,171,12,0,74,84,0,15,1,3
+Patents,O:SABIC SAUDI BASIC INDUSTRIES CORPORATION,All years,175,6,1,14,165,14,0,0,0
+Patents,O:NORTH UNIVERSITY OF CHINA,All years,113,5,1,44,64,0,22,0,2
+Patents,O:HEBEI UNIVERSITY OF SCIENCE AND TECHNOLOGY,All years,82,5,0,16,56,0,17,0,1
+Patents,O:KOREA UNIVERSITY,All years,117,19,0,47,48,5,24,0,0
+Patents,O:HANYANG UNIVERSITY,All years,54,5,0,20,31,0,7,0,0
+Patents,O:HENAN NORMAL UNIVERSITY,All years,67,4,0,20,32,1,13,5,3
+Patents,O:SHANXI UNIVERSITY,All years,79,4,0,23,43,0,15,2,7
+Patents,O:CHINA UNIVERSITY OF PETROLEUM EAST CHINA,All years,235,9,0,29,175,5,44,0,12
+Patents,O:GUANGXI UNIVERSITY,All years,176,26,0,46,85,2,54,1,6
+Patents,O:NORTHEAST FORESTRY UNIVERSITY,All years,158,25,0,46,82,4,28,3,3
+Patents,O:SOUTHWEST PETROLEUM UNIVERSITY,All years,269,4,0,70,183,2,34,1,2
+Patents,O:CHANGCHUN UNIVERSITY OF TECHNOLOGY,All years,100,28,0,24,38,0,31,0,7
+Patents,O:FUJIAN NORMAL UNIVERSITY,All years,107,21,0,15,64,1,17,1,8
+Patents,O:BEIHANG UNIVERSITY,All years,61,3,0,19,28,0,16,1,1
+Patents,O:KYUNGPOOK NATIONAL UNIVERSITY,All years,58,10,0,34,26,1,5,0,2
+Patents,O:WUHAN INSTITUTE OF TECHNOLOGY,All years,99,8,0,9,59,5,21,1,9
+Patents,O:HUBEI UNIVERSITY OF TECHNOLOGY,All years,108,15,0,25,62,6,24,1,2
+Patents,O:XI AN UNIVERSITY OF TECHNOLOGY,All years,72,2,0,7,61,0,12,0,2
+Patents,O:HANGZHOU DIANZI UNIVERSITY,All years,72,3,0,11,48,0,12,1,2
+Patents,O:SHIHEZI UNIVERSITY,All years,108,3,0,9,92,1,7,3,0
+Patents,O:SICHUAN AGRICULTURAL UNIVERSITY,All years,71,3,0,22,48,1,6,2,2
+Patents,O:CHINA AGRICULTURAL UNIVERSITY,All years,56,3,0,17,31,1,8,3,0
+Patents,O:NINGBO UNIVERSITY,All years,124,2,0,25,56,3,49,1,3
+Patents,O:NANJING FORESTRY UNIVERSITY,All years,369,53,0,79,206,14,126,0,6
+Patents,O:GUANGZHOU UNIVERSITY,All years,61,2,0,9,32,3,18,1,1
+Patents,O:SUZHOU UNIVERSITY,All years,107,12,0,40,47,2,23,0,1
+Patents,O:QINGDAO UNIVERSITY,All years,106,6,0,17,44,1,49,0,12
+Patents,O:BEIJING FORESTRY UNIVERSITY,All years,99,17,0,35,47,3,16,2,0
+Patents,O:DALIAN POLYTECHNIC UNIVERSITY,All years,82,11,0,26,39,7,15,1,9
+Patents,O:ANHUI UNIVERSITY,All years,89,14,0,26,25,2,39,2,1
+Patents,O:XINJIANG UNIVERSITY,All years,79,7,0,12,48,1,25,0,8
+Patents,O:ZHONGYUAN UNIVERSITY OF TECHNOLOGY,All years,50,8,0,11,25,0,18,0,2
+Patents,O:HANGZHOU NORMAL UNIVERSITY,All years,63,10,0,17,26,2,15,4,2
+Patents,O:CENTRAL SOUTH UNIVERSITY,All years,234,9,0,31,163,6,37,1,4
+Patents,O:CHENGDU UNIVERSITY OF TECHNOLOGY,All years,57,2,0,6,42,2,8,2,1
+Patents,O:NANJING UNIVERSITY OF AERONAUTICS AND ASTRONAUTICS,All years,59,7,0,5,41,0,12,0,0
+Patents,O:UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA,All years,165,34,0,35,93,4,26,1,4
+Patents,O:BITRON,All years,4,0,0,0,4,0,0,0,0
+Patents,O:CHINA UNIVERSITY OF PETROLEUM BEIJING,All years,86,7,0,14,63,2,15,0,2
+Patents,O:CHANG AN UNIVERSITY,All years,102,2,0,4,90,0,18,0,3
+Patents,O:ZHEJIANG OCEAN UNIVERSITY,All years,121,1,0,6,100,0,18,4,7
+Patents,O:SHENZHEN OCEANPOWER INDUSTRY COMPANY,All years,183,0,0,0,0,0,183,0,0
+Patents,O:SOOCHOW UNIVERSITY,All years,234,25,0,76,101,3,47,0,10
+Patents,O:HENAN UNIVERSITY OF TECHNOLOGY,All years,65,12,0,24,26,3,12,0,5
+Patents,O:NANCHANG HANGKONG UNIVERSITY,All years,72,1,0,6,45,3,23,0,2
+Patents,O:TIANJIN POLYTECHNIC UNIVERSITY,All years,194,23,0,50,101,4,43,0,8
+Patents,O:POLITECNIQUE OF TORINO,All years,4,0,0,1,2,0,1,0,0
+Patents,O:UNIVERSITA DEGLI STUDI DI TORINO,All years,5,1,0,2,4,0,0,0,0
+Patents,O:SHANGHAI INSTITUTE OF TECHNOLOGY,All years,82,3,0,18,34,0,30,0,7
+Patents,O:NORTHEAST AGRICULTURAL UNIVERSITY,All years,58,3,0,24,21,4,11,1,3
+Patents,O:SOUTHWEST UNIVERSITY,All years,78,20,0,25,28,1,13,2,1
+Patents,O:SOUTHWEST UNIVERSITY OF SCIENCE AND TECHNOLOGY,All years,92,4,0,26,51,1,29,4,2
+Patents,O:LANZHOU UNIVERSITY OF TECHNOLOGY,All years,57,3,0,11,44,0,8,0,1
+Patents,O:LUIGI LAVAZZA,All years,13,1,0,13,0,0,0,0,0
+Patents,O:XI AN UNIVERSITY OF ARCHITECTURE AND TECHNOLOGY,All years,71,2,0,4,60,0,13,1,0
+Patents,O:SHAANXI UNIVERSITY OF TECHNOLOGY,All years,73,3,0,15,54,1,14,0,0
+Patents,O:CHINA THREE GORGES UNIVERSITY,All years,64,3,0,10,41,1,15,0,1
+Patents,O:QINGDAO UNIVERSITY OF SCIENCE & TECHNOLOGY,All years,379,53,2,82,213,7,108,1,11
+Patents,O:JIANGSU UNIVERSITY OF SCIENCE AND TECHNOLOGY,All years,69,8,0,14,38,1,16,1,2
+Patents,O:LANZHOU UNIVERSITY,All years,54,1,0,9,38,1,10,0,1
+Patents,O:NANTONG UNIVERSITY,All years,74,17,0,28,31,0,26,1,1
+Patents,O:HUNAN UNIVERSITY OF TECHNOLOGY,All years,127,31,0,46,37,2,35,2,2
+Patents,O:SHANDONG NORMAL UNIVERSITY,All years,51,1,0,21,23,1,4,3,2
+Patents,O:NORTHWEST A&F UNIVERSITY,All years,54,5,0,17,26,2,9,5,4
+Patents,O:HUBEI UNIVERSITY,All years,86,12,0,12,36,2,32,0,4
+Patents,O:HEFEI GENIUS NEW MATERIALS COMPANY,All years,108,10,0,15,73,1,19,0,0
+Patents,O:SOUTH CHINA NORMAL UNIVERSITY,All years,73,10,0,17,43,0,10,0,1
+Patents,O:FUJIAN AGRICULTURE AND FORESTRY UNIVERSITY,All years,101,12,0,34,38,4,38,0,4
+Patents,O:HUAQIAO UNIVERSITY,All years,65,6,1,18,38,6,10,1,1
+Patents,O:HAINAN UNIVERSITY,All years,75,12,0,25,38,1,14,3,1
+Patents,O:UNIVERSITY OF ELECTRONIC SCIENCE AND TECHNOLOGY OF CHINA,All years,50,4,0,16,22,1,14,1,1
+Patents,O:KINGFA SCIENCE AND TECHNOLOGY COMPANY,All years,109,18,0,49,39,0,15,0,1
+Patents,O:YANGTZE UNIVERSITY,All years,52,0,0,11,25,1,17,0,1
+Patents,O:BEIJING TECHNOLOGY AND BUSINESS UNIVERSITY,All years,66,28,0,37,14,4,10,0,2
+Patents,O:SHENYANG UNIVERSITY OF CHEMICAL TECHNOLOGY,All years,115,14,0,36,61,3,25,0,7
+Patents,O:CHANGZHOU UNIVERSITY,All years,314,60,0,63,137,9,99,1,11
+Patents,O:SGCC STATE GRID CORPORATION OF CHINA,All years,195,3,0,7,161,1,35,0,3
+Patents,O:WUHAN TEXTILE UNIVERSITY,All years,118,16,0,26,58,4,33,3,4
+Patents,O:SHANDONG UNIVERSITY OF SCIENCE AND TECHNOLOGY,All years,146,6,0,8,116,2,18,2,3
+Patents,O:CHINA PHARMACEUTICAL UNIVERSITY,All years,55,3,0,31,15,2,10,0,4
+Patents,O:YANSHAN UNIVERSITY,All years,57,1,0,6,43,0,13,0,3
+Patents,O:ERGOTECH COMPANY,All years,3,0,0,0,3,0,0,0,0
+Patents,O:ZHONGKAI UNIVERSITY OF AGRICULTURE AND ENGINEERING,All years,58,10,0,33,23,3,16,0,2
+Patents,O:ANHUI AGRICULTURAL UNIVERSITY,All years,106,29,0,24,50,9,22,3,1
+Patents,O:ANHUI UNIVERSITY OF SCIENCE & TECHNOLOGY,All years,102,6,0,9,74,2,20,0,1
+Patents,O:NORTHEAST PETROLEUM UNIVERSITY,All years,67,1,0,3,64,1,2,0,0
+Patents,O:XI AN SHIYOU UNIVERSITY,All years,51,2,0,8,31,0,19,0,2
+Patents,O:SHENZHEN UNIVERSITY,All years,89,3,0,17,56,3,11,0,7
+Patents,O:JIANGSU ACADEMY OF AGRICULTURAL SCIENCES,All years,52,3,0,27,21,5,11,2,4
+Patents,O:ZHEJIANG A & F UNIVERSITY,All years,65,12,1,23,33,3,14,2,0
+Patents,O:YANCHENG INSTITUTE OF TECHNOLOGY,All years,76,7,0,18,41,0,26,2,9
+Patents,O:NATIONAL DONG HWA UNIVERSITY,All years,352,31,0,106,186,10,89,2,13
+Patents,O:INSTITUTE OF CHEMICAL INDUSTRY OF FOREST PRODUCTS CAF,All years,143,57,0,20,50,15,51,0,8
+Patents,O:SHANGHAI UNIVERSITY OF ENGINEERING SCIENCE,All years,53,8,0,18,25,0,15,0,1
+Patents,O:WANHUA CHEMICAL GROUP COMPANY,All years,272,41,0,61,147,2,61,0,8
+Patents,O:NANJING INSTITUTE OF TECHNOLOGY,All years,54,0,0,9,47,0,4,0,1
+Patents,O:TIANJIN UNIVERSITY OF SCIENCE & TECHNOLOGY,All years,129,22,0,49,49,5,27,1,14
+Patents,O:SUZHOU CITY WUZHONG DISTRICT MUDU HUALI MOLD PROCESSING SHOP,All years,57,0,0,0,57,0,0,0,0
+Patents,O:QILU UNIVERSITY OF TECHNOLOGY,All years,67,9,0,18,32,1,19,0,3
+Patents,O:XINJIANG ACADEMY OF AGRICULTURAL AND RECLAMATION SCIENCE,All years,70,0,0,0,70,0,0,0,0
+Patents,O:SICHUAN UNIVERSITY OF SCIENCE & ENGINEERING,All years,55,13,0,12,25,3,17,0,2
+Patents,O:NANJING TECH UNIVERSITY,All years,323,60,1,93,150,6,73,4,13
+Patents,O:LIAONING UNIVERSITY,All years,57,10,0,13,19,0,22,0,5
+Patents,O:JIAXING UNIVERSITY,All years,56,11,0,20,26,2,7,1,4
+Patents,O:HENAN INSTITUTE OF ENGINEERING,All years,49,3,0,10,33,3,5,0,0
+Patents,O:FOSHAN UNIVERSITY,All years,58,3,0,20,27,1,16,2,1
+Patents,O:YANGZHOU POLYTECHNIC INSTITUTE,All years,53,10,0,19,25,3,18,0,2
+Patents,O:BISIO PROGETTI,All years,4,0,0,4,1,0,0,0,0
+Patents,O:GUALA PACK,All years,4,0,0,3,2,0,0,0,0
+Patents,A:World,1980-1999,41622,1031,1,6799,33949,167,378,4,784
+Patents,C:GB,1980-1999,807,64,0,200,548,0,8,0,16
+Patents,O:RAYCHEM CORPORATION,1980-1999,155,0,0,2,153,0,0,0,0
+Patents,C:US,1980-1999,7574,225,0,1534,5866,8,71,1,202
+Patents,C:NL,1980-1999,357,12,0,91,253,0,4,0,10
+Patents,O:SHELL INTERNATIONALE RESEARCH MAATSCHAPPIJ,1980-1999,69,0,0,5,66,0,0,0,0
+Patents,C:CA,1980-1999,564,20,0,70,468,2,15,0,9
+Patents,C:DE,1980-1999,4762,87,0,586,4081,3,117,0,55
+Patents,C:FR,1980-1999,730,12,0,161,550,6,2,0,24
+Patents,C:SE,1980-1999,193,5,0,34,147,0,5,0,4
+Patents,C:BE,1980-1999,235,7,0,39,189,0,8,0,1
+Patents,O:DUPONT,1980-1999,157,5,0,41,116,0,4,0,3
+Patents,O:PHILLIPS PETROLEUM COMPANY,1980-1999,118,0,0,1,117,0,0,0,0
+Patents,C:AT,1980-1999,189,14,0,25,149,0,4,0,0
+Patents,C:CH,1980-1999,470,6,0,109,360,0,8,0,10
+Patents,O:TOYO SEIKAN,1980-1999,25,0,0,3,22,0,0,0,0
+Patents,O:SHELL OIL COMPANY,1980-1999,74,0,0,4,71,0,0,0,0
+Patents,A:Italy,1980-1999,538,5,1,108,415,0,1,0,19
+Patents,C:IT,1980-1999,538,5,1,108,415,0,1,0,19
+Patents,C:IE,1980-1999,54,4,0,24,25,0,0,0,4
+Patents,C:HK,1980-1999,26,0,0,2,25,0,0,0,0
+Patents,C:IL,1980-1999,69,3,0,37,31,1,1,0,1
+Patents,C:SG,1980-1999,11,0,0,3,8,0,0,0,0
+Patents,C:AU,1980-1999,118,0,0,25,95,1,0,0,1
+Patents,O:DOW CHEMICAL COMPANY,1980-1999,172,1,0,21,146,0,7,0,0
+Patents,O:P&G PROCTER & GAMBLE COMPANY,1980-1999,82,24,0,54,18,3,0,0,1
+Patents,C:NO,1980-1999,41,1,0,12,28,0,0,0,0
+Patents,C:JP,1980-1999,1929,101,0,500,1407,9,8,0,12
+Patents,C:DK,1980-1999,88,1,0,8,81,0,0,0,0
+Patents,C:ZA,1980-1999,20,0,0,2,19,0,0,0,0
+Patents,O:MITSUBISHI CHEMICALS CORPORATION,1980-1999,181,2,0,45,140,0,1,0,0
+Patents,O:EXXONMOBIL CHEMICAL PATENTS,1980-1999,18,0,0,0,18,0,0,0,0
+Patents,C:KR,1980-1999,861,36,0,209,636,1,6,0,11
+Patents,C:CN,1980-1999,3077,5,0,150,2686,2,11,1,290
+Patents,C:FI,1980-1999,140,6,0,41,98,1,2,0,0
+Patents,C:IN,1980-1999,45,0,0,13,31,0,0,0,3
+Patents,C:TW,1980-1999,202,1,0,17,183,0,8,0,1
+Patents,C:RU,1980-1999,104,0,0,10,97,1,0,0,1
+Patents,C:ES,1980-1999,375,4,0,25,339,10,0,0,5
+Patents,O:IBM INTERNATIONAL BUSINESS MACHINES CORPORATION,1980-1999,66,4,0,28,30,0,4,0,1
+Patents,O:SHARP CORPORATION,1980-1999,36,3,0,2,32,0,0,0,0
+Patents,O:BOREALIS,1980-1999,25,1,0,1,24,0,0,0,0
+Patents,O:MIT MASSACHUSETTS INSTITUTE OF TECHNOLOGY,1980-1999,93,17,0,66,25,0,0,0,11
+Patents,C:GR,1980-1999,16,0,0,1,16,0,0,0,0
+Patents,C:PT,1980-1999,14,0,0,5,8,0,1,0,0
+Patents,C:HU,1980-1999,44,0,0,4,39,0,3,0,0
+Patents,O:NOVAMONT,1980-1999,43,0,0,43,0,0,0,0,0
+Patents,O:GE GENERAL ELECTRIC COMPANY,1980-1999,76,0,0,4,75,0,1,0,0
+Patents,O:COUNCIL OF SCIENTIFIC AND INDUSTRIAL RESEARCH,1980-1999,9,0,0,3,6,0,0,0,0
+Patents,O:BAYER,1980-1999,167,1,0,44,124,1,2,0,1
+Patents,O:BATTELLE MEMORIAL INSTITUTE,1980-1999,28,2,0,22,5,0,2,0,1
+Patents,A:Piedmont,1980-1999,90,0,0,33,55,0,0,0,2
+Patents,O:ISTITUTO GUIDO DONEGANI,1980-1999,4,0,0,0,4,0,0,0,0
+Patents,O:AMUT,1980-1999,3,0,0,0,3,0,0,0,0
+Patents,C:MX,1980-1999,31,0,0,2,28,0,0,0,2
+Patents,O:TOSHIBA CORPORATION,1980-1999,253,0,0,20,234,0,2,0,0
+Patents,O:JSR CORPORATION JAPAN SYNTHETIC RUBBER,1980-1999,104,0,0,15,89,0,1,0,0
+Patents,O:FIAT AUTO,1980-1999,8,0,0,0,8,0,0,0,0
+Patents,O:TECNOCOLOR SAS DI CELEBRANO A & COMPANY,1980-1999,3,0,0,1,2,0,0,0,0
+Patents,O:ABET LAMINATI,1980-1999,2,0,0,0,2,0,0,0,0
+Patents,O:COBARR,1980-1999,3,0,0,0,3,0,0,0,0
+Patents,O:CIUFFO GATTO,1980-1999,2,0,0,2,0,0,0,0,0
+Patents,O:HITACHI,1980-1999,317,1,0,28,292,0,1,0,0
+Patents,O:SHIN ETSU CHEMICAL COMPANY,1980-1999,115,8,0,55,52,3,0,0,5
+Patents,O:MITSUBISHI HEAVY INDUSTRIES,1980-1999,203,1,0,5,199,0,0,0,0
+Patents,O:TORAY INDUSTRIES,1980-1999,250,16,0,48,201,0,1,0,0
+Patents,O:KAO CORPORATION,1980-1999,99,0,0,30,62,10,0,0,0
+Patents,O:TEIJIN,1980-1999,152,0,0,36,124,4,0,0,0
+Patents,O:TOPPAN PRINTING COMPANY,1980-1999,159,13,0,72,98,0,2,0,0
+Patents,O:MITSUBISHI GAS CHEMICAL COMPANY,1980-1999,70,11,0,25,42,1,0,0,0
+Patents,O:NIPPON STEEL CORPORATION,1980-1999,151,0,0,10,142,0,0,0,0
+Patents,O:MITSUI TOATSU CHEMICALS,1980-1999,226,60,0,67,131,2,1,0,2
+Patents,O:CANON,1980-1999,166,9,0,50,130,1,0,0,0
+Patents,O:SONY CORPORATION,1980-1999,97,0,0,10,88,0,0,0,0
+Patents,O:KONICA CORPORATION,1980-1999,93,0,0,18,74,0,1,0,0
+Patents,O:SUMITOMO CHEMICAL COMPANY,1980-1999,72,0,0,3,70,0,0,0,0
+Patents,O:TERUMO CORPORATION,1980-1999,67,5,0,20,46,0,0,0,1
+Patents,O:ASAHI CHEMICAL AND INDUSTRIAL COMPANY,1980-1999,289,3,0,56,236,1,2,0,0
+Patents,O:SUMITOMO ELECTRIC INDUSTRIES,1980-1999,84,0,0,5,77,2,0,0,0
+Patents,O:PANASONIC CORPORATION,1980-1999,248,2,0,30,216,0,3,0,0
+Patents,O:FURUKAWA ELECTRIC CO LTD,1980-1999,67,0,0,4,63,0,0,0,0
+Patents,O:SEKISUI CHEMICAL COMPANY,1980-1999,128,1,0,19,103,4,2,0,0
+Patents,O:AIST NATIONAL INSTITUTE OF ADVANCED INDUSTRIAL SCIENCE AND TECHNOLOGY METI,1980-1999,190,6,0,87,105,1,0,0,0
+Patents,O:MITSUI CHEMICALS,1980-1999,92,18,0,46,40,0,0,0,0
+Patents,O:KURARAY COMPANY,1980-1999,225,3,0,74,152,0,1,0,2
+Patents,O:FUJIFILM,1980-1999,206,0,0,59,148,1,1,0,0
+Patents,O:TOSOH CORPORATION,1980-1999,57,1,0,10,45,2,0,0,0
+Patents,O:MITSUBISHI PLASTICS,1980-1999,101,44,0,35,49,0,1,0,0
+Patents,O:SHIMADZU CORPORATION,1980-1999,143,93,0,66,28,0,0,0,0
+Patents,O:MITSUBISHI RAYON COMPANY,1980-1999,184,4,0,25,154,1,2,0,0
+Patents,O:TOYOBO COMPANY,1980-1999,169,12,0,41,120,0,4,0,0
+Patents,O:HITACHI ZOSEN CORPORATION,1980-1999,158,0,0,1,158,0,0,0,0
+Patents,O:ASAHI GLASS COMPANY,1980-1999,61,0,0,5,56,0,0,0,0
+Patents,O:NKK CORPORATION,1980-1999,204,2,0,11,193,0,0,0,0
+Patents,O:NIPPON SHOKUBAI COMPANY,1980-1999,141,0,0,64,75,4,0,0,2
+Patents,O:NITTO DENKO CORPORATION,1980-1999,111,0,0,20,91,2,1,0,0
+Patents,O:KANEBO,1980-1999,125,20,0,49,60,7,0,0,1
+Patents,O:KANEGAFUCHI CHEMICAL INDUSTRY COMPANY,1980-1999,78,2,0,12,64,1,1,0,1
+Patents,O:TOYOTA MOTOR CORPORATION,1980-1999,84,4,0,5,78,0,0,0,0
+Patents,O:MITSUBISHI ELECTRIC CORPORATION,1980-1999,73,1,0,10,63,0,0,0,0
+Patents,O:DAICEL CORPORATION,1980-1999,119,1,0,53,66,0,0,0,2
+Patents,O:DNP DAINIPPON PRINTING COMPANY,1980-1999,111,2,0,21,90,0,1,0,2
+Patents,O:UBE IND,1980-1999,98,0,0,12,87,0,0,0,0
+Patents,O:UNITIKA,1980-1999,148,34,0,78,59,2,0,0,2
+Patents,O:HITACHI CHEMICAL COMPANY,1980-1999,83,1,0,24,63,1,1,0,1
+Patents,O:PANASONIC ELECTRIC WORKS,1980-1999,33,0,0,3,30,0,0,0,0
+Patents,O:ZEON CORPORATION,1980-1999,89,0,0,8,81,2,0,0,0
+Patents,O:SHOWA DENKO,1980-1999,132,6,0,16,113,0,1,0,0
+Patents,O:BRIDGESTONE CORPORATION,1980-1999,44,0,0,7,39,0,0,0,0
+Patents,O:IDEMITSU PETROCHEM COMPANY,1980-1999,64,0,0,16,49,0,0,0,0
+Patents,O:DIC CORPORATION,1980-1999,99,8,0,49,51,0,1,0,0
+Patents,O:RICOH COMPANY,1980-1999,98,0,0,5,94,0,1,0,0
+Patents,O:JAPAN STEEL WORKS,1980-1999,70,9,0,14,57,0,0,0,0
+Patents,O:SANYO CHEM IND,1980-1999,38,1,0,8,30,0,0,0,0
+Patents,O:SEIKO EPSON CORPORATION,1980-1999,46,0,0,5,42,0,1,0,0
+Patents,O:KURITA WATER IND,1980-1999,66,0,0,5,62,0,0,0,0
+Patents,O:HONDA MOTOR COMPANY,1980-1999,38,0,0,1,37,0,0,0,0
+Patents,O:JAPAN SCIENCE AND TECHNOLOGY AGENCY,1980-1999,16,2,0,8,7,0,0,0,0
+Patents,O:TOKYO OHKA KOGYO COMPANY,1980-1999,4,0,0,3,1,0,0,0,0
+Patents,O:KANEKA CORPORATION,1980-1999,9,0,0,1,7,0,1,0,0
+Patents,O:ASAHI KASEI,1980-1999,11,0,0,3,8,0,1,0,0
+Patents,O:KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY,1980-1999,15,1,0,7,8,0,0,0,0
+Patents,O:KIST KOREA INSTITUTE OF SCIENCE AND TECHNOLOGY,1980-1999,19,5,0,8,9,0,0,0,0
+Patents,O:KAIST KOREA ADVANCED INSTITUTE OF SCIENCE AND TECHNOLOGY,1980-1999,19,6,0,9,5,0,0,0,1
+Patents,O:HYUNDAI MOTOR COMPANY,1980-1999,30,0,0,0,30,0,0,0,0
+Patents,O:LG CHEM,1980-1999,18,0,0,8,9,1,0,0,0
+Patents,O:SAMSUNG ELECTRONICS COMPANY,1980-1999,21,0,0,7,14,0,0,0,0
+Patents,O:SK CHEMICALS COMPANY,1980-1999,6,0,0,4,2,0,0,0,0
+Patents,O:KOREA INSTITUTE OF ENERGY RESEARCH,1980-1999,1,0,0,0,1,0,0,0,0
+Patents,O:SEOUL NATIONAL UNIVERSITY,1980-1999,1,0,0,1,0,0,0,0,0
+Patents,O:3M INNOVATIVE PROPERTIES COMPANY MINNESOTA MINING AND MANUFACTURING INNOVATIVE PROPERTIES COMPANY,1980-1999,14,0,0,2,12,0,0,0,0
+Patents,C:LT,1980-1999,6,0,0,0,5,0,1,0,0
+Patents,C:LU,1980-1999,12,0,0,6,6,0,1,0,0
+Patents,C:MY,1980-1999,9,0,0,2,8,0,0,0,0
+Patents,O:BASF BADISCHE ANILIN & SODA FABRIK,1980-1999,231,3,0,48,182,1,1,0,0
+Patents,C:NZ,1980-1999,14,1,0,3,9,0,0,0,1
+Patents,O:NALCO,1980-1999,84,0,0,6,78,0,3,0,1
+Patents,C:PH,1980-1999,4,0,0,0,4,0,1,0,0
+Patents,C:PL,1980-1999,50,0,0,9,40,0,2,0,0
+Patents,O:SINOPEC CHINA PETROCHEMICAL CORPORATION,1980-1999,12,0,0,0,12,0,0,0,0
+Patents,O:DALIAN UNIVERSITY OF TECHNOLOGY,1980-1999,2,0,0,0,2,0,0,0,0
+Patents,C:RO,1980-1999,49,0,0,6,43,0,0,0,1
+Patents,C:SU,1980-1999,83,0,0,8,72,1,0,0,2
+Patents,C:UA,1980-1999,25,0,0,3,23,0,0,0,0
+Patents,C:SI,1980-1999,5,0,0,1,4,0,0,0,0
+Patents,C:SK,1980-1999,15,0,0,6,9,0,0,0,0
+Patents,C:CZ,1980-1999,55,1,0,11,43,0,0,0,1
+Patents,C:TR,1980-1999,13,1,0,2,9,1,1,0,0
+Patents,O:ITRI INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE,1980-1999,20,0,0,3,18,0,0,0,0
+Patents,O:KIMBERLY CLARK CORPORATION,1980-1999,72,5,0,42,25,0,3,0,0
+Patents,O:HENKEL,1980-1999,83,2,0,32,42,0,5,0,3
+Patents,O:XEROX CORPORATION,1980-1999,20,1,0,3,16,0,0,0,1
+Patents,O:JHU JOHNS HOPKINS UNIVERSITY,1980-1999,17,4,0,13,0,0,0,0,2
+Patents,O:CNRS CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE,1980-1999,15,0,0,5,9,0,0,0,2
+Patents,O:DOW GLOBAL TECHNOLOGIES,1980-1999,21,0,0,0,15,0,6,0,0
+Patents,O:HARVARD UNIVERSITY,1980-1999,6,0,0,5,1,0,0,0,0
+Patents,O:UNIVERSITY OF TEXAS SYSTEM,1980-1999,26,3,0,21,5,0,0,0,3
+Patents,O:UNIVERSITY OF CALIFORNIA,1980-1999,27,1,0,7,18,0,1,0,1
+Patents,O:RUTGERS STATE UNIVERSITY NEW JERSEY,1980-1999,13,0,0,5,6,0,0,0,3
+Patents,O:HOECHST,1980-1999,109,0,0,17,86,0,1,0,6
+Patents,C:BR,1980-1999,26,1,0,3,21,0,1,0,0
+Patents,O:GEORGIA INSTITUTE OF TECHNOLOGY,1980-1999,7,0,0,2,5,0,0,0,0
+Patents,C:AR,1980-1999,13,1,0,2,11,0,0,0,1
+Patents,O:EASTMAN,1980-1999,35,0,0,8,28,0,0,0,0
+Patents,O:NORTHWESTERN UNIVERSITY,1980-1999,2,0,0,0,2,0,0,0,0
+Patents,O:MICHIGAN STATE UNIVERSITY,1980-1999,9,4,0,5,2,0,0,0,0
+Patents,O:CORNELL UNIVERSITY,1980-1999,6,0,0,4,2,0,0,0,0
+Patents,C:BG,1980-1999,34,0,0,2,29,0,0,0,3
+Patents,C:CO,1980-1999,3,1,0,0,1,0,0,0,1
+Patents,C:TH,1980-1999,4,0,0,1,3,0,0,0,0
+Patents,C:IR,1980-1999,7,3,0,1,3,0,0,0,0
+Patents,C:SA,1980-1999,2,0,0,1,1,0,0,0,0
+Patents,O:NORTHEASTERN UNIVERSITY,1980-1999,1,0,0,0,1,0,0,0,0
+Patents,O:IFPEN IFP ENERGIES NOUVELLES,1980-1999,28,0,0,1,28,0,0,0,0
+Patents,O:CHINESE ACADEMY OF SCIENCES,1980-1999,35,0,0,12,22,0,0,0,2
+Patents,O:FRAUNHOFER,1980-1999,25,0,0,7,19,0,0,0,0
+Patents,O:ARKEMA,1980-1999,5,0,0,3,2,0,0,0,0
+Patents,O:JFE STEEL,1980-1999,4,0,0,0,3,0,1,0,0
+Patents,O:TIANJIN UNIVERSITY,1980-1999,4,0,0,0,4,0,0,0,0
+Patents,O:ZHEJIANG UNIVERSITY,1980-1999,5,1,0,2,2,0,0,0,1
+Patents,O:TONGJI UNIVERSITY,1980-1999,2,0,0,0,2,0,0,0,0
+Patents,O:SICHUAN UNIVERSITY,1980-1999,4,0,0,0,4,0,0,0,0
+Patents,O:TSINGHUA UNIVERSITY,1980-1999,4,0,0,0,3,0,1,0,1
+Patents,O:WUHAN UNIVERSITY,1980-1999,5,0,0,2,5,0,0,0,1
+Patents,O:HUNAN UNIVERSITY,1980-1999,2,0,0,0,2,0,0,0,0
+Patents,O:FUDAN UNIVERSITY,1980-1999,4,0,0,2,3,0,0,0,0
+Patents,O:NORTHWESTERN POLYTECHNICAL UNIVERSITY,1980-1999,1,0,0,0,1,0,0,0,0
+Patents,O:GUANGXI UNIVERSITY,1980-1999,1,0,0,1,0,0,0,0,0
+Patents,O:XIAN JIAOTONG UNIVERSITY,1980-1999,1,0,0,0,1,0,0,0,0
+Patents,O:LANZHOU UNIVERSITY,1980-1999,1,0,0,1,0,0,0,0,0
+Patents,O:SOUTH CHINA UNIVERSITY OF TECHNOLOGY,1980-1999,3,0,0,0,2,0,0,0,1
+Patents,O:NANJING UNIVERSITY,1980-1999,1,0,0,0,1,0,0,0,0
+Patents,O:NANJING UNIVERSITY OF SCIENCE AND TECHNOLOGY,1980-1999,1,0,0,0,1,0,0,0,0
+Patents,O:PEKING UNIVERSITY,1980-1999,1,0,0,0,1,0,0,0,0
+Patents,O:NANKAI UNIVERSITY,1980-1999,1,0,0,0,1,0,0,0,0
+Patents,O:JILIN UNIVERSITY,1980-1999,1,0,0,0,1,0,0,0,0
+Patents,O:UNIVERSITY OF JINAN,1980-1999,1,0,0,0,1,0,0,0,0
+Patents,C:CL,1980-1999,2,0,0,0,2,0,0,0,0
+Patents,O:CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS,1980-1999,9,0,0,3,6,0,0,0,0
+Patents,O:CEA COMMISSARIAT A L ENERGIE ATOMIQUE,1980-1999,14,0,0,2,11,0,0,0,1
+Patents,A:World,2000-2014,87668,5203,6,15266,60336,632,12209,38,2017
+Patents,C:HU,2000-2014,76,0,0,10,62,0,6,0,0
+Patents,C:FR,2000-2014,1157,101,0,284,806,8,12,0,16
+Patents,C:IL,2000-2014,132,11,0,61,68,0,1,0,8
+Patents,C:IN,2000-2014,408,31,0,161,214,6,24,0,10
+Patents,O:COUNCIL OF SCIENTIFIC AND INDUSTRIAL RESEARCH,2000-2014,53,9,0,23,28,0,6,0,1
+Patents,C:CH,2000-2014,440,27,0,132,275,2,6,0,10
+Patents,A:Italy,2000-2014,648,41,0,203,434,7,5,0,10
+Patents,C:IT,2000-2014,648,41,0,203,434,7,5,0,10
+Patents,C:GB,2000-2014,1229,63,1,331,853,10,18,0,25
+Patents,C:BR,2000-2014,230,46,0,79,140,6,5,0,5
+Patents,A:Piedmont,2000-2014,90,9,0,45,45,0,0,0,1
+Patents,O:NOVAMONT,2000-2014,32,10,0,32,2,0,0,0,0
+Patents,C:US,2000-2014,7643,787,1,2673,4367,71,186,1,156
+Patents,O:MONDO,2000-2014,3,0,0,0,3,0,0,0,0
+Patents,C:TR,2000-2014,60,3,0,15,43,0,3,0,0
+Patents,C:JP,2000-2014,3059,340,0,1021,1781,40,84,1,5
+Patents,O:ASAHI KASEI,2000-2014,57,3,0,16,42,0,2,1,0
+Patents,O:MITSUBISHI GAS CHEMICAL COMPANY,2000-2014,47,4,0,11,31,0,1,0,0
+Patents,O:HITACHI ZOSEN CORPORATION,2000-2014,34,3,0,4,31,1,0,0,0
+Patents,O:TORAY INDUSTRIES,2000-2014,360,149,0,85,153,1,12,0,0
+Patents,O:MITSUBISHI PLASTICS,2000-2014,127,76,0,50,37,0,3,0,0
+Patents,O:ZEON CORPORATION,2000-2014,86,2,0,10,73,1,0,0,0
+Patents,O:MITSUBISHI ELECTRIC CORPORATION,2000-2014,70,4,0,4,62,0,1,0,0
+Patents,O:KAO CORPORATION,2000-2014,164,58,0,66,40,18,2,0,0
+Patents,O:IDEMITSU PETROCHEM COMPANY,2000-2014,44,4,0,16,25,0,2,0,1
+Patents,O:SUMITOMO CHEMICAL COMPANY,2000-2014,114,22,0,19,74,0,0,0,0
+Patents,O:KURARAY COMPANY,2000-2014,141,8,0,35,84,1,15,0,0
+Patents,O:PANASONIC CORPORATION,2000-2014,151,5,0,28,125,0,2,0,0
+Patents,O:CANON,2000-2014,201,66,0,32,120,0,1,0,0
+Patents,O:NIPPON STEEL CORPORATION,2000-2014,111,0,0,2,111,0,0,0,0
+Patents,O:MITSUBISHI RAYON COMPANY,2000-2014,151,13,0,22,114,1,5,0,0
+Patents,O:TOSHIBA CORPORATION,2000-2014,116,0,0,0,116,0,1,0,0
+Patents,O:NKK CORPORATION,2000-2014,73,0,0,0,73,0,0,0,0
+Patents,O:MITSUBISHI HEAVY INDUSTRIES,2000-2014,40,1,0,4,36,0,0,0,0
+Patents,O:KANEBO,2000-2014,21,9,0,7,8,1,0,0,0
+Patents,O:TOYOBO COMPANY,2000-2014,119,12,0,39,78,0,1,0,0
+Patents,O:FUJIFILM,2000-2014,311,7,0,92,207,7,7,0,0
+Patents,O:TEIJIN,2000-2014,150,59,0,57,49,0,1,0,0
+Patents,O:DAICEL CORPORATION,2000-2014,40,3,0,19,19,1,2,0,1
+Patents,O:HITACHI,2000-2014,55,2,0,5,47,0,3,0,0
+Patents,O:KURITA WATER IND,2000-2014,68,1,0,6,65,0,0,0,0
+Patents,O:NIPPON SHOKUBAI COMPANY,2000-2014,88,2,0,27,55,3,3,0,0
+Patents,O:HITACHI CHEMICAL COMPANY,2000-2014,83,3,0,15,67,0,1,0,0
+Patents,O:TOPPAN PRINTING COMPANY,2000-2014,108,14,0,26,75,0,7,0,0
+Patents,O:SHIMADZU CORPORATION,2000-2014,30,18,0,13,7,0,0,0,0
+Patents,O:SEKISUI CHEMICAL COMPANY,2000-2014,106,1,0,13,79,13,4,0,0
+Patents,O:MITSUI CHEMICALS,2000-2014,143,22,0,56,70,2,4,0,1
+Patents,O:AIST NATIONAL INSTITUTE OF ADVANCED INDUSTRIAL SCIENCE AND TECHNOLOGY METI,2000-2014,120,24,0,35,77,3,2,0,0
+Patents,O:TOYOTA MOTOR CORPORATION,2000-2014,109,37,0,23,62,1,2,0,0
+Patents,O:DIC CORPORATION,2000-2014,96,8,0,19,68,0,5,0,0
+Patents,O:SHOWA DENKO,2000-2014,31,3,0,10,14,0,6,0,0
+Patents,O:UNITIKA,2000-2014,182,134,0,91,17,0,2,0,0
+Patents,O:UBE IND,2000-2014,42,1,0,6,36,0,0,0,0
+Patents,O:JSR CORPORATION JAPAN SYNTHETIC RUBBER,2000-2014,101,4,0,21,77,0,1,0,0
+Patents,O:TOYO SEIKAN,2000-2014,52,4,0,18,32,0,1,0,0
+Patents,O:SUMITOMO ELECTRIC INDUSTRIES,2000-2014,27,6,0,11,17,0,0,0,0
+Patents,O:TERUMO CORPORATION,2000-2014,39,5,0,34,6,1,0,0,0
+Patents,O:SEIKO EPSON CORPORATION,2000-2014,104,0,0,13,81,1,9,0,0
+Patents,O:NITTO DENKO CORPORATION,2000-2014,137,14,0,31,87,0,10,0,0
+Patents,O:TOSOH CORPORATION,2000-2014,39,7,0,2,30,0,0,0,0
+Patents,O:SHIN ETSU CHEMICAL COMPANY,2000-2014,156,0,0,129,23,2,1,0,3
+Patents,C:PH,2000-2014,47,0,0,10,36,0,2,0,1
+Patents,O:JAPAN SCIENCE AND TECHNOLOGY AGENCY,2000-2014,77,2,0,21,58,0,2,0,0
+Patents,O:FURUKAWA ELECTRIC CO LTD,2000-2014,33,2,1,4,27,0,1,0,0
+Patents,O:SHARP CORPORATION,2000-2014,74,3,0,2,71,1,1,0,0
+Patents,O:SONY CORPORATION,2000-2014,83,5,0,35,47,0,0,0,0
+Patents,O:KONICA CORPORATION,2000-2014,15,0,0,3,11,0,1,0,0
+Patents,O:PANASONIC ELECTRIC WORKS,2000-2014,82,1,0,2,81,0,1,0,0
+Patents,O:HONDA MOTOR COMPANY,2000-2014,56,1,0,3,51,0,1,0,0
+Patents,O:KANEGAFUCHI CHEMICAL INDUSTRY COMPANY,2000-2014,50,14,0,11,28,0,0,0,0
+Patents,O:ASAHI GLASS COMPANY,2000-2014,61,0,0,3,46,9,3,0,0
+Patents,O:DNP DAINIPPON PRINTING COMPANY,2000-2014,87,4,0,19,58,5,7,0,0
+Patents,O:RICOH COMPANY,2000-2014,125,11,0,19,100,1,5,0,0
+Patents,O:JAPAN STEEL WORKS,2000-2014,32,3,0,3,28,0,1,0,0
+Patents,O:BRIDGESTONE CORPORATION,2000-2014,76,1,1,6,66,1,0,0,1
+Patents,O:3M INNOVATIVE PROPERTIES COMPANY MINNESOTA MINING AND MANUFACTURING INNOVATIVE PROPERTIES COMPANY,2000-2014,69,10,0,11,43,1,4,0,0
+Patents,O:P&G PROCTER & GAMBLE COMPANY,2000-2014,107,37,0,52,27,4,0,0,0
+Patents,O:KANEKA CORPORATION,2000-2014,180,57,0,46,82,4,6,0,0
+Patents,C:KR,2000-2014,6315,375,0,1580,3933,24,1041,0,54
+Patents,O:MITSUBISHI CHEMICALS CORPORATION,2000-2014,113,6,0,21,85,3,0,0,0
+Patents,O:KAIST KOREA ADVANCED INSTITUTE OF SCIENCE AND TECHNOLOGY,2000-2014,72,26,0,34,20,0,6,0,2
+Patents,O:KIST KOREA INSTITUTE OF SCIENCE AND TECHNOLOGY,2000-2014,102,7,0,49,52,0,11,0,0
+Patents,O:SAMSUNG ELECTRONICS COMPANY,2000-2014,81,5,0,19,55,1,12,0,0
+Patents,O:KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY,2000-2014,84,9,0,30,45,0,11,0,1
+Patents,O:GYEONGSANG NATIONAL UNIVERSITY,2000-2014,21,5,0,2,12,1,4,0,0
+Patents,O:HYUNDAI MOTOR COMPANY,2000-2014,103,14,0,15,66,1,15,0,1
+Patents,O:KOREA INSTITUTE OF ENERGY RESEARCH,2000-2014,41,0,0,4,34,0,5,0,0
+Patents,O:SEOUL NATIONAL UNIVERSITY,2000-2014,70,9,0,34,35,0,6,0,0
+Patents,C:CN,2000-2014,9621,357,0,1201,7128,37,1156,5,382
+Patents,C:LT,2000-2014,21,1,0,1,18,0,2,0,0
+Patents,C:LU,2000-2014,16,3,0,4,10,0,1,0,0
+Patents,C:BE,2000-2014,377,48,0,99,233,1,16,0,5
+Patents,C:RU,2000-2014,1520,25,1,223,1258,2,14,1,41
+Patents,C:MX,2000-2014,264,17,0,52,195,12,27,0,8
+Patents,C:NL,2000-2014,437,42,0,165,238,4,9,0,5
+Patents,C:AT,2000-2014,269,9,0,48,215,1,7,0,1
+Patents,C:NO,2000-2014,32,0,0,6,26,0,2,0,1
+Patents,C:NZ,2000-2014,43,2,0,11,28,0,2,0,2
+Patents,C:PL,2000-2014,208,5,0,53,168,1,0,0,1
+Patents,C:PT,2000-2014,50,5,0,13,33,0,1,0,0
+Patents,C:CA,2000-2014,709,73,1,206,463,14,22,0,16
+Patents,C:UA,2000-2014,425,2,0,34,383,0,2,0,5
+Patents,C:SE,2000-2014,172,19,0,59,94,2,9,0,11
+Patents,C:SG,2000-2014,88,7,0,52,34,0,1,0,2
+Patents,O:ASTAR AGENCY FOR SCIENCE TECHNOLOGY AND RESEARCH,2000-2014,25,2,0,22,4,0,0,0,1
+Patents,C:SI,2000-2014,36,4,0,4,26,0,6,0,0
+Patents,C:SK,2000-2014,45,4,0,8,36,0,0,0,0
+Patents,C:DE,2000-2014,3243,226,0,570,2484,12,53,1,24
+Patents,C:TW,2000-2014,1188,79,0,260,826,8,127,0,29
+Patents,C:HK,2000-2014,79,5,0,16,56,0,9,0,3
+Patents,O:ITRI INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE,2000-2014,66,6,0,26,34,0,1,0,0
+Patents,C:AU,2000-2014,198,14,0,64,121,4,1,0,3
+Patents,C:TH,2000-2014,31,5,0,12,16,0,1,0,0
+Patents,C:FI,2000-2014,168,27,0,48,96,0,7,0,3
+Patents,O:NALCO,2000-2014,37,0,0,5,30,0,2,0,1
+Patents,O:IBM INTERNATIONAL BUSINESS MACHINES CORPORATION,2000-2014,57,20,0,26,16,0,0,0,1
+Patents,O:HARVARD UNIVERSITY,2000-2014,33,2,1,23,9,0,0,0,1
+Patents,O:GE GENERAL ELECTRIC COMPANY,2000-2014,35,0,0,1,32,0,1,0,1
+Patents,O:JHU JOHNS HOPKINS UNIVERSITY,2000-2014,20,0,0,15,7,0,0,0,1
+Patents,C:CO,2000-2014,25,1,0,5,20,0,1,0,0
+Patents,O:DUPONT,2000-2014,110,22,0,20,67,0,2,0,1
+Patents,O:SHELL INTERNATIONALE RESEARCH MAATSCHAPPIJ,2000-2014,32,1,0,0,30,0,0,0,1
+Patents,O:SHELL OIL COMPANY,2000-2014,27,0,0,0,27,0,0,0,0
+Patents,O:DOW CHEMICAL COMPANY,2000-2014,6,0,0,1,5,0,0,0,1
+Patents,O:DOW GLOBAL TECHNOLOGIES,2000-2014,90,16,0,17,57,2,1,0,1
+Patents,O:UNIVERSITY OF TEXAS SYSTEM,2000-2014,31,0,0,19,14,0,0,0,0
+Patents,O:FRAUNHOFER,2000-2014,51,2,0,12,38,0,0,0,1
+Patents,O:CORNELL UNIVERSITY,2000-2014,25,1,0,19,6,0,0,0,0
+Patents,O:CNRS CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE,2000-2014,69,10,0,22,41,0,1,0,1
+Patents,C:DK,2000-2014,120,7,0,55,61,1,0,0,2
+Patents,O:MICHIGAN STATE UNIVERSITY,2000-2014,23,8,0,16,3,0,2,0,0
+Patents,O:MIT MASSACHUSETTS INSTITUTE OF TECHNOLOGY,2000-2014,61,4,1,37,24,0,0,0,4
+Patents,O:GEORGIA INSTITUTE OF TECHNOLOGY,2000-2014,21,0,0,6,14,0,2,0,0
+Patents,O:XEROX CORPORATION,2000-2014,60,18,0,9,39,5,6,0,0
+Patents,O:EXXONMOBIL CHEMICAL PATENTS,2000-2014,60,0,0,0,60,0,0,0,0
+Patents,O:UNIVERSITY OF CALIFORNIA,2000-2014,35,2,0,18,13,0,3,0,0
+Patents,O:BASF BADISCHE ANILIN & SODA FABRIK,2000-2014,214,39,0,62,124,0,3,0,0
+Patents,O:NORTHWESTERN UNIVERSITY,2000-2014,23,2,0,12,10,0,0,0,0
+Patents,O:EASTMAN,2000-2014,30,2,0,8,20,0,1,0,0
+Patents,C:MY,2000-2014,106,21,0,40,51,2,10,0,5
+Patents,O:KIMBERLY CLARK CORPORATION,2000-2014,88,32,0,64,15,2,3,0,0
+Patents,C:ZA,2000-2014,41,1,0,16,25,0,1,0,0
+Patents,O:HENKEL,2000-2014,67,10,0,32,14,3,15,0,0
+Patents,O:BAYER,2000-2014,25,5,0,4,15,0,2,0,0
+Patents,C:ES,2000-2014,766,29,0,124,639,3,12,0,9
+Patents,O:ASAHI CHEMICAL AND INDUSTRIAL COMPANY,2000-2014,3,0,0,1,2,0,0,0,0
+Patents,C:IR,2000-2014,15,2,0,7,9,0,0,0,0
+Patents,O:BATTELLE MEMORIAL INSTITUTE,2000-2014,8,3,0,4,1,0,0,0,0
+Patents,C:SA,2000-2014,28,2,0,2,23,0,2,0,0
+Patents,O:BEIJING UNIVERSITY OF CHEMICAL TECHNOLOGY,2000-2014,146,14,0,32,70,0,47,0,8
+Patents,O:CHINESE ACADEMY OF SCIENCES,2000-2014,750,144,0,236,349,4,117,0,21
+Patents,O:HUNAN UNIVERSITY,2000-2014,20,0,0,2,13,0,6,0,1
+Patents,C:IE,2000-2014,87,5,0,21,61,0,2,0,2
+Patents,O:XIAN JIAOTONG UNIVERSITY,2000-2014,40,0,0,9,32,0,4,0,1
+Patents,C:CL,2000-2014,28,2,0,11,17,0,0,0,1
+Patents,O:SK CHEMICALS COMPANY,2000-2014,43,4,0,19,10,1,11,0,0
+Patents,O:LG CHEM,2000-2014,146,29,0,37,60,0,34,0,1
+Patents,O:CIUFFO GATTO,2000-2014,1,0,0,1,0,0,0,0,0
+Patents,O:FUDAN UNIVERSITY,2000-2014,94,14,0,29,42,0,18,1,6
+Patents,O:ARKEMA,2000-2014,86,27,0,14,50,4,2,0,0
+Patents,O:JFE STEEL,2000-2014,113,0,0,4,110,0,0,0,0
+Patents,O:SANYO CHEM IND,2000-2014,71,8,0,8,59,0,0,0,0
+Patents,O:HOHAI UNIVERSITY,2000-2014,25,1,0,4,16,0,4,0,5
+Patents,O:SICHUAN UNIVERSITY,2000-2014,129,18,0,47,59,0,13,0,6
+Patents,O:UNIVERSITY OF SCIENCE AND TECHNOLOGY BEIJING,2000-2014,34,0,0,3,26,0,3,0,2
+Patents,C:RO,2000-2014,149,6,0,19,127,0,2,0,2
+Patents,O:TONGJI UNIVERSITY,2000-2014,180,33,0,72,78,1,27,0,6
+Patents,C:CZ,2000-2014,144,6,0,33,108,0,3,0,4
+Patents,C:BG,2000-2014,45,0,0,6,38,0,0,0,2
+Patents,O:CNPC CHINA NATIONAL PETROLEUM CORPORATION,2000-2014,35,4,0,1,27,0,5,0,0
+Patents,O:NANJING AGRICULTURAL UNIVERSITY,2000-2014,7,2,0,0,4,0,1,0,0
+Patents,O:RUTGERS STATE UNIVERSITY NEW JERSEY,2000-2014,38,0,0,24,11,0,0,0,5
+Patents,O:IFPEN IFP ENERGIES NOUVELLES,2000-2014,20,1,0,0,19,0,0,0,0
+Patents,O:CEA COMMISSARIAT A L ENERGIE ATOMIQUE,2000-2014,26,0,0,7,22,0,0,0,0
+Patents,O:CHUNGNAM NATIONAL UNIVERSITY,2000-2014,36,1,0,12,19,0,6,0,0
+Patents,O:KOREA INSTITUTE OF INDUSTRIAL TECHNOLOGY,2000-2014,24,3,0,7,15,1,4,0,0
+Patents,O:TOKYO OHKA KOGYO COMPANY,2000-2014,102,0,0,97,4,1,0,0,0
+Patents,C:GR,2000-2014,66,3,0,10,52,1,7,0,0
+Patents,C:AR,2000-2014,21,0,0,6,14,0,1,0,1
+Patents,O:CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS,2000-2014,16,4,0,4,9,0,0,0,2
+Patents,O:YONSEI UNIVERSITY,2000-2014,33,3,0,20,10,0,1,0,1
+Patents,O:SHANGHAI JIAO TONG UNIVERSITY,2000-2014,157,22,0,58,73,0,14,0,2
+Patents,O:SINOPEC CHINA PETROCHEMICAL CORPORATION,2000-2014,466,20,0,58,353,1,45,1,10
+Patents,O:TIANJIN UNIVERSITY,2000-2014,121,19,0,28,62,0,19,0,8
+Patents,O:SOUTH CHINA UNIVERSITY OF TECHNOLOGY,2000-2014,139,15,0,29,74,1,37,0,8
+Patents,O:JILIN UNIVERSITY,2000-2014,57,1,0,13,39,0,6,0,2
+Patents,O:NORTHEASTERN UNIVERSITY,2000-2014,14,0,0,6,5,0,3,0,0
+Patents,O:NORTHWESTERN POLYTECHNICAL UNIVERSITY,2000-2014,22,0,0,3,17,0,2,0,0
+Patents,O:ZHEJIANG UNIVERSITY,2000-2014,256,16,0,59,134,0,68,0,9
+Patents,O:DONGHUA UNIVERSITY,2000-2014,157,16,0,53,57,0,43,0,8
+Patents,O:TSINGHUA UNIVERSITY,2000-2014,106,16,0,21,67,1,9,0,2
+Patents,O:ZHEJIANG UNIVERSITY OF TECHNOLOGY,2000-2014,36,4,0,1,28,0,4,0,0
+Patents,O:OCEAN UNIVERSITY OF CHINA,2000-2014,23,0,0,4,15,0,6,0,0
+Patents,O:CHONGQING UNIVERSITY,2000-2014,47,7,0,12,26,0,7,0,5
+Patents,O:XIANGTAN UNIVERSITY,2000-2014,10,0,0,5,5,0,1,0,0
+Patents,O:PEKING UNIVERSITY,2000-2014,21,2,0,3,8,1,6,0,1
+Patents,O:NANJING UNIVERSITY,2000-2014,79,11,0,23,51,3,9,0,3
+Patents,O:HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY,2000-2014,22,3,0,10,10,0,8,0,0
+Patents,O:XIAMEN UNIVERSITY,2000-2014,35,2,0,4,20,0,10,0,1
+Patents,O:NORTHWEST NORMAL UNIVERSITY,2000-2014,39,3,0,12,17,1,12,0,2
+Patents,O:HARBIN INSTITUTE OF TECHNOLOGY,2000-2014,57,6,0,7,43,0,5,0,1
+Patents,O:SOUTHEAST UNIVERSITY,2000-2014,87,12,0,31,33,0,27,0,1
+Patents,O:FUZHOU UNIVERSITY,2000-2014,33,3,0,8,21,0,10,0,1
+Patents,O:NANKAI UNIVERSITY,2000-2014,66,12,0,30,28,0,8,0,12
+Patents,O:SHANDONG UNIVERSITY,2000-2014,70,6,0,15,40,0,10,0,2
+Patents,O:WUHAN UNIVERSITY,2000-2014,69,3,0,27,22,2,19,0,6
+Patents,O:SHENYANG JIANZHU UNIVERSITY,2000-2014,27,1,0,3,25,1,2,0,0
+Patents,O:HEFEI UNIVERSITY OF TECHNOLOGY,2000-2014,40,0,0,5,23,0,13,0,0
+Patents,O:SOUTH CHINA AGRICULTURAL UNIVERSITY,2000-2014,23,2,0,6,12,1,4,0,4
+Patents,O:UNIVERSITY OF JINAN,2000-2014,81,3,0,15,66,0,14,1,3
+Patents,O:PETROCHINA COMPANY,2000-2014,125,0,0,15,98,0,15,0,1
+Patents,O:HEBEI UNIVERSITY OF TECHNOLOGY,2000-2014,23,0,0,4,9,0,9,0,1
+Patents,O:SHANDONG AGRICULTURAL UNIVERSITY,2000-2014,17,2,0,7,9,0,2,0,0
+Patents,O:JIANGSU UNIVERSITY,2000-2014,58,2,0,4,41,0,10,1,2
+Patents,O:SUNGKYUNKWAN UNIVERSITY,2000-2014,38,3,0,27,8,0,4,0,0
+Patents,O:SUN YAT SEN UNIVERSITY,2000-2014,60,4,0,28,18,0,11,0,4
+Patents,O:SOUTHWEST JIAOTONG UNIVERSITY,2000-2014,27,3,0,14,13,0,4,0,0
+Patents,O:EAST CHINA UNIVERSITY OF SCIENCE AND TECHNOLOGY,2000-2014,115,21,0,22,65,1,24,0,2
+Patents,O:GUILIN UNIVERSITY OF TECHNOLOGY,2000-2014,27,1,0,1,16,0,11,0,2
+Patents,C:SU,2000-2014,2,1,0,1,1,0,0,0,0
+Patents,O:SHAANXI NORMAL UNIVERSITY,2000-2014,8,1,0,1,6,0,3,0,0
+Patents,O:ZHEJIANG SCI TECH UNIVERSITY,2000-2014,52,2,0,21,20,0,14,0,1
+Patents,O:WUHAN UNIVERSITY OF SCIENCE AND TECHNOLOGY,2000-2014,15,0,0,1,11,1,5,0,0
+Patents,O:HUNAN UNIVERSITY OF SCIENCE AND TECHNOLOGY,2000-2014,14,1,0,0,12,0,1,0,0
+Patents,O:CNOOC CHINA NATIONAL OFFSHORE OIL CORPORATION,2000-2014,54,0,0,10,40,1,8,0,1
+Patents,O:ZHENGZHOU UNIVERSITY,2000-2014,32,3,0,5,19,0,7,0,2
+Patents,O:ANHUI UNIVERSITY OF TECHNOLOGY,2000-2014,9,0,0,0,8,0,1,0,0
+Patents,O:WUHAN UNIVERSITY OF TECHNOLOGY,2000-2014,61,6,0,20,29,0,8,0,1
+Patents,O:KMUST KUNMING UNIVERSITY OF SCIENCE AND TECHNOLOGY,2000-2014,41,5,0,7,32,0,5,0,1
+Patents,O:SHANGHAI UNIVERSITY,2000-2014,59,9,0,16,28,3,12,0,3
+Patents,O:EAST CHINA NORMAL UNIVERSITY,2000-2014,24,2,0,4,10,0,9,0,1
+Patents,O:BEIJING UNIVERSITY OF TECHNOLOGY,2000-2014,35,3,0,0,24,0,12,0,0
+Patents,O:BEIJING INSTITUTE OF TECHNOLOGY,2000-2014,28,3,0,5,14,0,5,0,1
+Patents,O:COBARR,2000-2014,3,0,0,0,3,0,0,0,0
+Patents,O:JIANGNAN UNIVERSITY,2000-2014,148,22,0,44,67,2,43,0,16
+Patents,O:CHONNAM NATIONAL UNIVERSITY,2000-2014,11,1,0,3,7,0,0,0,0
+Patents,O:CHINA UNIVERSITY OF MINING AND TECHNOLOGY,2000-2014,25,0,0,3,20,0,5,0,0
+Patents,O:SK INNOVATION COMPANY,2000-2014,22,1,0,5,7,0,10,0,1
+Patents,C:RS,2000-2014,30,1,0,5,23,0,2,0,0
+Patents,O:CHINA UNIVERSITY OF GEOSCIENCES WUHAN,2000-2014,24,3,0,7,12,1,6,0,1
+Patents,O:CHINA JILIANG UNIVERSITY,2000-2014,12,0,0,0,11,0,1,0,1
+Patents,O:SHAANXI UNIVERSITY OF SCIENCE AND TECHNOLOGY,2000-2014,66,3,0,8,35,0,22,0,10
+Patents,O:NANJING NORMAL UNIVERSITY,2000-2014,11,0,0,3,5,0,3,0,0
+Patents,O:PUSAN NATIONAL UNIVERSITY,2000-2014,24,1,0,16,8,0,2,0,0
+Patents,O:NANJING UNIVERSITY OF SCIENCE AND TECHNOLOGY,2000-2014,37,4,0,15,11,2,10,0,2
+Patents,O:TAIYUAN UNIVERSITY OF TECHNOLOGY,2000-2014,22,1,0,5,13,0,4,0,0
+Patents,O:NANCHANG UNIVERSITY,2000-2014,22,0,0,4,17,0,2,0,0
+Patents,O:YANGZHOU UNIVERSITY,2000-2014,28,7,0,9,10,0,6,0,3
+Patents,O:GUIZHOU UNIVERSITY,2000-2014,22,0,0,2,20,0,1,0,0
+Patents,O:GUANGDONG UNIVERSITY OF TECHNOLOGY,2000-2014,43,1,0,7,25,0,17,0,1
+Patents,O:SHANDONG UNIVERSITY OF TECHNOLOGY,2000-2014,15,0,0,1,13,0,1,0,0
+Patents,O:DALIAN UNIVERSITY OF TECHNOLOGY,2000-2014,58,5,0,11,35,0,8,0,3
+Patents,O:SABIC SAUDI BASIC INDUSTRIES CORPORATION,2000-2014,33,5,0,4,28,1,0,0,0
+Patents,O:NORTH UNIVERSITY OF CHINA,2000-2014,26,1,0,1,23,0,3,0,0
+Patents,O:HEBEI UNIVERSITY OF SCIENCE AND TECHNOLOGY,2000-2014,26,0,0,5,19,0,3,0,0
+Patents,O:KOREA UNIVERSITY,2000-2014,29,9,0,13,11,0,3,0,0
+Patents,O:HANYANG UNIVERSITY,2000-2014,29,3,0,11,17,0,3,0,0
+Patents,O:HENAN NORMAL UNIVERSITY,2000-2014,7,2,0,2,4,0,2,0,0
+Patents,O:SHANXI UNIVERSITY,2000-2014,19,2,0,5,5,0,6,0,3
+Patents,O:CHINA UNIVERSITY OF PETROLEUM EAST CHINA,2000-2014,24,0,0,0,24,0,1,0,0
+Patents,O:GUANGXI UNIVERSITY,2000-2014,34,1,0,6,18,1,12,0,0
+Patents,O:NORTHEAST FORESTRY UNIVERSITY,2000-2014,38,2,0,9,24,0,9,0,0
+Patents,O:SOUTHWEST PETROLEUM UNIVERSITY,2000-2014,95,0,0,35,66,0,2,0,1
+Patents,O:CHANGCHUN UNIVERSITY OF TECHNOLOGY,2000-2014,7,1,0,0,5,0,1,0,0
+Patents,O:FUJIAN NORMAL UNIVERSITY,2000-2014,25,3,0,2,17,0,5,0,0
+Patents,O:AMUT,2000-2014,3,0,0,0,3,0,0,0,0
+Patents,O:BEIHANG UNIVERSITY,2000-2014,12,1,0,3,7,0,2,0,0
+Patents,O:KYUNGPOOK NATIONAL UNIVERSITY,2000-2014,12,1,0,5,6,0,1,0,1
+Patents,O:WUHAN INSTITUTE OF TECHNOLOGY,2000-2014,17,0,0,0,14,0,2,0,1
+Patents,O:HUBEI UNIVERSITY OF TECHNOLOGY,2000-2014,17,1,0,1,10,0,7,0,1
+Patents,O:XI AN UNIVERSITY OF TECHNOLOGY,2000-2014,10,1,0,0,9,0,0,0,0
+Patents,O:HANGZHOU DIANZI UNIVERSITY,2000-2014,35,1,0,4,23,0,7,0,0
+Patents,O:SHIHEZI UNIVERSITY,2000-2014,7,1,0,1,6,0,0,0,0
+Patents,O:SICHUAN AGRICULTURAL UNIVERSITY,2000-2014,14,1,0,0,14,1,2,0,0
+Patents,O:CHINA AGRICULTURAL UNIVERSITY,2000-2014,16,3,0,8,9,1,0,0,0
+Patents,O:NINGBO UNIVERSITY,2000-2014,30,0,0,5,26,0,3,0,1
+Patents,O:NANJING FORESTRY UNIVERSITY,2000-2014,65,12,0,9,37,0,13,0,0
+Patents,O:GUANGZHOU UNIVERSITY,2000-2014,5,0,0,4,3,0,0,0,0
+Patents,O:SUZHOU UNIVERSITY,2000-2014,12,1,0,6,5,0,2,0,0
+Patents,O:QINGDAO UNIVERSITY,2000-2014,12,1,0,1,4,0,5,0,2
+Patents,O:BEIJING FORESTRY UNIVERSITY,2000-2014,17,3,0,4,11,0,1,0,0
+Patents,O:DALIAN POLYTECHNIC UNIVERSITY,2000-2014,23,0,0,3,16,3,3,0,0
+Patents,O:ANHUI UNIVERSITY,2000-2014,7,0,0,2,2,0,3,0,1
+Patents,O:XINJIANG UNIVERSITY,2000-2014,18,4,0,1,9,0,5,0,2
+Patents,O:ZHONGYUAN UNIVERSITY OF TECHNOLOGY,2000-2014,12,2,0,1,7,0,5,0,0
+Patents,O:HANGZHOU NORMAL UNIVERSITY,2000-2014,15,0,0,1,9,0,6,0,0
+Patents,O:CENTRAL SOUTH UNIVERSITY,2000-2014,49,2,0,1,38,1,8,0,2
+Patents,O:CHENGDU UNIVERSITY OF TECHNOLOGY,2000-2014,18,0,0,1,13,0,3,0,1
+Patents,O:NANJING UNIVERSITY OF AERONAUTICS AND ASTRONAUTICS,2000-2014,10,3,0,2,5,0,2,0,0
+Patents,O:UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA,2000-2014,18,1,0,4,12,1,0,0,1
+Patents,O:BITRON,2000-2014,1,0,0,0,1,0,0,0,0
+Patents,O:CHINA UNIVERSITY OF PETROLEUM BEIJING,2000-2014,13,0,0,2,8,1,4,0,0
+Patents,O:CHANG AN UNIVERSITY,2000-2014,12,0,0,0,12,0,1,0,0
+Patents,O:ZHEJIANG OCEAN UNIVERSITY,2000-2014,58,0,0,1,55,0,7,0,4
+Patents,O:SHENZHEN OCEANPOWER INDUSTRY COMPANY,2000-2014,183,0,0,0,0,0,183,0,0
+Patents,O:BOREALIS,2000-2014,25,0,0,0,25,1,0,0,0
+Patents,O:SOOCHOW UNIVERSITY,2000-2014,56,3,0,16,23,1,15,0,1
+Patents,O:HENAN UNIVERSITY OF TECHNOLOGY,2000-2014,15,3,0,8,5,0,2,0,0
+Patents,O:NANCHANG HANGKONG UNIVERSITY,2000-2014,11,0,0,1,6,0,5,0,1
+Patents,O:TIANJIN POLYTECHNIC UNIVERSITY,2000-2014,50,5,0,11,26,1,10,0,1
+Patents,O:POLITECNIQUE OF TORINO,2000-2014,2,0,0,1,1,0,0,0,0
+Patents,O:UNIVERSITA DEGLI STUDI DI TORINO,2000-2014,3,0,0,1,2,0,0,0,0
+Patents,O:SHANGHAI INSTITUTE OF TECHNOLOGY,2000-2014,13,0,0,0,8,0,4,0,3
+Patents,O:NORTHEAST AGRICULTURAL UNIVERSITY,2000-2014,9,0,0,0,9,0,1,0,0
+Patents,O:SOUTHWEST UNIVERSITY,2000-2014,6,2,0,1,3,0,0,0,0
+Patents,O:SOUTHWEST UNIVERSITY OF SCIENCE AND TECHNOLOGY,2000-2014,14,2,0,7,4,0,8,0,0
+Patents,O:LANZHOU UNIVERSITY OF TECHNOLOGY,2000-2014,4,1,0,2,2,0,0,0,0
+Patents,O:ABET LAMINATI,2000-2014,2,0,0,0,2,0,0,0,0
+Patents,O:LUIGI LAVAZZA,2000-2014,8,0,0,8,0,0,0,0,0
+Patents,O:XI AN UNIVERSITY OF ARCHITECTURE AND TECHNOLOGY,2000-2014,10,0,0,0,10,0,2,0,0
+Patents,O:SHAANXI UNIVERSITY OF TECHNOLOGY,2000-2014,24,1,0,7,17,0,5,0,0
+Patents,O:CHINA THREE GORGES UNIVERSITY,2000-2014,4,0,0,1,3,0,0,0,0
+Patents,O:QINGDAO UNIVERSITY OF SCIENCE & TECHNOLOGY,2000-2014,37,6,0,4,23,0,10,0,0
+Patents,O:JIANGSU UNIVERSITY OF SCIENCE AND TECHNOLOGY,2000-2014,7,1,0,1,5,0,2,0,0
+Patents,O:LANZHOU UNIVERSITY,2000-2014,5,0,0,0,5,0,0,0,0
+Patents,O:NANTONG UNIVERSITY,2000-2014,7,0,0,5,2,0,3,0,1
+Patents,O:HUNAN UNIVERSITY OF TECHNOLOGY,2000-2014,12,1,0,5,4,0,5,0,0
+Patents,O:SHANDONG NORMAL UNIVERSITY,2000-2014,3,0,0,0,2,0,1,0,0
+Patents,O:NORTHWEST A&F UNIVERSITY,2000-2014,6,1,0,1,2,0,3,0,0
+Patents,O:HUBEI UNIVERSITY,2000-2014,14,0,0,2,8,0,5,0,1
+Patents,O:HEFEI GENIUS NEW MATERIALS COMPANY,2000-2014,52,8,0,3,39,1,10,0,0
+Patents,O:SOUTH CHINA NORMAL UNIVERSITY,2000-2014,13,1,0,3,10,0,1,0,0
+Patents,O:FUJIAN AGRICULTURE AND FORESTRY UNIVERSITY,2000-2014,25,1,0,7,8,0,13,0,2
+Patents,O:HUAQIAO UNIVERSITY,2000-2014,18,2,0,3,11,3,1,0,0
+Patents,O:HAINAN UNIVERSITY,2000-2014,5,0,0,1,3,0,2,0,0
+Patents,O:UNIVERSITY OF ELECTRONIC SCIENCE AND TECHNOLOGY OF CHINA,2000-2014,9,0,0,1,6,0,4,0,0
+Patents,O:KINGFA SCIENCE AND TECHNOLOGY COMPANY,2000-2014,1,0,0,0,1,0,0,0,0
+Patents,O:YANGTZE UNIVERSITY,2000-2014,8,0,0,2,1,0,5,0,0
+Patents,O:BEIJING TECHNOLOGY AND BUSINESS UNIVERSITY,2000-2014,8,2,0,4,2,0,2,0,1
+Patents,O:SHENYANG UNIVERSITY OF CHEMICAL TECHNOLOGY,2000-2014,15,0,0,2,12,0,2,0,0
+Patents,O:CHANGZHOU UNIVERSITY,2000-2014,61,7,0,9,33,0,19,0,3
+Patents,O:SGCC STATE GRID CORPORATION OF CHINA,2000-2014,72,1,0,3,58,0,20,0,1
+Patents,O:WUHAN TEXTILE UNIVERSITY,2000-2014,18,3,0,5,7,0,4,0,0
+Patents,O:SHANDONG UNIVERSITY OF SCIENCE AND TECHNOLOGY,2000-2014,45,2,0,2,37,0,3,0,2
+Patents,O:CHINA PHARMACEUTICAL UNIVERSITY,2000-2014,11,1,0,10,0,0,1,0,0
+Patents,O:YANSHAN UNIVERSITY,2000-2014,9,0,0,0,8,0,2,0,0
+Patents,O:ERGOTECH COMPANY,2000-2014,1,0,0,0,1,0,0,0,0
+Patents,O:ZHONGKAI UNIVERSITY OF AGRICULTURE AND ENGINEERING,2000-2014,6,1,0,3,5,0,2,0,0
+Patents,O:ANHUI AGRICULTURAL UNIVERSITY,2000-2014,10,0,0,1,9,3,2,0,0
+Patents,O:ANHUI UNIVERSITY OF SCIENCE & TECHNOLOGY,2000-2014,21,0,0,3,15,1,4,0,0
+Patents,O:NORTHEAST PETROLEUM UNIVERSITY,2000-2014,16,0,0,0,16,0,1,0,0
+Patents,O:XI AN SHIYOU UNIVERSITY,2000-2014,7,1,0,1,3,0,4,0,2
+Patents,O:SHENZHEN UNIVERSITY,2000-2014,5,0,0,0,5,0,0,0,0
+Patents,O:JIANGSU ACADEMY OF AGRICULTURAL SCIENCES,2000-2014,9,0,0,3,3,0,5,0,4
+Patents,O:ZHEJIANG A & F UNIVERSITY,2000-2014,11,0,0,2,10,0,0,1,0
+Patents,O:YANCHENG INSTITUTE OF TECHNOLOGY,2000-2014,7,0,0,0,4,0,6,0,2
+Patents,O:NATIONAL DONG HWA UNIVERSITY,2000-2014,22,2,0,6,15,0,3,0,0
+Patents,O:INSTITUTE OF CHEMICAL INDUSTRY OF FOREST PRODUCTS CAF,2000-2014,23,8,0,4,7,1,10,0,1
+Patents,O:SHANGHAI UNIVERSITY OF ENGINEERING SCIENCE,2000-2014,8,0,0,1,5,0,2,0,0
+Patents,O:WANHUA CHEMICAL GROUP COMPANY,2000-2014,5,0,0,0,3,0,2,0,0
+Patents,O:NANJING INSTITUTE OF TECHNOLOGY,2000-2014,6,0,0,1,6,0,1,0,0
+Patents,O:TIANJIN UNIVERSITY OF SCIENCE & TECHNOLOGY,2000-2014,5,0,0,1,1,0,2,0,2
+Patents,O:SUZHOU CITY WUZHONG DISTRICT MUDU HUALI MOLD PROCESSING SHOP,2000-2014,57,0,0,0,57,0,0,0,0
+Patents,O:QILU UNIVERSITY OF TECHNOLOGY,2000-2014,7,0,0,0,6,0,1,0,1
+Patents,O:XINJIANG ACADEMY OF AGRICULTURAL AND RECLAMATION SCIENCE,2000-2014,6,0,0,0,6,0,0,0,0
+Patents,O:SICHUAN UNIVERSITY OF SCIENCE & ENGINEERING,2000-2014,4,0,0,0,2,0,2,0,0
+Patents,O:NANJING TECH UNIVERSITY,2000-2014,5,0,0,0,3,0,2,0,1
+Patents,O:LIAONING UNIVERSITY,2000-2014,1,0,0,0,0,0,1,0,0
+Patents,O:JIAXING UNIVERSITY,2000-2014,4,1,0,2,1,0,0,0,0
+Patents,A:World,2015-2025,184975,12664,75,32106,122934,2238,36617,1002,3729
+Patents,C:CH,2015-2025,324,42,1,145,160,8,4,1,1
+Patents,C:ES,2015-2025,586,54,0,144,415,24,16,4,6
+Patents,C:DE,2015-2025,1617,139,1,410,1140,47,29,6,6
+Patents,O:BASF BADISCHE ANILIN & SODA FABRIK,2015-2025,269,8,0,61,214,4,3,1,0
+Patents,C:AT,2015-2025,314,12,0,47,265,1,0,1,0
+Patents,C:FI,2015-2025,258,35,0,59,181,3,1,1,0
+Patents,O:BOREALIS,2015-2025,153,0,0,1,149,4,0,0,0
+Patents,C:GB,2015-2025,834,76,1,303,524,17,12,3,9
+Patents,C:KR,2015-2025,5062,244,1,1310,3144,34,1094,29,39
+Patents,A:Italy,2015-2025,736,67,1,224,508,22,13,2,5
+Patents,C:IT,2015-2025,736,67,1,224,508,22,13,2,5
+Patents,O:BRIDGESTONE CORPORATION,2015-2025,23,1,0,2,18,4,0,0,0
+Patents,C:NL,2015-2025,665,45,0,219,454,23,15,1,2
+Patents,A:Piedmont,2015-2025,64,16,0,29,32,1,2,0,0
+Patents,C:IN,2015-2025,514,41,2,157,342,31,42,5,12
+Patents,C:FR,2015-2025,917,127,1,276,611,9,8,1,4
+Patents,O:CNRS CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE,2015-2025,91,12,0,27,61,1,0,0,0
+Patents,C:SA,2015-2025,180,11,1,21,152,6,6,0,0
+Patents,O:SABIC SAUDI BASIC INDUSTRIES CORPORATION,2015-2025,142,1,1,10,137,13,0,0,0
+Patents,O:JIANGNAN UNIVERSITY,2015-2025,534,133,0,162,177,12,174,8,29
+Patents,O:CENTRAL SOUTH UNIVERSITY,2015-2025,185,7,0,30,125,5,29,1,2
+Patents,C:PL,2015-2025,297,15,0,132,165,2,0,0,1
+Patents,O:FUZHOU UNIVERSITY,2015-2025,244,38,0,57,115,12,72,0,6
+Patents,O:HARBIN INSTITUTE OF TECHNOLOGY,2015-2025,288,26,0,50,197,5,38,13,3
+Patents,O:ZHENGZHOU UNIVERSITY,2015-2025,208,33,0,41,102,9,57,2,8
+Patents,O:UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA,2015-2025,147,33,0,31,81,3,26,1,3
+Patents,O:JIANGSU UNIVERSITY,2015-2025,198,12,0,24,133,4,47,4,8
+Patents,O:HEFEI UNIVERSITY OF TECHNOLOGY,2015-2025,143,23,0,41,73,6,26,1,7
+Patents,O:QILU UNIVERSITY OF TECHNOLOGY,2015-2025,60,9,0,18,26,1,18,0,2
+Patents,O:NANJING FORESTRY UNIVERSITY,2015-2025,304,41,0,70,169,14,113,0,6
+Patents,O:HENAN NORMAL UNIVERSITY,2015-2025,60,2,0,18,28,1,11,5,3
+Patents,O:SICHUAN AGRICULTURAL UNIVERSITY,2015-2025,57,2,0,22,34,0,4,2,2
+Patents,O:BEIJING UNIVERSITY OF TECHNOLOGY,2015-2025,140,10,0,11,102,1,29,1,4
+Patents,O:HUBEI UNIVERSITY OF TECHNOLOGY,2015-2025,91,14,0,24,52,6,17,1,1
+Patents,O:NINGBO UNIVERSITY,2015-2025,94,2,0,20,30,3,46,1,2
+Patents,C:SE,2015-2025,201,33,0,69,103,4,6,0,2
+Patents,O:SHAANXI UNIVERSITY OF SCIENCE AND TECHNOLOGY,2015-2025,326,38,4,112,119,7,109,2,18
+Patents,O:CHINESE ACADEMY OF SCIENCES,2015-2025,1689,295,0,480,810,52,361,43,53
+Patents,O:ANHUI UNIVERSITY OF SCIENCE & TECHNOLOGY,2015-2025,81,6,0,6,59,1,16,0,1
+Patents,O:SHAANXI NORMAL UNIVERSITY,2015-2025,46,6,0,8,17,3,21,3,6
+Patents,O:WUHAN UNIVERSITY OF TECHNOLOGY,2015-2025,149,15,1,23,85,0,46,0,6
+Patents,O:EAST CHINA UNIVERSITY OF SCIENCE AND TECHNOLOGY,2015-2025,218,48,0,61,84,2,42,1,12
+Patents,O:BEIJING FORESTRY UNIVERSITY,2015-2025,82,14,0,31,36,3,15,2,0
+Patents,C:CN,2015-2025,2722,295,3,770,1443,36,543,23,96
+Patents,O:SICHUAN UNIVERSITY,2015-2025,522,80,1,140,265,9,99,3,16
+Patents,O:HUNAN UNIVERSITY,2015-2025,85,6,0,14,59,0,13,6,1
+Patents,O:CHANG AN UNIVERSITY,2015-2025,90,2,0,4,78,0,17,0,3
+Patents,O:ANHUI UNIVERSITY,2015-2025,82,14,0,24,23,2,36,2,0
+Patents,O:XIAMEN UNIVERSITY,2015-2025,102,15,0,11,56,5,25,2,5
+Patents,O:ZHEJIANG UNIVERSITY,2015-2025,518,51,0,136,287,6,98,9,9
+Patents,O:NANJING TECH UNIVERSITY,2015-2025,318,60,1,93,147,6,71,4,12
+Patents,O:SHANGHAI JIAO TONG UNIVERSITY,2015-2025,221,13,0,61,124,8,31,2,7
+Patents,O:CHINA PHARMACEUTICAL UNIVERSITY,2015-2025,44,2,0,21,15,2,9,0,4
+Patents,O:JIANGSU ACADEMY OF AGRICULTURAL SCIENCES,2015-2025,43,3,0,24,18,5,6,2,0
+Patents,O:ZHEJIANG UNIVERSITY OF TECHNOLOGY,2015-2025,302,21,0,63,177,4,61,3,9
+Patents,O:FUJIAN AGRICULTURE AND FORESTRY UNIVERSITY,2015-2025,76,11,0,27,30,4,25,0,2
+Patents,O:NATIONAL DONG HWA UNIVERSITY,2015-2025,330,29,0,100,171,10,86,2,13
+Patents,O:SOOCHOW UNIVERSITY,2015-2025,178,22,0,60,78,2,32,0,9
+Patents,O:BEIJING INSTITUTE OF TECHNOLOGY,2015-2025,117,8,0,20,52,2,43,1,9
+Patents,O:SOUTH CHINA UNIVERSITY OF TECHNOLOGY,2015-2025,542,58,1,157,252,12,161,5,22
+Patents,O:TSINGHUA UNIVERSITY,2015-2025,211,41,0,34,108,7,44,5,2
+Patents,O:SHANGHAI INSTITUTE OF TECHNOLOGY,2015-2025,69,3,0,18,26,0,26,0,4
+Patents,O:CHANGZHOU UNIVERSITY,2015-2025,253,53,0,54,104,9,80,1,8
+Patents,O:NANCHANG HANGKONG UNIVERSITY,2015-2025,61,1,0,5,39,3,18,0,1
+Patents,O:INSTITUTE OF CHEMICAL INDUSTRY OF FOREST PRODUCTS CAF,2015-2025,120,49,0,16,43,14,41,0,7
+Patents,O:NANJING UNIVERSITY OF SCIENCE AND TECHNOLOGY,2015-2025,77,6,0,11,50,2,17,0,1
+Patents,O:XIAN JIAOTONG UNIVERSITY,2015-2025,185,14,0,41,129,1,25,0,5
+Patents,O:TIANJIN UNIVERSITY OF SCIENCE & TECHNOLOGY,2015-2025,124,22,0,48,48,5,25,1,12
+Patents,O:XI AN SHIYOU UNIVERSITY,2015-2025,44,1,0,7,28,0,15,0,0
+Patents,O:CHINA UNIVERSITY OF MINING AND TECHNOLOGY,2015-2025,112,10,0,20,76,2,20,1,4
+Patents,O:NANKAI UNIVERSITY,2015-2025,105,9,0,16,59,4,25,3,5
+Patents,O:HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY,2015-2025,237,26,0,53,154,4,30,4,4
+Patents,C:SG,2015-2025,138,8,0,61,75,5,0,0,4
+Patents,C:PH,2015-2025,151,11,0,50,110,5,16,0,3
+Patents,C:BE,2015-2025,408,33,0,115,278,11,4,1,1
+Patents,O:YANGZHOU UNIVERSITY,2015-2025,94,11,0,25,41,0,25,2,5
+Patents,O:TIANJIN UNIVERSITY,2015-2025,222,13,0,54,139,12,34,6,8
+Patents,O:WUHAN UNIVERSITY,2015-2025,106,4,0,36,62,4,19,3,6
+Patents,O:TONGJI UNIVERSITY,2015-2025,234,23,0,44,153,5,45,4,8
+Patents,O:FUDAN UNIVERSITY,2015-2025,167,25,0,39,74,7,45,1,5
+Patents,O:QINGDAO UNIVERSITY OF SCIENCE & TECHNOLOGY,2015-2025,342,47,2,78,190,7,98,1,11
+Patents,O:GUANGXI UNIVERSITY,2015-2025,141,25,0,39,67,1,42,1,6
+Patents,O:BEIJING TECHNOLOGY AND BUSINESS UNIVERSITY,2015-2025,58,26,0,33,12,4,8,0,1
+Patents,O:UNIVERSITY OF JINAN,2015-2025,217,23,0,24,126,4,51,12,7
+Patents,O:CHINA UNIVERSITY OF GEOSCIENCES WUHAN,2015-2025,48,5,0,6,34,1,9,1,3
+Patents,O:ANHUI UNIVERSITY OF TECHNOLOGY,2015-2025,52,0,1,2,40,0,12,0,0
+Patents,O:CHONGQING UNIVERSITY,2015-2025,111,19,0,17,63,2,21,2,0
+Patents,O:PETROCHINA COMPANY,2015-2025,351,19,1,45,242,0,72,0,5
+Patents,C:US,2015-2025,5510,591,17,1927,3352,178,117,23,59
+Patents,O:PEKING UNIVERSITY,2015-2025,136,20,0,45,70,0,20,1,7
+Patents,O:NORTHEAST PETROLEUM UNIVERSITY,2015-2025,51,1,0,3,48,1,1,0,0
+Patents,O:XIANGTAN UNIVERSITY,2015-2025,78,10,0,19,45,1,12,1,3
+Patents,O:P&G PROCTER & GAMBLE COMPANY,2015-2025,178,4,0,105,76,2,0,0,0
+Patents,C:PT,2015-2025,110,20,0,42,58,5,5,0,0
+Patents,O:UNIVERSITY OF SCIENCE AND TECHNOLOGY BEIJING,2015-2025,99,3,1,32,50,1,20,2,4
+Patents,O:HANGZHOU DIANZI UNIVERSITY,2015-2025,37,2,0,7,25,0,5,1,2
+Patents,O:HUNAN UNIVERSITY OF SCIENCE AND TECHNOLOGY,2015-2025,42,4,0,8,29,0,9,0,3
+Patents,O:HEBEI UNIVERSITY OF TECHNOLOGY,2015-2025,70,5,0,9,49,1,11,1,1
+Patents,O:BEIJING UNIVERSITY OF CHEMICAL TECHNOLOGY,2015-2025,403,85,0,91,200,16,93,1,10
+Patents,O:NANJING UNIVERSITY,2015-2025,161,13,0,28,102,4,23,14,11
+Patents,O:SUN YAT SEN UNIVERSITY,2015-2025,166,22,0,58,73,3,34,4,6
+Patents,O:JIAXING UNIVERSITY,2015-2025,52,10,0,18,25,2,7,1,4
+Patents,O:NANCHANG UNIVERSITY,2015-2025,84,4,0,12,56,2,17,1,3
+Patents,O:NORTHEAST AGRICULTURAL UNIVERSITY,2015-2025,49,3,0,24,12,4,10,1,3
+Patents,O:JILIN UNIVERSITY,2015-2025,240,23,0,55,132,8,64,1,14
+Patents,O:CNOOC CHINA NATIONAL OFFSHORE OIL CORPORATION,2015-2025,100,2,0,20,65,0,24,0,2
+Patents,O:HOHAI UNIVERSITY,2015-2025,86,9,0,10,55,0,15,8,1
+Patents,O:SOUTHWEST PETROLEUM UNIVERSITY,2015-2025,174,4,0,35,117,2,32,1,1
+Patents,O:SHANDONG AGRICULTURAL UNIVERSITY,2015-2025,55,9,0,31,13,1,14,3,0
+Patents,O:HUBEI UNIVERSITY,2015-2025,72,12,0,10,28,2,27,0,3
+Patents,O:UNIVERSITY OF ELECTRONIC SCIENCE AND TECHNOLOGY OF CHINA,2015-2025,41,4,0,15,16,1,10,1,1
+Patents,O:QINGDAO UNIVERSITY,2015-2025,94,5,0,16,40,1,44,0,10
+Patents,O:DALIAN UNIVERSITY OF TECHNOLOGY,2015-2025,302,49,4,72,171,14,61,3,10
+Patents,O:CHINA UNIVERSITY OF PETROLEUM EAST CHINA,2015-2025,211,9,0,29,151,5,43,0,12
+Patents,C:JP,2015-2025,2297,137,1,722,1443,63,53,13,1
+Patents,C:IL,2015-2025,142,15,1,72,69,4,4,0,0
+Patents,C:DK,2015-2025,131,13,0,22,98,5,2,0,1
+Patents,O:SEIKO EPSON CORPORATION,2015-2025,33,0,0,5,27,0,1,0,0
+Patents,O:NANJING NORMAL UNIVERSITY,2015-2025,57,2,0,23,28,1,12,4,5
+Patents,O:SHANDONG UNIVERSITY,2015-2025,204,12,0,35,142,4,39,1,5
+Patents,O:TAIYUAN UNIVERSITY OF TECHNOLOGY,2015-2025,124,4,0,13,93,0,25,2,2
+Patents,O:SHANDONG NORMAL UNIVERSITY,2015-2025,48,1,0,21,21,1,3,3,2
+Patents,O:ZHEJIANG SCI TECH UNIVERSITY,2015-2025,234,28,0,67,123,4,65,0,12
+Patents,O:SGCC STATE GRID CORPORATION OF CHINA,2015-2025,123,2,0,4,103,1,15,0,2
+Patents,O:YANGTZE UNIVERSITY,2015-2025,44,0,0,9,24,1,12,0,1
+Patents,O:ANHUI AGRICULTURAL UNIVERSITY,2015-2025,96,29,0,23,41,6,20,3,1
+Patents,O:WUHAN TEXTILE UNIVERSITY,2015-2025,100,13,0,21,51,4,29,3,4
+Patents,O:GUILIN UNIVERSITY OF TECHNOLOGY,2015-2025,111,13,0,25,25,2,59,4,7
+Patents,O:HENAN INSTITUTE OF ENGINEERING,2015-2025,49,3,0,10,33,3,5,0,0
+Patents,O:WUHAN UNIVERSITY OF SCIENCE AND TECHNOLOGY,2015-2025,61,5,0,14,36,0,15,0,0
+Patents,O:SHENYANG UNIVERSITY OF CHEMICAL TECHNOLOGY,2015-2025,100,14,0,34,49,3,23,0,7
+Patents,O:CHENGDU UNIVERSITY OF TECHNOLOGY,2015-2025,39,2,0,5,29,2,5,2,0
+Patents,C:UA,2015-2025,85,3,0,11,74,0,4,1,1
+Patents,O:NORTHWESTERN POLYTECHNICAL UNIVERSITY,2015-2025,115,6,1,17,75,2,21,0,5
+Patents,O:GUANGDONG UNIVERSITY OF TECHNOLOGY,2015-2025,216,32,1,49,90,11,53,15,7
+Patents,O:SOUTHEAST UNIVERSITY,2015-2025,212,22,0,54,117,6,43,2,7
+Patents,O:SHANGHAI UNIVERSITY,2015-2025,133,11,0,29,87,1,24,3,4
+Patents,O:SOUTHWEST UNIVERSITY,2015-2025,72,18,0,24,25,1,13,2,1
+Patents,O:HENAN UNIVERSITY OF TECHNOLOGY,2015-2025,50,9,0,16,21,3,10,0,5
+Patents,O:HUAQIAO UNIVERSITY,2015-2025,47,4,1,15,27,3,9,1,1
+Patents,O:SOUTHWEST UNIVERSITY OF SCIENCE AND TECHNOLOGY,2015-2025,78,2,0,19,47,1,21,4,2
+Patents,O:SHAANXI UNIVERSITY OF TECHNOLOGY,2015-2025,49,2,0,8,37,1,9,0,0
+Patents,O:SHIHEZI UNIVERSITY,2015-2025,101,2,0,8,86,1,7,3,0
+Patents,O:SOUTH CHINA AGRICULTURAL UNIVERSITY,2015-2025,180,60,1,51,62,1,45,4,10
+Patents,O:HANGZHOU NORMAL UNIVERSITY,2015-2025,48,10,0,16,17,2,9,4,2
+Patents,O:ZHEJIANG A & F UNIVERSITY,2015-2025,54,12,1,21,23,3,14,1,0
+Patents,O:CHINA THREE GORGES UNIVERSITY,2015-2025,60,3,0,9,38,1,15,0,1
+Patents,O:TIANJIN POLYTECHNIC UNIVERSITY,2015-2025,144,18,0,39,75,3,33,0,7
+Patents,O:NORTHWESTERN UNIVERSITY,2015-2025,74,4,0,15,48,0,14,0,3
+Patents,O:WUHAN INSTITUTE OF TECHNOLOGY,2015-2025,82,8,0,9,45,5,19,1,8
+Patents,O:GUIZHOU UNIVERSITY,2015-2025,116,14,0,16,78,2,23,3,0
+Patents,O:CHUNGNAM NATIONAL UNIVERSITY,2015-2025,34,2,0,13,18,0,12,1,0
+Patents,O:SOUTH CHINA NORMAL UNIVERSITY,2015-2025,60,9,0,14,33,0,9,0,1
+Patents,O:LIAONING UNIVERSITY,2015-2025,56,10,0,13,19,0,21,0,5
+Patents,O:HAINAN UNIVERSITY,2015-2025,70,12,0,24,35,1,12,3,1
+Patents,O:YANSHAN UNIVERSITY,2015-2025,48,1,0,6,35,0,11,0,3
+Patents,O:NORTHWEST NORMAL UNIVERSITY,2015-2025,70,3,0,19,26,1,31,0,3
+Patents,O:ZHEJIANG OCEAN UNIVERSITY,2015-2025,63,1,0,5,45,0,11,4,3
+Patents,O:SINOPEC CHINA PETROCHEMICAL CORPORATION,2015-2025,1035,58,0,210,721,5,150,1,15
+Patents,O:BITRON,2015-2025,3,0,0,0,3,0,0,0,0
+Patents,O:NORTHEAST FORESTRY UNIVERSITY,2015-2025,120,23,0,37,58,4,19,3,3
+Patents,O:SHANDONG UNIVERSITY OF SCIENCE AND TECHNOLOGY,2015-2025,101,4,0,6,79,2,15,2,1
+Patents,O:NORTH UNIVERSITY OF CHINA,2015-2025,87,4,1,43,41,0,19,0,2
+Patents,O:JIANGSU UNIVERSITY OF SCIENCE AND TECHNOLOGY,2015-2025,62,7,0,13,33,1,14,1,2
+Patents,O:CHANGCHUN UNIVERSITY OF TECHNOLOGY,2015-2025,93,27,0,24,33,0,30,0,7
+Patents,O:KMUST KUNMING UNIVERSITY OF SCIENCE AND TECHNOLOGY,2015-2025,205,16,0,31,145,3,44,3,8
+Patents,C:IE,2015-2025,71,6,0,23,47,2,1,0,1
+Patents,O:XINJIANG ACADEMY OF AGRICULTURAL AND RECLAMATION SCIENCE,2015-2025,64,0,0,0,64,0,0,0,0
+Patents,O:DALIAN POLYTECHNIC UNIVERSITY,2015-2025,59,11,0,23,23,4,12,1,9
+Patents,C:RS,2015-2025,26,1,0,8,17,0,6,1,1
+Patents,C:RU,2015-2025,1066,21,0,236,803,7,26,3,27
+Patents,O:HEBEI UNIVERSITY OF SCIENCE AND TECHNOLOGY,2015-2025,56,5,0,11,37,0,14,0,1
+Patents,O:CHINA UNIVERSITY OF PETROLEUM BEIJING,2015-2025,73,7,0,12,55,1,11,0,2
+Patents,O:DNP DAINIPPON PRINTING COMPANY,2015-2025,73,13,0,1,36,21,15,0,0
+Patents,O:EXXONMOBIL CHEMICAL PATENTS,2015-2025,68,3,1,0,65,1,0,0,0
+Patents,O:YANCHENG INSTITUTE OF TECHNOLOGY,2015-2025,69,7,0,18,37,0,20,2,7
+Patents,O:XI AN UNIVERSITY OF TECHNOLOGY,2015-2025,62,1,0,7,52,0,12,0,2
+Patents,O:SUZHOU UNIVERSITY,2015-2025,95,11,0,34,42,2,21,0,1
+Patents,O:TOYOBO COMPANY,2015-2025,49,2,0,9,40,2,4,0,0
+Patents,O:HUNAN UNIVERSITY OF TECHNOLOGY,2015-2025,115,30,0,41,33,2,30,2,2
+Patents,O:DIC CORPORATION,2015-2025,86,2,0,17,66,0,3,0,0
+Patents,O:NOVAMONT,2015-2025,22,11,0,15,7,0,0,0,0
+Patents,C:LU,2015-2025,30,8,3,10,11,2,0,0,0
+Patents,O:CEA COMMISSARIAT A L ENERGIE ATOMIQUE,2015-2025,21,0,1,5,18,0,0,0,0
+Patents,O:NANJING INSTITUTE OF TECHNOLOGY,2015-2025,48,0,0,8,41,0,3,0,1
+Patents,O:FRAUNHOFER,2015-2025,42,2,0,12,30,0,2,0,1
+Patents,O:GUANGZHOU UNIVERSITY,2015-2025,56,2,0,5,29,3,18,1,1
+Patents,O:SHANDONG UNIVERSITY OF TECHNOLOGY,2015-2025,156,12,0,73,71,0,14,1,3
+Patents,O:FUJIAN NORMAL UNIVERSITY,2015-2025,82,18,0,13,47,1,12,1,8
+Patents,O:BEIHANG UNIVERSITY,2015-2025,49,2,0,16,21,0,14,1,1
+Patents,O:YONSEI UNIVERSITY,2015-2025,25,2,0,11,11,0,2,1,0
+Patents,C:RO,2015-2025,181,28,0,54,124,1,8,1,3
+Patents,O:LG CHEM,2015-2025,489,30,0,150,303,1,58,0,2
+Patents,C:GR,2015-2025,86,7,0,22,64,2,7,1,0
+Patents,O:SOUTHWEST JIAOTONG UNIVERSITY,2015-2025,72,6,0,28,38,2,9,1,2
+Patents,O:LUIGI LAVAZZA,2015-2025,5,1,0,5,0,0,0,0,0
+Patents,C:CA,2015-2025,543,61,0,201,338,19,12,3,6
+Patents,O:SHENYANG JIANZHU UNIVERSITY,2015-2025,43,0,0,0,39,1,6,0,0
+Patents,O:CHINA JILIANG UNIVERSITY,2015-2025,40,0,0,2,31,0,6,0,1
+Patents,O:ARKEMA,2015-2025,78,14,0,13,63,0,1,0,0
+Patents,C:SK,2015-2025,60,8,0,13,40,0,2,0,4
+Patents,O:HYUNDAI MOTOR COMPANY,2015-2025,32,1,0,2,23,0,11,0,0
+Patents,O:DOW GLOBAL TECHNOLOGIES,2015-2025,127,4,0,13,114,3,1,0,0
+Patents,C:TR,2015-2025,188,17,0,46,131,14,7,2,2
+Patents,C:TW,2015-2025,903,83,2,205,614,19,129,2,24
+Patents,C:CL,2015-2025,51,9,0,14,34,1,3,0,0
+Patents,O:SHANXI UNIVERSITY,2015-2025,60,2,0,18,38,0,9,2,4
+Patents,O:EAST CHINA NORMAL UNIVERSITY,2015-2025,60,4,0,12,39,2,15,4,0
+Patents,O:NANJING AGRICULTURAL UNIVERSITY,2015-2025,56,6,0,24,29,0,5,0,4
+Patents,C:NO,2015-2025,44,3,0,9,34,0,0,0,0
+Patents,O:MITSUBISHI GAS CHEMICAL COMPANY,2015-2025,31,5,0,6,23,0,0,0,0
+Patents,O:XINJIANG UNIVERSITY,2015-2025,61,3,0,11,39,1,20,0,6
+Patents,O:KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY,2015-2025,148,9,1,44,93,5,19,5,1
+Patents,C:CZ,2015-2025,142,16,0,45,86,1,5,0,2
+Patents,O:GE GENERAL ELECTRIC COMPANY,2015-2025,7,0,0,0,7,0,0,0,0
+Patents,O:CNPC CHINA NATIONAL PETROLEUM CORPORATION,2015-2025,134,7,0,32,89,1,21,0,2
+Patents,O:DUPONT,2015-2025,3,1,0,1,1,0,0,0,0
+Patents,O:XI AN UNIVERSITY OF ARCHITECTURE AND TECHNOLOGY,2015-2025,61,2,0,4,50,0,11,1,0
+Patents,C:BR,2015-2025,235,36,1,60,164,21,9,0,5
+Patents,O:SHELL INTERNATIONALE RESEARCH MAATSCHAPPIJ,2015-2025,29,0,0,0,29,0,0,0,0
+Patents,O:SHELL OIL COMPANY,2015-2025,19,0,0,0,19,0,0,0,0
+Patents,O:LANZHOU UNIVERSITY,2015-2025,48,1,0,8,33,1,10,0,1
+Patents,O:ZHONGKAI UNIVERSITY OF AGRICULTURE AND ENGINEERING,2015-2025,52,9,0,30,18,3,14,0,2
+Patents,O:SHENZHEN UNIVERSITY,2015-2025,84,3,0,17,51,3,11,0,7
+Patents,O:CHINA AGRICULTURAL UNIVERSITY,2015-2025,40,0,0,9,22,0,8,3,0
+Patents,O:SHOWA DENKO,2015-2025,21,3,0,3,18,0,0,0,0
+Patents,O:SICHUAN UNIVERSITY OF SCIENCE & ENGINEERING,2015-2025,51,13,0,12,23,3,15,0,2
+Patents,C:HK,2015-2025,54,6,0,16,29,3,9,2,1
+Patents,O:OCEAN UNIVERSITY OF CHINA,2015-2025,71,3,0,16,38,1,19,3,1
+Patents,O:KAIST KOREA ADVANCED INSTITUTE OF SCIENCE AND TECHNOLOGY,2015-2025,57,7,0,12,32,0,9,1,2
+Patents,O:HENKEL,2015-2025,52,14,0,21,7,7,4,1,0
+Patents,O:FOSHAN UNIVERSITY,2015-2025,58,3,0,20,27,1,16,2,1
+Patents,O:XEROX CORPORATION,2015-2025,29,3,0,12,13,0,2,0,1
+Patents,O:LANZHOU UNIVERSITY OF TECHNOLOGY,2015-2025,53,2,0,9,42,0,8,0,1
+Patents,O:MIT MASSACHUSETTS INSTITUTE OF TECHNOLOGY,2015-2025,34,2,0,18,17,1,0,0,1
+Patents,O:3M INNOVATIVE PROPERTIES COMPANY MINNESOTA MINING AND MANUFACTURING INNOVATIVE PROPERTIES COMPANY,2015-2025,42,13,0,15,15,0,0,0,0
+Patents,O:ITRI INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE,2015-2025,29,4,0,11,16,0,0,0,0
+Patents,O:NANJING UNIVERSITY OF AERONAUTICS AND ASTRONAUTICS,2015-2025,49,4,0,3,36,0,10,0,0
+Patents,O:KIST KOREA INSTITUTE OF SCIENCE AND TECHNOLOGY,2015-2025,80,6,2,32,50,1,12,1,1
+Patents,O:WANHUA CHEMICAL GROUP COMPANY,2015-2025,267,41,0,61,144,2,59,0,8
+Patents,O:PANASONIC CORPORATION,2015-2025,2,0,0,0,2,0,0,0,0
+Patents,C:CO,2015-2025,54,6,0,15,38,4,4,0,0
+Patents,O:SAMSUNG ELECTRONICS COMPANY,2015-2025,29,5,0,7,13,0,9,0,0
+Patents,O:NITTO DENKO CORPORATION,2015-2025,48,1,0,7,39,2,2,0,0
+Patents,O:SK CHEMICALS COMPANY,2015-2025,61,5,0,6,47,2,11,0,0
+Patents,O:IBM INTERNATIONAL BUSINESS MACHINES CORPORATION,2015-2025,45,20,0,15,11,0,0,0,2
+Patents,O:RICOH COMPANY,2015-2025,25,6,0,11,11,0,0,0,0
+Patents,O:NORTHEASTERN UNIVERSITY,2015-2025,69,0,0,11,45,0,19,1,2
+Patents,O:KANEKA CORPORATION,2015-2025,147,46,0,77,34,1,1,0,0
+Patents,O:SANYO CHEM IND,2015-2025,21,0,0,2,20,0,0,0,0
+Patents,O:SUMITOMO CHEMICAL COMPANY,2015-2025,89,8,0,6,79,1,0,0,0
+Patents,O:AIST NATIONAL INSTITUTE OF ADVANCED INDUSTRIAL SCIENCE AND TECHNOLOGY METI,2015-2025,42,2,0,8,33,0,1,0,0
+Patents,O:HITACHI CHEMICAL COMPANY,2015-2025,21,0,0,1,20,0,0,0,0
+Patents,O:TORAY INDUSTRIES,2015-2025,115,3,0,35,86,3,3,0,0
+Patents,O:TOYOTA MOTOR CORPORATION,2015-2025,21,1,0,5,18,0,0,0,0
+Patents,O:PUSAN NATIONAL UNIVERSITY,2015-2025,27,0,3,12,10,0,7,1,0
+Patents,O:GYEONGSANG NATIONAL UNIVERSITY,2015-2025,33,4,0,11,18,2,7,0,0
+Patents,O:ASTAR AGENCY FOR SCIENCE TECHNOLOGY AND RESEARCH,2015-2025,30,1,0,11,18,1,0,0,2
+Patents,C:MX,2015-2025,333,34,0,99,218,35,19,1,10
+Patents,C:LT,2015-2025,25,4,0,5,18,2,5,0,0
+Patents,O:SHIN ETSU CHEMICAL COMPANY,2015-2025,42,0,0,32,9,1,0,0,0
+Patents,O:TOSOH CORPORATION,2015-2025,56,4,0,2,49,1,0,0,0
+Patents,O:KOREA UNIVERSITY,2015-2025,88,10,0,34,37,5,21,0,0
+Patents,O:KURITA WATER IND,2015-2025,26,0,0,14,20,0,0,0,0
+Patents,O:HITACHI ZOSEN CORPORATION,2015-2025,3,1,0,0,2,0,0,0,0
+Patents,O:CANON,2015-2025,29,1,0,5,22,5,0,0,0
+Patents,O:TOYO SEIKAN,2015-2025,36,3,0,9,25,0,0,0,0
+Patents,O:NIPPON SHOKUBAI COMPANY,2015-2025,60,0,0,14,43,3,1,0,0
+Patents,O:MITSUBISHI RAYON COMPANY,2015-2025,8,0,0,4,4,0,0,0,0
+Patents,O:SEOUL NATIONAL UNIVERSITY,2015-2025,69,3,0,39,28,1,5,1,0
+Patents,O:KOREA INSTITUTE OF ENERGY RESEARCH,2015-2025,52,4,0,3,44,0,4,0,0
+Patents,O:ZHONGYUAN UNIVERSITY OF TECHNOLOGY,2015-2025,38,6,0,10,18,0,13,0,2
+Patents,O:KURARAY COMPANY,2015-2025,91,11,0,49,27,0,4,3,0
+Patents,O:FUJIFILM,2015-2025,64,1,0,18,40,5,0,0,0
+Patents,O:ZEON CORPORATION,2015-2025,50,1,0,6,46,1,0,0,0
+Patents,O:DAICEL CORPORATION,2015-2025,21,0,0,18,4,0,0,0,0
+Patents,O:COUNCIL OF SCIENTIFIC AND INDUSTRIAL RESEARCH,2015-2025,28,7,1,12,16,4,3,0,1
+Patents,C:AU,2015-2025,164,14,1,47,106,5,6,0,1
+Patents,O:JFE STEEL,2015-2025,18,0,0,1,15,0,2,0,0
+Patents,C:TH,2015-2025,30,3,0,9,17,1,1,0,0
+Patents,O:TOKYO OHKA KOGYO COMPANY,2015-2025,9,0,0,6,3,0,0,0,0
+Patents,O:TOSHIBA CORPORATION,2015-2025,13,0,0,4,10,0,0,0,0
+Patents,O:UBE IND,2015-2025,13,0,0,0,13,0,0,0,0
+Patents,O:SEKISUI CHEMICAL COMPANY,2015-2025,23,1,0,4,17,1,0,0,1
+Patents,O:UNITIKA,2015-2025,15,6,0,8,7,0,0,0,0
+Patents,O:MITSUBISHI ELECTRIC CORPORATION,2015-2025,15,0,0,1,14,0,0,0,0
+Patents,C:SI,2015-2025,22,3,0,6,15,0,1,0,0
+Patents,O:KIMBERLY CLARK CORPORATION,2015-2025,18,9,0,11,10,1,0,0,0
+Patents,C:IR,2015-2025,51,6,0,17,35,1,6,2,0
+Patents,O:KOREA INSTITUTE OF INDUSTRIAL TECHNOLOGY,2015-2025,71,11,0,13,35,0,14,3,0
+Patents,O:SHARP CORPORATION,2015-2025,3,0,0,0,3,0,0,0,0
+Patents,C:AR,2015-2025,26,2,0,6,19,0,0,1,2
+Patents,O:RUTGERS STATE UNIVERSITY NEW JERSEY,2015-2025,10,1,0,7,4,0,0,0,0
+Patents,O:KYUNGPOOK NATIONAL UNIVERSITY,2015-2025,46,9,0,29,20,1,4,0,1
+Patents,C:ZA,2015-2025,36,7,0,14,22,0,1,1,0
+Patents,O:MITSUBISHI CHEMICALS CORPORATION,2015-2025,87,4,0,43,40,1,0,0,0
+Patents,O:CORNELL UNIVERSITY,2015-2025,23,0,0,9,16,0,0,0,0
+Patents,O:BATTELLE MEMORIAL INSTITUTE,2015-2025,17,0,0,1,16,0,0,0,0
+Patents,O:YANGZHOU POLYTECHNIC INSTITUTE,2015-2025,53,10,0,19,25,3,18,0,2
+Patents,O:IFPEN IFP ENERGIES NOUVELLES,2015-2025,71,1,0,15,70,1,0,0,0
+Patents,O:UNIVERSITY OF CALIFORNIA,2015-2025,73,10,1,28,44,2,3,2,2
+Patents,O:SK INNOVATION COMPANY,2015-2025,105,0,0,9,98,0,4,1,0
+Patents,O:KAO CORPORATION,2015-2025,66,6,0,2,46,8,3,1,0
+Patents,O:HEFEI GENIUS NEW MATERIALS COMPANY,2015-2025,56,2,0,12,34,0,9,0,0
+Patents,O:GEORGIA INSTITUTE OF TECHNOLOGY,2015-2025,25,1,2,9,17,0,0,0,0
+Patents,O:TEIJIN,2015-2025,18,6,0,3,11,0,0,0,0
+Patents,O:SUNGKYUNKWAN UNIVERSITY,2015-2025,36,3,0,11,18,2,5,0,1
+Patents,O:TOPPAN PRINTING COMPANY,2015-2025,29,2,0,6,21,0,2,0,0
+Patents,O:JHU JOHNS HOPKINS UNIVERSITY,2015-2025,19,1,0,14,4,1,0,0,0
+Patents,O:HITACHI,2015-2025,14,0,0,2,12,0,0,0,0
+Patents,O:TERUMO CORPORATION,2015-2025,14,2,0,13,3,0,0,0,0
+Patents,O:MITSUI CHEMICALS,2015-2025,42,2,0,8,31,1,0,1,0
+Patents,O:CHONNAM NATIONAL UNIVERSITY,2015-2025,54,12,0,28,20,0,4,2,0
+Patents,C:MY,2015-2025,77,15,0,22,45,3,1,0,0
+Patents,O:ASAHI KASEI,2015-2025,58,7,0,9,45,1,0,0,0
+Patents,O:HARVARD UNIVERSITY,2015-2025,20,1,0,14,5,1,0,0,0
+Patents,O:ASAHI GLASS COMPANY,2015-2025,4,0,0,0,3,0,1,0,0
+Patents,C:BG,2015-2025,48,1,0,9,36,0,2,1,0
+Patents,O:UNIVERSITY OF TEXAS SYSTEM,2015-2025,22,1,0,6,14,2,0,0,0
+Patents,O:DONGHUA UNIVERSITY,2015-2025,41,1,0,8,27,1,10,0,1
+Patents,O:NANTONG UNIVERSITY,2015-2025,67,17,0,23,29,0,23,1,0
+Patents,O:JSR CORPORATION JAPAN SYNTHETIC RUBBER,2015-2025,24,0,0,3,21,0,0,0,0
+Patents,O:SHIMADZU CORPORATION,2015-2025,13,0,0,4,8,0,0,1,0
+Patents,C:NZ,2015-2025,43,4,0,15,25,1,1,0,0
+Patents,O:HANYANG UNIVERSITY,2015-2025,25,2,0,9,14,0,4,0,0
+Patents,O:MICHIGAN STATE UNIVERSITY,2015-2025,20,4,0,10,15,0,1,0,0
+Patents,O:NORTHWEST A&F UNIVERSITY,2015-2025,48,4,0,16,24,2,6,5,4
+Patents,O:CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS,2015-2025,27,10,0,14,10,1,0,0,0
+Patents,O:KINGFA SCIENCE AND TECHNOLOGY COMPANY,2015-2025,108,18,0,49,38,0,15,0,1
+Patents,O:EASTMAN,2015-2025,170,5,0,30,141,16,0,1,0
+Patents,O:NIPPON STEEL CORPORATION,2015-2025,21,0,0,0,21,0,0,0,0
+Patents,O:SONY CORPORATION,2015-2025,5,0,0,2,3,0,0,0,0
+Patents,O:FURUKAWA ELECTRIC CO LTD,2015-2025,10,0,0,1,9,0,0,0,0
+Patents,O:SHANGHAI UNIVERSITY OF ENGINEERING SCIENCE,2015-2025,45,8,0,17,20,0,13,0,1
+Patents,O:POLITECNIQUE OF TORINO,2015-2025,2,0,0,0,1,0,1,0,0
+Patents,C:HU,2015-2025,31,1,0,3,27,0,1,0,0
+Patents,O:BISIO PROGETTI,2015-2025,4,0,0,4,1,0,0,0,0
+Patents,O:MITSUBISHI HEAVY INDUSTRIES,2015-2025,13,0,0,0,13,0,0,0,0
+Patents,O:BAYER,2015-2025,1,0,0,1,0,0,0,0,0
+Patents,O:SUMITOMO ELECTRIC INDUSTRIES,2015-2025,3,0,0,0,3,0,0,0,0
+Patents,O:HONDA MOTOR COMPANY,2015-2025,28,0,0,3,28,0,0,0,0
+Patents,O:JAPAN SCIENCE AND TECHNOLOGY AGENCY,2015-2025,2,0,0,0,2,0,0,0,0
+Patents,O:MONDO,2015-2025,1,0,0,1,0,0,0,0,0
+Patents,O:JAPAN STEEL WORKS,2015-2025,12,0,0,1,11,0,0,0,0
+Patents,O:AMUT,2015-2025,1,0,0,0,1,0,0,0,0
+Patents,O:GUALA PACK,2015-2025,4,0,0,3,2,0,0,0,0
+Patents,O:ERGOTECH COMPANY,2015-2025,2,0,0,0,2,0,0,0,0
+Patents,O:UNIVERSITA DEGLI STUDI DI TORINO,2015-2025,2,1,0,1,2,0,0,0,0

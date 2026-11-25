@@ -1,0 +1,443 @@
+name,country,city,tier,kind,trend,joint,strengthen,score_pct,lat,lon
+Université Claude Bernard Lyon 1,FR,Villeurbanne,Europe,Existing partner,one-off,1,TRUE,,45.76601,4.8795
+University College Dublin,IE,Dublin,Europe,Existing partner,stable,2,FALSE,,53.33306,-6.24889
+University of Siena,IT,Siena,Italy,Existing partner,rising,4,FALSE,,43.3182182312012,11.3306398391724
+Université Paris-Sud,FR,Orsay,Europe,Existing partner,one-off,1,FALSE,,48.69572,2.18727
+Karlsruhe Institute of Technology,DE,Karlsruhe,Europe,Existing partner,one-off,1,TRUE,,49.0093688964844,8.40443992614746
+Università Cattolica del Sacro Cuore,IT,Milan,Italy,Existing partner,new,2,FALSE,,45.4642715454102,9.18951034545898
+University of Foggia,IT,Foggia,Italy,Existing partner,fading,7,TRUE,,41.4584503173828,15.5518798828125
+Roskilde University,DK,Roskilde,Europe,Existing partner,one-off,1,FALSE,,55.6415214538574,12.0803499221802
+University of Pisa,IT,Pisa,Italy,Existing partner,rising,6,FALSE,,43.70853,10.4036
+Agricultural University of Athens,GR,Athens,Europe,Existing partner,one-off,1,TRUE,,37.9837608337402,23.727840423584
+"National Agency for New Technologies, Energy and Sustainable Economic Development",IT,Rome,Italy,Existing partner,one-off,1,TRUE,,41.89193,12.51133
+Ikerbasque,ES,Bilbao,Europe,New candidate,,0,,95,43.2627105712891,-2.92528009414673
+Délégation Paris 5,FR,Paris,Europe,Existing partner,one-off,1,FALSE,,48.85341,2.3488
+Università di Camerino,IT,Camerino,Italy,Existing partner,rising,5,FALSE,,43.1386604309082,13.067850112915
+University of Messina,IT,Messina,Italy,Existing partner,one-off,1,TRUE,,38.1939392089844,15.5525598526001
+Agenzia Regionale per la Protezione Ambientale del Piemonte,IT,Turin,Piedmont,New candidate,,0,,67,45.07049,7.68682
+University of Insubria,IT,Varese,Italy,Existing partner,rising,4,FALSE,,45.8205795288086,8.82511043548584
+University of Rome Tor Vergata,IT,Rome,Italy,Existing partner,rising,4,FALSE,,41.89193,12.51133
+Roma Tre University,IT,Rome,Italy,Existing partner,fading,4,TRUE,,41.89193,12.51133
+École Nationale Supérieure de Chimie de Montpellier,FR,Montpellier,Europe,Existing partner,stable,2,FALSE,,43.61093,3.87635
+University of Verona,IT,Verona,Italy,Existing partner,fading,2,TRUE,,45.4385414123535,10.993800163269
+Universidad Complutense de Madrid,ES,Madrid,Europe,Existing partner,one-off,1,TRUE,,40.4165,-3.70256
+University of Modena and Reggio Emilia,IT,Modena,Italy,Existing partner,new,2,FALSE,,44.64783,10.92539
+Marche Polytechnic University,IT,Ancona,Italy,Existing partner,one-off,1,TRUE,,43.5942001342773,13.5033702850342
+Universitat Autònoma de Barcelona,ES,Cerdanyola del Vallès,Europe,Existing partner,new,2,FALSE,,41.4910888671875,2.14078998565674
+Università degli Studi del Piemonte Orientale “Amedeo Avogadro”,IT,Vercelli,Piedmont,Existing partner,rising,10,FALSE,,45.32163,8.41989
+University of Copenhagen,DK,Copenhagen,Europe,New candidate,,0,,96,55.67594,12.56553
+University of Teramo,IT,Teramo,Italy,Existing partner,one-off,1,TRUE,,42.6612281799316,13.6990098953247
+University of Parma,IT,Parma,Italy,Existing partner,rising,6,FALSE,,44.7993507385254,10.3261804580688
+Jagiellonian University,PL,Krakow,Europe,Existing partner,one-off,1,TRUE,,50.0614318847656,19.936580657959
+University of Udine,IT,Udine,Italy,Existing partner,one-off,1,TRUE,,46.0693016052246,13.2371501922607
+CEA CESTA,FR,Le Barp,Europe,Existing partner,one-off,1,FALSE,,44.60784,-0.77318
+Centre National de la Recherche Scientifique,FR,Paris,Europe,Existing partner,rising,15,FALSE,,48.85341,2.3488
+University of Vienna,AT,Vienna,Europe,New candidate,,0,,95,48.20849,16.37208
+Piaggio (Italy),IT,Pontedera,Italy,Existing partner,one-off,1,TRUE,,43.6615028381348,10.6285333633423
+European Bioinformatics Institute,GB,Cambridge,Europe,Existing partner,one-off,1,FALSE,,52.2,0.11667
+Institute of the Estonian Language,EE,Tallinn,Europe,Existing partner,one-off,1,FALSE,,59.4315986633301,24.7433567047119
+University of Salerno,IT,Fisciano,Italy,Existing partner,rising,4,FALSE,,40.7717514038086,14.7945404052734
+Federal Institute For Materials Research and Testing,DE,Berlin,Europe,Existing partner,one-off,1,TRUE,,52.4432029724121,13.2876605987549
+National Institute of Occupational Health,NO,Oslo,Europe,Existing partner,new,3,FALSE,,59.9335556030274,10.7190103530884
+Norwegian Institute of Public Health,NO,Oslo,Europe,Existing partner,new,2,FALSE,,59.9127311706543,10.7460899353027
+University of Helsinki,FI,Helsinki,Europe,Existing partner,new,4,FALSE,,60.16952,24.93545
+Humanitas University,IT,Rozzano,Italy,Existing partner,one-off,1,FALSE,,45.3819313049316,9.15590000152588
+Université Toulouse III - Paul Sabatier,FR,Toulouse,Europe,New candidate,,0,,95,43.60426,1.44367
+Consejo Superior de Investigaciones Científicas,ES,Madrid,Europe,Existing partner,rising,3,FALSE,,40.4165,-3.70256
+Institute for Scientific Interchange,IT,Turin,Piedmont,Existing partner,one-off,1,FALSE,,45.0704917907715,7.6868200302124
+University of Bonn,DE,Bonn,Europe,Existing partner,fading,3,TRUE,,50.73438,7.09549
+University of Padua,IT,Padua,Italy,Existing partner,rising,6,FALSE,,45.40797,11.88586
+Università degli Studi della Tuscia,IT,Viterbo,Italy,Existing partner,one-off,1,TRUE,,42.41937,12.1056
+University of Hertfordshire,GB,Hatfield,Europe,Existing partner,one-off,1,FALSE,,51.7633781433106,-0.22418999671936
+University of Bucharest,RO,Bucharest,Europe,Existing partner,one-off,1,TRUE,,44.43225,26.10626
+University of Lisbon,PT,Lisbon,Europe,Existing partner,rising,2,FALSE,,38.72509,-9.1498
+Teagasc - The Irish Agriculture and Food Development Authority,IE,Carlow,Europe,Existing partner,one-off,1,FALSE,,52.8408317565918,-6.926109790802
+VSB - Technical University of Ostrava,CZ,Ostrava,Europe,Existing partner,one-off,1,TRUE,,49.83465,18.28204
+University of Nottingham,GB,Nottingham,Europe,Existing partner,rising,3,FALSE,,52.9536,-1.15047
+University of Trieste,IT,Trieste,Italy,New candidate,,0,,100,45.64953,13.77678
+Royal College of Surgeons in Ireland,IE,Dublin,Europe,Existing partner,one-off,1,FALSE,,53.3330612182617,-6.2488899230957
+University of Salento,IT,Lecce,Italy,New candidate,,0,,100,40.35481,18.17244
+University of Liverpool,GB,Liverpool,Europe,Existing partner,one-off,1,TRUE,,53.41058,-2.97794
+Technical University of Liberec,CZ,Liberec,Europe,Existing partner,one-off,1,TRUE,,50.76711,15.05619
+Democritus University of Thrace,GR,Komotini,Europe,Existing partner,one-off,1,FALSE,,41.1191711425781,25.4053497314453
+University of Antwerp,BE,Antwerp,Europe,Existing partner,fading,2,FALSE,,51.2227287292481,4.4084300994873
+Ca' Foscari University of Venice,IT,Venice,Italy,New candidate,,0,,99,45.43713,12.33265
+Eni (Italy),IT,Rome,Italy,Existing partner,rising,2,FALSE,,41.8919296264649,12.5113296508789
+Université de Bordeaux,FR,Bordeaux,Europe,Existing partner,rising,2,FALSE,,44.84124,-0.58046
+Université de Perpignan,FR,Perpignan,Europe,Existing partner,one-off,1,FALSE,,42.69764,2.89541
+Arkema (France),FR,Colombes,Europe,Existing partner,stable,2,FALSE,,48.9188194274902,2.25404000282288
+University of Kaiserslautern,DE,Kaiserslautern,Europe,Existing partner,fading,3,TRUE,,49.443000793457,7.77160978317261
+University of Ljubljana,SI,Ljubljana,Europe,Existing partner,new,5,FALSE,,46.0510787963867,14.5051298141479
+Ifremer,FR,Brest,Europe,Existing partner,one-off,1,FALSE,,48.39029,-4.48628
+University of Rijeka,HR,Rijeka,Europe,Existing partner,one-off,1,FALSE,,45.32673,14.44241
+Inserm,FR,Paris,Europe,Existing partner,rising,4,FALSE,,48.85341,2.3488
+Università Campus Bio-Medico,IT,Rome,Italy,Existing partner,one-off,1,TRUE,,41.7683334350586,12.4700002670288
+University of Trás-os-Montes and Alto Douro,PT,Vila Real,Europe,Existing partner,one-off,1,TRUE,,41.30062,-7.74413
+Institut Pasteur,FR,Paris,Europe,Existing partner,one-off,1,FALSE,,48.85341,2.3488
+Universität Hamburg,DE,Hamburg,Europe,Existing partner,one-off,1,TRUE,,53.55073,9.99302
+University of Sassari,IT,Sassari,Italy,Existing partner,one-off,1,TRUE,,40.7258605957031,8.55552005767822
+École Pratique des Hautes Études,FR,Paris,Europe,Existing partner,one-off,1,FALSE,,48.85341,2.3488
+Universitat de València,ES,Valencia,Europe,Existing partner,one-off,1,TRUE,,39.4739112854004,-0.37966001033783
+Philipps University of Marburg,DE,Marburg,Europe,Existing partner,one-off,1,TRUE,,50.8090400695801,8.77068996429443
+Université de Bretagne Occidentale,FR,Brest,Europe,Existing partner,one-off,1,TRUE,,48.39029,-4.48628
+Cyprus University of Technology,CY,Limassol,Europe,Existing partner,new,3,FALSE,,34.6840591430664,33.0379409790039
+Sumy National Agrarian University,UA,Sumy,Europe,Existing partner,one-off,1,FALSE,,50.9216003417969,34.8002891540527
+University of the Basque Country,ES,Leioa,Europe,New candidate,,0,,99,43.32686,-2.98884
+Free University of Bozen-Bolzano,IT,Bolzano,Italy,Existing partner,one-off,1,TRUE,,46.4906692504883,11.3398199081421
+University of Cagliari,IT,Cagliari,Italy,New candidate,,0,,98,39.23054,9.11917
+Vilnius University,LT,Vilnius,Europe,Existing partner,one-off,1,TRUE,,54.6891593933106,25.2798004150391
+Universidad de Granada,ES,Granada,Europe,Existing partner,one-off,1,TRUE,,37.18817,-3.60667
+National Technical University of Athens,GR,Athens,Europe,Existing partner,new,2,FALSE,,37.9837608337402,23.727840423584
+University of Southern Denmark,DK,Odense,Europe,Existing partner,one-off,1,TRUE,,55.39594,10.38831
+Université Fédérale de Toulouse Midi-Pyrénées,FR,Toulouse,Europe,Existing partner,new,2,FALSE,,43.60426,1.44367
+University of Zagreb,HR,Zagreb,Europe,Existing partner,one-off,1,TRUE,,45.81444,15.97798
+Friedrich-Alexander-Universität Erlangen-Nürnberg,DE,Erlangen,Europe,Existing partner,new,5,FALSE,,49.59099,11.00783
+Universidade do Porto,PT,Porto,Europe,Existing partner,rising,4,FALSE,,41.14961,-8.61099
+Parthenope University of Naples,IT,Naples,Italy,New candidate,,0,,96,40.8521614074707,14.2681102752686
+King's College London,GB,London,Europe,Existing partner,one-off,1,TRUE,,51.50853,-0.12574
+Universidad de Salamanca,ES,Salamanca,Europe,Existing partner,one-off,1,TRUE,,40.9688186645508,-5.66387987136841
+Institut Universitaire de France,FR,Paris,Europe,Existing partner,new,2,FALSE,,48.847469329834,2.34869599342346
+Ollscoil na Gaillimhe – University of Galway,IE,Galway,Europe,Existing partner,one-off,1,TRUE,,53.2724494934082,-9.050950050354
+University of Milan,IT,Milan,Italy,Existing partner,rising,9,FALSE,,45.4642715454102,9.18951034545898
+"University of Veterinary Medicine Hannover, Foundation",DE,Hanover,Europe,Existing partner,one-off,1,TRUE,,52.3553085327149,9.80143928527832
+Universität Innsbruck,AT,Innsbruck,Europe,Existing partner,one-off,1,TRUE,,47.26266,11.39454
+University of Trento,IT,Trento,Italy,New candidate,,0,,99,46.06787109375,11.1210803985596
+Utrecht University,NL,Utrecht,Europe,Existing partner,one-off,1,TRUE,,52.0908317565918,5.12222003936768
+Mario Negri Institute for Pharmacological Research,IT,Milan,Italy,Existing partner,one-off,1,TRUE,,45.4642715454102,9.18951034545898
+"University of Campania """"""""Luigi Vanvitelli""""""""",IT,Caserta,Italy,New candidate,,0,,100,41.0726203918457,14.3323097229004
+Université Clermont Auvergne,FR,Clermont-Ferrand,Europe,Existing partner,new,3,FALSE,,45.77969,3.08682
+Université de Montpellier,FR,Montpellier,Europe,Existing partner,stable,2,FALSE,,43.61093,3.87635
+Universidade de Santiago de Compostela,ES,Santiago de Compostela,Europe,Existing partner,rising,4,FALSE,,42.8805198669434,-8.54568958282471
+National and Kapodistrian University of Athens,GR,Athens,Europe,Existing partner,one-off,1,TRUE,,37.9837608337402,23.727840423584
+University of Ferrara,IT,Ferrara,Italy,Existing partner,rising,3,FALSE,,44.83804,11.62057
+Riga Technical University,LV,Riga,Europe,Existing partner,one-off,1,TRUE,,56.9459991455078,24.1058902740479
+University of Zurich,CH,Zurich,Europe,Existing partner,one-off,1,TRUE,,47.36667,8.55
+Aarhus University,DK,Aarhus,Europe,New candidate,,0,,97,56.15674,10.21076
+Université Paris Cité,FR,Paris,Europe,Existing partner,rising,3,FALSE,,48.85341,2.3488
+Norwegian University of Science and Technology,NO,Trondheim,Europe,Existing partner,new,2,FALSE,,63.43049,10.39506
+Kingston University,GB,London,Europe,Existing partner,one-off,1,TRUE,,51.5085296630859,-0.125740006566048
+Institut National Polytechnique de Toulouse,FR,Toulouse,Europe,Existing partner,one-off,1,TRUE,,43.60426,1.44367
+Aristotle University of Thessaloniki,GR,Thessaloniki,Europe,New candidate,,0,,95,40.6436080932617,22.9308605194092
+Aix-Marseille Université,FR,Marseille,Europe,New candidate,,0,,98,43.29695,5.38107
+University of Münster,DE,Münster,Europe,Existing partner,one-off,1,TRUE,,51.9623603820801,7.62571001052856
+Université de Lille,FR,Lille,Europe,New candidate,,0,,97,50.63297,3.05858
+University of Limerick,IE,Limerick,Europe,Existing partner,one-off,1,TRUE,,52.66472,-8.62306
+University of Cambridge,GB,Cambridge,Europe,Existing partner,one-off,1,TRUE,,52.2,0.11667
+Bulgarian Academy of Sciences,BG,Sofia,Europe,Existing partner,one-off,1,TRUE,,42.69751,23.32415
+Cracow University of Technology,PL,Krakow,Europe,Existing partner,one-off,1,TRUE,,50.0614318847656,19.936580657959
+Universidade Católica Portuguesa,PT,Lisbon,Europe,Existing partner,one-off,1,TRUE,,38.72509,-9.1498
+University of Pavia,IT,Pavia,Italy,Existing partner,rising,2,FALSE,,45.19205,9.15917
+Universidad de Zaragoza,ES,Zaragoza,Europe,Existing partner,new,3,FALSE,,41.65606,-0.87734
+Scotland's Rural College,GB,Edinburgh,Europe,Existing partner,one-off,1,TRUE,,55.9520606994629,-3.19648003578186
+University of L'Aquila,IT,L’Aquila,Italy,New candidate,,0,,96,42.3505516052246,13.3995399475098
+Commissariat à l'Énergie Atomique et aux Énergies Alternatives,FR,Paris,Europe,Existing partner,new,2,FALSE,,48.85341,2.3488
+University of Perugia,IT,Perugia,Italy,Existing partner,one-off,1,TRUE,,43.1122,12.38878
+Université Paris-Saclay,FR,Gif-sur-Yvette,Europe,Existing partner,rising,2,FALSE,,48.68333,2.13333
+Istituto Superiore di Sanità,IT,Rome,Italy,New candidate,,0,,97,41.903923034668,12.5184993743897
+Casa Sollievo della Sofferenza,IT,San Giovanni Rotondo,Italy,Existing partner,one-off,1,FALSE,,41.7088317871094,15.7062015533447
+Helsinki Institute of Physics,FI,Helsinki,Europe,Existing partner,new,2,FALSE,,60.1695213317871,24.9354496002197
+Wellcome Centre for Cell-Matrix Research,GB,Manchester,Europe,Existing partner,one-off,1,FALSE,,53.4654045104981,-2.22902488708496
+Istituto Universitario di Studi Superiori di Pavia,IT,Pavia,Italy,Existing partner,new,2,FALSE,,45.1920509338379,9.15917015075684
+Marconi University,IT,Rome,Italy,Existing partner,one-off,1,FALSE,,41.89193,12.51133
+Center for NanoScience,DE,Munich,Europe,Existing partner,one-off,1,FALSE,,48.1374282836914,11.5754899978638
+Ministero della Salute,IT,Rome,Italy,Existing partner,one-off,1,FALSE,,41.8919296264649,12.5113296508789
+Regione Campania,IT,Naples,Italy,Existing partner,one-off,1,FALSE,,40.8586311340332,14.2817602157593
+Istituto Giannina Gaslini,IT,Genoa,Italy,Existing partner,one-off,1,FALSE,,44.3928413391113,8.98800659179688
+Finnish Institute of Occupational Health,FI,Helsinki,Europe,Existing partner,new,2,FALSE,,60.1896133422852,24.9119281768799
+European Synchrotron Radiation Facility,FR,Grenoble,Europe,Existing partner,one-off,1,FALSE,,45.2087783813477,5.69005584716797
+Université de Bretagne Sud,FR,Lorient,Europe,Existing partner,one-off,1,TRUE,,47.74817,-3.37177
+"University """"""""St. Kliment Ohridski"""""""" - Bitola",MK,Bitola,Europe,Existing partner,one-off,1,FALSE,,41.0314292907715,21.3347396850586
+Elettra-Sincrotrone Trieste S.C.p.A.,IT,Trieste,Italy,Existing partner,one-off,1,TRUE,,45.649528503418,13.776780128479
+Senckenberg Research Institute and Natural History Museum Frankfurt/M,DE,Frankfurt am Main,Europe,Existing partner,one-off,1,FALSE,,50.11552,8.68417
+Stazione Zoologica Anton Dohrn,IT,Naples,Italy,New candidate,,0,,99,40.8521614074707,14.2681102752686
+University of Manchester,GB,Manchester,Europe,Existing partner,fading,2,TRUE,,53.48095,-2.23743
+Jožef Stefan Institute,SI,Ljubljana,Europe,Existing partner,one-off,1,TRUE,,46.0510787963867,14.5051298141479
+Centre Hospitalier Universitaire de Bordeaux,FR,Bordeaux,Europe,Existing partner,one-off,1,FALSE,,44.8404388427734,-0.58050000667572
+University Medical Center Utrecht,NL,Utrecht,Europe,Existing partner,rising,4,FALSE,,52.0908317565918,5.12222003936768
+CEA Grenoble,FR,Grenoble,Europe,Existing partner,one-off,1,TRUE,,45.17869,5.71479
+Italian Institute of Technology,IT,Genoa,Italy,Existing partner,stable,2,FALSE,,44.4047813415527,8.94439029693604
+University of Gastronomic Sciences,IT,Bra,Piedmont,New candidate,,0,,36,44.69776,7.85128
+Christian-Albrechts-Universität zu Kiel,DE,Kiel,Europe,Existing partner,one-off,1,TRUE,,54.32133,10.13489
+Ghent University,BE,Ghent,Europe,Existing partner,one-off,1,TRUE,,51.05,3.71667
+Université de Poitiers,FR,Poitiers,Europe,Existing partner,one-off,1,TRUE,,46.58261,0.34348
+Klaipėda University,LT,Klaipėda,Europe,Existing partner,one-off,1,FALSE,,55.7067985534668,21.1391201019287
+Academy of Romanian Scientists,RO,Bucharest,Europe,Existing partner,one-off,1,TRUE,,44.4322509765625,26.1062602996826
+Maastricht University,NL,Maastricht,Europe,Existing partner,one-off,1,TRUE,,50.84833,5.68889
+GEOMAR Helmholtz Centre for Ocean Research Kiel,DE,Kiel,Europe,Existing partner,one-off,1,FALSE,,54.32133,10.13489
+ETH Zurich,CH,Zurich,Europe,Existing partner,one-off,1,TRUE,,47.36667,8.55
+University of Bristol,GB,Bristol,Europe,Existing partner,one-off,1,TRUE,,51.45523,-2.59665
+Magna Graecia University,IT,Catanzaro,Italy,Existing partner,one-off,1,TRUE,,38.8824691772461,16.6008605957031
+University of Catania,IT,Catania,Italy,Existing partner,rising,5,FALSE,,37.49223,15.07041
+University of Chieti-Pescara,IT,Chieti,Italy,New candidate,,0,,98,42.3482704162598,14.1649398803711
+University of Warwick,GB,Coventry,Europe,New candidate,,0,,94,52.40656,-1.51217
+Sorbonne Université,FR,Paris,Europe,Existing partner,one-off,1,TRUE,,48.85341,2.3488
+University of Oxford,GB,Oxford,Europe,New candidate,,0,,98,51.75222,-1.25596
+University of Gdańsk,PL,Gdansk,Europe,Existing partner,one-off,1,TRUE,,54.35227,18.64912
+University of Belgrade,RS,Belgrade,Europe,Existing partner,one-off,1,TRUE,,44.80401,20.46513
+Instituto de Catálisis y Petroleoquímica,ES,Madrid,Europe,Existing partner,new,2,FALSE,,40.4165000915527,-3.70255994796753
+Fundacion Agencia Aragonesa para la Investigacion y el Desarrollo,ES,Zaragoza,Europe,Existing partner,one-off,1,TRUE,,41.65606,-0.87734
+Centro Studi Industriali,IT,Cologno Monzese,Italy,Existing partner,one-off,1,FALSE,,45.5323791503906,9.29275608062744
+Institut de Chimie de Nice,FR,Nice,Europe,Existing partner,one-off,1,FALSE,,43.70313,7.26608
+University for Business and Technology,XK,Pristina,Europe,Existing partner,new,2,FALSE,,42.5588455200195,21.1345367431641
+"Astrophysique, Instrumentation et Modélisation",FR,Gif-sur-Yvette,Europe,Existing partner,one-off,1,FALSE,,48.68333,2.13333
+Institute of Food Science,IT,Avellino,Italy,Existing partner,one-off,1,FALSE,,40.9111976623535,14.7758474349976
+National Institute of Materials Physics,RO,Măgurele,Europe,Existing partner,one-off,1,FALSE,,44.3499984741211,26.0333309173584
+"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",FR,Paris,Europe,Existing partner,new,2,FALSE,,48.85341,2.3488
+Innovation (Latvia),LV,Riga,Europe,Existing partner,one-off,1,FALSE,,56.9674453735352,24.1418704986572
+Children's Hospital Srebrnjak,HR,Zagreb,Europe,Existing partner,new,2,FALSE,,45.81444,15.97798
+Institute for Sustainable Plant Protection,IT,Turin,Piedmont,Existing partner,new,4,FALSE,,45.0164070129395,7.63824701309204
+Laboratoire de Biotechnologie et Chimie Marines,FR,Vannes,Europe,Existing partner,one-off,1,FALSE,,47.65688,-2.76205
+National Composites Centre,GB,Bristol,Europe,Existing partner,one-off,1,FALSE,,51.4994316101074,-2.47623705863953
+Azienda Sanitaria Unità Locale di Reggio Emilia,IT,Reggio Emilia,Italy,Existing partner,one-off,1,FALSE,,44.6868171691895,10.6667404174805
+Istituto Zooprofilattico Sperimentale Della Sicilia,IT,Palermo,Italy,Existing partner,one-off,1,FALSE,,38.1166000366211,13.3635997772217
+Centro Ricerche FIAT,IT,Orbassano,Piedmont,Existing partner,fading,5,FALSE,,45.00547,7.53813
+Istituto di Nanotecnologia,IT,Lecce,Italy,New candidate,,0,,95,40.3386917114258,18.1205062866211
+Sorbonne Paris Cité,FR,Paris,Europe,Existing partner,fading,3,TRUE,,48.8534088134766,2.34879994392395
+Bioengineering (Switzerland),CH,Wald,Europe,Existing partner,one-off,1,FALSE,,47.2791748046875,8.91731834411621
+Fraunhofer Institute for Structural Durability and System Reliability,DE,Darmstadt,Europe,Existing partner,one-off,1,FALSE,,49.87167,8.65027
+Azienda Universitaria Ospedaliera Consorziale - Policlinico Bari,IT,Bari,Italy,Existing partner,one-off,1,FALSE,,41.1121025085449,16.861837387085
+5T Torino (Italy),IT,Turin,Piedmont,Existing partner,rising,4,FALSE,,45.0714874267578,7.67802619934082
+Institute of Materials for Electronics and Magnetism,IT,Parma,Italy,Existing partner,one-off,1,FALSE,,44.7627601623535,10.3144540786743
+Institute of Atmospheric Sciences and Climate,IT,Bologna,Italy,Existing partner,one-off,1,FALSE,,44.5222396850586,11.3383531570435
+Génomique Métabolique du Genoscope,FR,Évry-Courcouronnes,Europe,Existing partner,one-off,1,FALSE,,48.63389,2.44417
+Accademia Albertina delle Belle Arti,IT,Turin,Piedmont,Existing partner,rising,15,FALSE,,45.07049,7.68682
+IRCCS Azienda Ospedliero-Universitaria di Bologna Policlinico di Sant'Orsola,IT,Bologna,Italy,Existing partner,one-off,1,FALSE,,44.49381,11.33875
+CEA Paris-Saclay - Etablissement de Fontenay-aux-roses,FR,Fontenay-aux-Roses,Europe,Existing partner,one-off,1,FALSE,,48.7932510375977,2.29274988174439
+Assistance Publique – Hôpitaux de Paris,FR,Paris,Europe,Existing partner,rising,2,FALSE,,48.85341,2.3488
+Consorzio Interuniversitario per lo Sviluppo dei Sistemi a Grande Interfase,IT,Sesto Fiorentino,Italy,New candidate,,0,,97,43.8319282531738,11.199239730835
+CoNISMa,IT,Rome,Italy,Existing partner,one-off,1,FALSE,,41.89193,12.51133
+Institute of Geosciences and Earth Resources,IT,Pisa,Italy,Existing partner,one-off,1,FALSE,,43.7085304260254,10.4035997390747
+Environnements et Paléoenvironnements Océaniques et Continentaux,FR,Pessac,Europe,Existing partner,one-off,1,FALSE,,44.80565,-0.6324
+"Istituto Nazionale di Fisica Nucleare, Sezione di Torino",IT,Turin,Piedmont,Existing partner,one-off,1,FALSE,,45.07049,7.68682
+Hospices Civils de Lyon,FR,Lyon,Europe,Existing partner,one-off,1,FALSE,,45.74906,4.84789
+"Softmat - Chimie des colloïdes, polymères & assemblages complexes",FR,Toulouse,Europe,Existing partner,one-off,1,FALSE,,43.60426,1.44367
+Institute of Oncology Research,CH,Bellinzona,Europe,Existing partner,one-off,1,FALSE,,46.1927795410156,9.01702976226807
+University Hospital Brno,CZ,Brno,Europe,Existing partner,one-off,1,FALSE,,49.19522,16.60796
+Hôpital Européen Georges-Pompidou,FR,Paris,Europe,Existing partner,one-off,1,FALSE,,48.85341,2.3488
+Ospedale A. Perrino,IT,Brindisi,Italy,Existing partner,one-off,1,FALSE,,40.6240997314453,17.9145908355713
+Centro de Edafología y Biología Aplicada del Segura,ES,Murcia,Europe,Existing partner,one-off,1,FALSE,,37.9870414733887,-1.13004004955292
+Institut Català de Ciències del Clima,ES,Barcelona,Europe,Existing partner,one-off,1,FALSE,,41.3887901306152,2.15898990631104
+Ingegneria dei Trasporti (Italy),IT,Rome,Italy,Existing partner,one-off,1,FALSE,,41.8943405151367,12.492654800415
+"Biomedical Research Networking Center in Bioengineering, Biomaterials and Nanomedicine",ES,Madrid,Europe,Existing partner,one-off,1,TRUE,,40.4165,-3.70256
+"Laboratoire de Glycochimie, des Antimicrobiens et des Agroressources",FR,Amiens,Europe,Existing partner,one-off,1,FALSE,,49.9,2.3
+Centre Léon Bérard,FR,Lyon,Europe,Existing partner,one-off,1,FALSE,,45.7484588623047,4.84671020507813
+Normandie Université,FR,Caen,Europe,Existing partner,one-off,1,TRUE,,49.185848236084,-0.359120011329651
+Dutch Polymer Institute,NL,Eindhoven,Europe,Existing partner,fading,3,FALSE,,51.4459457397461,5.48417282104492
+Instituto de Agroquímica y Tecnología de Alimentos,ES,Paterna,Europe,Existing partner,one-off,1,FALSE,,39.502628326416,-0.440789997577667
+Ospedali Riuniti di Ancona,IT,Ancona,Italy,Existing partner,rising,2,FALSE,,43.6020088195801,13.4626531600952
+Centre de Formation et de Recherche sur les Environnements Méditerranéens,FR,Perpignan,Europe,Existing partner,one-off,1,FALSE,,42.69764,2.89541
+Netherlands Institute of Ecology,NL,Wageningen,Europe,Existing partner,one-off,1,FALSE,,51.9700012207031,5.66666984558106
+Institut de Biologie Moléculaire des Plantes,FR,Strasbourg,Europe,Existing partner,one-off,1,FALSE,,48.58392,7.74553
+Institute of Science and Technology for Ceramics,IT,Faenza,Italy,Existing partner,new,5,FALSE,,44.3005867004395,11.8911066055298
+"Instituto Tecnologico Del Embalaje, Transporte Y Logistica",ES,Paterna,Europe,Existing partner,new,2,FALSE,,39.5493659973145,-0.459843993186951
+Institute for Macromolecular Studies,IT,Milan,Italy,Existing partner,one-off,1,FALSE,,45.5570411682129,8.03076076507568
+Provincia Autonoma di Trento,IT,Trento,Italy,Existing partner,one-off,1,FALSE,,46.06787,11.12108
+CSI Piemonte,IT,Turin,Piedmont,New candidate,,0,,40,45.0383186340332,7.65182399749756
+Catholic University of Croatia,HR,Zagreb,Europe,Existing partner,new,2,FALSE,,45.8144416809082,15.9779796600342
+Centre d'Investigacions sobre Desertificació,ES,Valencia,Europe,Existing partner,one-off,1,FALSE,,39.4739112854004,-0.37966001033783
+Centre for Biomedical Network Research on Rare Diseases,ES,Madrid,Europe,Existing partner,one-off,1,FALSE,,40.4165,-3.70256
+European Molecular Biology Laboratory,IT,Monterotondo,Italy,Existing partner,dormant,2,FALSE,,42.05159,12.61969
+Center for Research in Molecular Medicine and Chronic Diseases,ES,Santiago de Compostela,Europe,Existing partner,new,2,FALSE,,42.8720359802246,-8.56188869476318
+Azienda Sanitaria Locale di Asti,IT,Asti,Piedmont,New candidate,,0,,10,44.9165916442871,8.19707298278809
+Senckenberg Biodiversity and Climate Research Centre,DE,Frankfurt am Main,Europe,Existing partner,one-off,1,FALSE,,50.11552,8.68417
+Neuroscience Institute,IT,Pisa,Italy,Existing partner,fading,14,FALSE,,43.7193183898926,10.4239826202393
+Westerdijk Fungal Biodiversity Institute,NL,Utrecht,Europe,Existing partner,one-off,1,FALSE,,52.0908317565918,5.12222003936768
+Alessandro Manzoni Hospital,IT,Lecco,Italy,Existing partner,one-off,1,FALSE,,45.8521461486816,9.41509819030762
+Direction de la Recherche Fondamentale,FR,Gif-sur-Yvette,Europe,Existing partner,one-off,1,TRUE,,48.68333,2.13333
+Centro Tecnológico Lurederra,ES,Los Arcos,Europe,Existing partner,new,2,FALSE,,42.5707588195801,-2.19274997711182
+Institute of Ecosystem Study,IT,Verbania,Piedmont,New candidate,,0,,79,45.924015045166,8.54819583892822
+Ministry of Defence,IT,Rome,Italy,Existing partner,one-off,1,FALSE,,41.89193,12.51133
+Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche,IT,Venice,Italy,New candidate,,0,,98,45.43713,12.33265
+Institute of Structure of Matter,IT,Rome,Italy,Existing partner,one-off,1,TRUE,,41.8397483825684,12.648756980896
+Colorobbia (Italy),IT,Florence,Italy,Existing partner,one-off,1,FALSE,,43.7371711730957,10.9315090179443
+Laboratoire de Chimie Agro-Industrielle,FR,Toulouse,Europe,Existing partner,one-off,1,TRUE,,43.60426,1.44367
+Genoscope,FR,Évry-Courcouronnes,Europe,Existing partner,one-off,1,FALSE,,48.6338882446289,2.44416999816895
+Institute for the Chemistry of OrganoMetallic Compounds,IT,Sesto Fiorentino,Italy,New candidate,,0,,95,43.8176918029785,11.2006425857544
+Institute of Metals and Technology,SI,Ljubljana,Europe,Existing partner,new,5,FALSE,,46.05108,14.50513
+Istituto Superiore per la Protezione e la Ricerca Ambientale,IT,Rome,Italy,New candidate,,0,,99,41.846118927002,12.4774703979492
+"Istituto Zooprofilattico Sperimentale della Lombardia e dell'Emilia Romagna """"""""Bruno Ubertini""""""""",IT,Brescia,Italy,Existing partner,one-off,1,FALSE,,45.5355796813965,10.2147197723389
+Ospedali Riuniti Marche Nord,IT,Pesaro,Italy,Existing partner,fading,2,FALSE,,43.9085273742676,12.9054908752441
+Ministère de l'Agriculture et de la Souveraineté alimentaire,FR,Paris,Europe,Existing partner,one-off,1,FALSE,,48.8534088134766,2.34879994392395
+Federico II University Hospital,IT,Naples,Italy,Existing partner,stable,2,FALSE,,40.8665008544922,14.2207498550415
+Institut Galien Paris-Saclay,FR,Châtenay-Malabry,Europe,Existing partner,one-off,1,FALSE,,48.7650718688965,2.26655006408691
+Water Research Institute,IT,Monterotondo,Italy,Existing partner,stable,2,FALSE,,42.05159,12.61969
+Joint Research Centre,IT,Ispra,Italy,New candidate,,0,,100,45.8148002624512,8.61293983459473
+Industriale Chimica (Italy),IT,Saronno,Italy,Existing partner,one-off,1,FALSE,,45.6173515319824,9.03939914703369
+Azienda Ospedaliero Universitaria Maggiore della Carita,IT,Novara,Piedmont,Existing partner,stable,2,FALSE,,45.4469413757324,8.62117958068848
+Ospedale San Giovanni Bosco,IT,Turin,Piedmont,New candidate,,0,,66,45.0970191955566,7.70126581192017
+National Institute of Optics,IT,Florence,Italy,Existing partner,one-off,1,FALSE,,43.77925,11.24626
+Regional Centre of Advanced Technologies and Materials,CZ,Olomouc,Europe,Existing partner,one-off,1,FALSE,,49.5749092102051,17.2827892303467
+Maj Institute of Pharmacology,PL,Krakow,Europe,Existing partner,one-off,1,TRUE,,50.06143,19.93658
+Fondazione Edo ed Elvo Tempia,IT,Biella,Piedmont,Existing partner,one-off,1,FALSE,,45.5688056945801,8.05882358551025
+Toscana Life Sciences,IT,Siena,Italy,Existing partner,one-off,1,FALSE,,43.3342018127441,11.3036279678345
+Pôle Léonard de Vinci,FR,Courbevoie,Europe,Existing partner,one-off,1,FALSE,,48.89672,2.25666
+GAIKER Technology Centre,ES,Zamudio,Europe,Existing partner,new,2,FALSE,,43.2859992980957,-2.86999988555908
+Photonic Science (United Kingdom),GB,Robertsbridge,Europe,Existing partner,one-off,1,FALSE,,50.8693466186524,0.552282989025116
+Laboratoire de Biodiversité et Biotechnologies Microbiennes,FR,Paris,Europe,Existing partner,one-off,1,FALSE,,48.85341,2.3488
+Møreforsking (Norway),NO,Volda,Europe,Existing partner,one-off,1,FALSE,,62.1478614807129,6.08470582962036
+Institute of Organic Synthesis and Photoreactivity,IT,Bologna,Italy,New candidate,,0,,96,44.5222930908203,11.3383436203003
+Rudjer Boskovic Institute,HR,Zagreb,Europe,Existing partner,one-off,1,TRUE,,45.8144416809082,15.9779796600342
+Italian institute for Genomic Medicine,IT,Turin,Piedmont,Existing partner,rising,3,FALSE,,45.0704917907715,7.6868200302124
+Institut NeuroMyoGène,FR,Villeurbanne,Europe,Existing partner,one-off,1,FALSE,,45.7660102844238,4.87949991226196
+AquaBioTech Group (Malta),MT,Mosta,Europe,Existing partner,one-off,1,FALSE,,35.9176025390625,14.4212512969971
+ASST Melegnano e della Martesana,IT,Vizzolo Predabissi,Italy,Existing partner,one-off,1,FALSE,,45.3590621948242,9.34053802490234
+Laboratoire Magmas et Volcans,FR,Clermont-Ferrand,Europe,Existing partner,fading,2,FALSE,,45.77969,3.08682
+Centre Hospitalier du Mans,FR,Le Mans,Europe,Existing partner,one-off,1,FALSE,,48.0021,0.20251
+Institut de Recherche Dupuy de Lôme,FR,Lorient,Europe,Existing partner,one-off,1,TRUE,,47.74817,-3.37177
+Berlin-Brandenburger Centrum für Regenerative Therapien,DE,Berlin,Europe,Existing partner,one-off,1,FALSE,,52.5243682861328,13.410530090332
+Ospedale di Circolo di Busto Arsizio,IT,Busto Arsizio,Italy,Existing partner,one-off,1,FALSE,,45.6226806640625,8.84679412841797
+Azienda Sanitaria Locale Alessandria,IT,Casale Monferrato,Piedmont,New candidate,,0,,65,45.1509132385254,8.45634841918945
+Torino e-district,IT,Turin,Piedmont,Existing partner,rising,5,FALSE,,45.0713195800781,7.68742084503174
+CEA Paris-Saclay,FR,Gif-sur-Yvette,Europe,Existing partner,one-off,1,TRUE,,48.68333,2.13333
+A. O. Ordine Mauriziano di Torino,IT,Turin,Piedmont,Existing partner,one-off,1,FALSE,,45.0528144836426,7.66585779190064
+Institut de Biologie de l'École Normale Supérieure,FR,Paris,Europe,Existing partner,one-off,1,FALSE,,48.85341,2.3488
+Laboratoire de Chimie,FR,Lyon,Europe,Existing partner,one-off,1,FALSE,,45.74846,4.84671
+Combined Ophthalmic Research Rotterdam,NL,Rotterdam,Europe,Existing partner,dormant,2,FALSE,,51.9157905578613,4.48019981384277
+Istituto Zooprofilattico Sperimentale dell'Umbria e delle Marche,IT,Perugia,Italy,Existing partner,one-off,1,FALSE,,43.0987663269043,12.3976440429688
+Institute of Sciences of Food Production,IT,Bari,Italy,Existing partner,one-off,1,TRUE,,41.1122360229492,16.8821983337402
+Hellenic Centre for Marine Research,GR,Anavyssos,Europe,Existing partner,one-off,1,FALSE,,37.7341384887695,23.9438896179199
+Fraunhofer Institute for Laser Technology,DE,Aachen,Europe,Existing partner,one-off,1,FALSE,,50.77664,6.08342
+Laboratoire de Météorologie Physique,FR,Aubière,Europe,Existing partner,one-off,1,FALSE,,45.75082,3.11078
+Institut de Chimie de Clermont-Ferrand,FR,Aubière,Europe,Existing partner,new,2,FALSE,,45.75082,3.11078
+Ecological Consulting (Czechia),CZ,Olomouc,Europe,Existing partner,new,2,FALSE,,49.6016159057617,17.2485256195068
+IRCCS Istituto Auxologico Italiano,IT,Milan,Italy,Existing partner,new,2,FALSE,,45.4642715454102,9.18951034545898
+Instituto de Tecnología Química,ES,Valencia,Europe,Existing partner,one-off,1,FALSE,,39.4739112854004,-0.37966001033783
+Istituto Nazionale di Ricerca Metrologica,IT,Turin,Piedmont,Existing partner,rising,3,FALSE,,45.0704917907715,7.6868200302124
+St. Anne's University Hospital Brno,CZ,Brno,Europe,Existing partner,one-off,1,FALSE,,49.19522,16.60796
+Istituto Zooprofilattico Sperimentale della Sardegna,IT,Sassari,Italy,Existing partner,one-off,1,FALSE,,40.7181510925293,8.57015037536621
+Queen's Medical Centre,GB,Nottingham,Europe,Existing partner,one-off,1,FALSE,,52.9435997009277,-1.18570005893707
+Unit of Functional and Adaptive Biology,FR,Paris,Europe,Existing partner,one-off,1,FALSE,,48.85341,2.3488
+Environment Park,IT,Turin,Piedmont,New candidate,,0,,24,45.0879516601563,7.67245721817017
+Berlin Institute of Health at Charité - Universitätsmedizin Berlin,DE,Berlin,Europe,Existing partner,new,2,FALSE,,52.5243682861328,13.410530090332
+Research Institute on Sustainable Economic Growth,IT,Moncalieri,Piedmont,New candidate,,0,,21,45.0009803771973,7.68459892272949
+National Institute of Biology,SI,Ljubljana,Europe,Existing partner,one-off,1,FALSE,,46.0510787963867,14.5051298141479
+Next Technology Tecnotessile (Italy),IT,Prato,Italy,Existing partner,one-off,1,TRUE,,43.8722915649414,11.0802993774414
+Institut de Biochimie et Génétique Cellulaires,FR,Bordeaux,Europe,Existing partner,one-off,1,FALSE,,44.84044,-0.5805
+Instytut Oceanologii Polskiej Akademii Nauk,PL,Sopot,Europe,Existing partner,one-off,1,FALSE,,54.4417991638184,18.5600299835205
+Ospedale San Donato,IT,Arezzo,Italy,Existing partner,one-off,1,FALSE,,43.4620056152344,11.8665056228638
+Fundación Medina,ES,Granada,Europe,Existing partner,one-off,1,FALSE,,37.1881713867188,-3.60666990280151
+Ospedale Generale Regionale Francesco Miulli,IT,Acquaviva delle Fonti,Italy,Existing partner,one-off,1,FALSE,,40.8635559082031,16.8031463623047
+Instituto de Investigación en Ciencias de la Alimentación,ES,Madrid,Europe,Existing partner,one-off,1,FALSE,,40.4165000915527,-3.70255994796753
+Observatoire Océanologique de Banyuls-sur-Mer,FR,Banyuls-sur-Mer,Europe,Existing partner,one-off,1,FALSE,,42.4818000793457,3.12829995155334
+Istituto Zooprofilattico Sperimentale della Puglia e della Basilicata,IT,Foggia,Italy,Existing partner,stable,2,FALSE,,41.4709854125977,15.5473699569702
+Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise G. Caporale,IT,Teramo,Italy,Existing partner,one-off,1,FALSE,,42.6612281799316,13.6990098953247
+Azienda Ospedaliera Ospedale Maggiore,IT,Crema,Italy,Existing partner,fading,2,FALSE,,45.3626403808594,9.68175983428955
+Foundry (United Kingdom),GB,London,Europe,Existing partner,one-off,1,FALSE,,51.5125770568848,-0.136583998799324
+Institut des Biomolécules Max Mousseron,FR,Montpellier,Europe,Existing partner,one-off,1,TRUE,,43.61093,3.87635
+Centro de Biología Molecular Severo Ochoa,ES,Madrid,Europe,Existing partner,one-off,1,FALSE,,40.4165000915527,-3.70255994796753
+Azienda USL di Pescara,IT,Pescara,Italy,Existing partner,one-off,1,FALSE,,42.484130859375,14.1893291473389
+Centro de Investigaciones Biológicas Margarita Salas,ES,Madrid,Europe,Existing partner,one-off,1,TRUE,,40.4165000915527,-3.70255994796753
+Difa Cooper (Italy),IT,Milan,Italy,Existing partner,one-off,1,FALSE,,45.5914001464844,9.0462646484375
+Universitäres Zentrum für Zahnmedizin Basel,CH,Basel,Europe,Existing partner,new,2,FALSE,,47.5583915710449,7.57326984405518
+Institute of Mechanics,BG,Sofia,Europe,Existing partner,one-off,1,FALSE,,42.6756019592285,23.3709678649902
+Max Planck Institute of Biochemistry,DE,Martinsried,Europe,Existing partner,one-off,1,FALSE,,48.1073188781738,11.4519596099854
+Istituto Zooprofilattico Sperimentale delle Regioni Lazio e Toscana,IT,Rome,Italy,Existing partner,one-off,1,FALSE,,41.8919296264649,12.5113296508789
+Center for Sustainable Future Technologies,IT,Turin,Piedmont,Existing partner,one-off,1,TRUE,,45.0881614685059,7.67175579071045
+Candiolo Cancer Institute,IT,Candiolo,Piedmont,Existing partner,rising,7,FALSE,,44.9662246704102,7.56712818145752
+Institut de Ciències del Mar,ES,Barcelona,Europe,Existing partner,one-off,1,FALSE,,41.3887901306152,2.15898990631104
+Piedmont Reference Center for Epidemiology and Cancer Prevention,IT,Turin,Piedmont,Existing partner,stable,2,FALSE,,45.07049,7.68682
+Hôpital Georges-Clemenceau,FR,Champcueil,Europe,Existing partner,one-off,1,FALSE,,48.5214920043945,2.43164134025574
+Marine Technology Unit,ES,Barcelona,Europe,Existing partner,one-off,1,FALSE,,41.3887901306152,2.15898990631104
+Istituti di Ricovero e Cura a Carattere Scientifico,IT,Rome,Italy,Existing partner,rising,6,FALSE,,41.8919296264649,12.5113296508789
+Écologie et Biologie des Interactions,FR,Poitiers,Europe,Existing partner,one-off,1,TRUE,,46.58261,0.34348
+King's College Hospital,GB,London,Europe,Existing partner,one-off,1,TRUE,,51.5085296630859,-0.125740006566048
+Laboratoire de Neurobiologie Cellulaire et Moléculaire,FR,Gif-sur-Yvette,Europe,Existing partner,dormant,2,FALSE,,48.7045135498047,2.13259696960449
+Institute of Biomedical Technologies,IT,Segrate,Italy,Existing partner,one-off,1,FALSE,,45.5023460388184,9.2630500793457
+Institute for Chemical and Physical Processes,IT,Messina,Italy,Existing partner,stable,2,FALSE,,38.2623634338379,15.5972299575806
+National Research Council,IT,Rome,Italy,Existing partner,rising,10,FALSE,,41.89193,12.51133
+Fondazione Umberto Veronesi,IT,Milan,Italy,Existing partner,one-off,1,FALSE,,45.4817123413086,9.20244121551514
+National Interuniversity Consortium of Materials Science and Technology,IT,Florence,Italy,Existing partner,rising,18,FALSE,,43.77925,11.24626
+Hôpital Albert-Chenevier,FR,Créteil,Europe,Existing partner,one-off,1,FALSE,,48.7886466979981,2.45955395698547
+Institut Universitaire Européen de la Mer,FR,Plouzané,Europe,Existing partner,new,2,FALSE,,48.38131,-4.61805
+Laboratoire d’Océanographie de Villefranche,FR,Villefranche-sur-Mer,Europe,Existing partner,one-off,1,FALSE,,43.70392,7.31088
+Laboratoire d'Ecogéochimie des Environnements Benthiques,FR,Banyuls de la Marenda,Europe,Existing partner,one-off,1,FALSE,,42.48375,3.12897
+Dipartimento della Protezione Civile,IT,Rome,Italy,Existing partner,one-off,1,FALSE,,41.8919296264649,12.5113296508789
+Istituto Zooprofilattico Sperimentale del Mezzogiorno,IT,Portici,Italy,Existing partner,one-off,1,FALSE,,40.8157272338867,14.3463001251221
+"Institute of Polymers, Composites and Biomaterials",IT,Pozzuoli,Italy,Existing partner,one-off,1,TRUE,,40.8467445373535,14.0931749343872
+Novamont (Italy),IT,Novara,Piedmont,Existing partner,new,2,FALSE,,45.4566421508789,8.63879013061523
+Laboratoire des Sciences de l'Environnement Marin,FR,Plouzané,Europe,Existing partner,one-off,1,FALSE,,48.38131,-4.61805
+Bicêtre Hospital,FR,Le Kremlin-Bicêtre,Europe,Existing partner,one-off,1,FALSE,,48.81471,2.36073
+Laboratoire d'Océanographie Microbienne,FR,Paris,Europe,Existing partner,one-off,1,FALSE,,48.85341,2.3488
+Instituto de Biología Molecular y Celular de Plantas,ES,Valencia,Europe,Existing partner,one-off,1,FALSE,,39.4739112854004,-0.37966001033783
+"Czech Academy of Sciences, Biology Centre",CZ,České Budějovice,Europe,Existing partner,new,2,FALSE,,48.97447,14.47434
+Institute for Microelectronics and Microsystems,IT,Catania,Italy,New candidate,,0,,96,37.4922294616699,15.0704097747803
+Istituto Zooprofilattico Sperimentale del Piemonte Liguria e Valle d'Aosta,IT,Turin,Piedmont,Existing partner,fading,5,FALSE,,45.0854568481445,7.7058310508728
+Institut de Recherche pour le Développement,FR,Marseille,Europe,Existing partner,one-off,1,FALSE,,43.29695,5.38107
+Azienda Ospedaliera G. Brotzu,IT,Cagliari,Italy,Existing partner,one-off,1,FALSE,,39.2497215270996,9.10894680023193
+Link Campus University,IT,Rome,Italy,Existing partner,new,2,FALSE,,41.8919296264649,12.5113296508789
+Institut de recherche Saint-Louis,FR,Paris,Europe,Existing partner,one-off,1,FALSE,,48.85341,2.3488
+University of Florence,IT,Florence,Italy,Existing partner,stable,2,FALSE,,43.77925,11.24626
+University College London,GB,London,Europe,Existing partner,one-off,1,TRUE,,51.50853,-0.12574
+University of Calabria,IT,Rende,Italy,Existing partner,one-off,1,TRUE,,39.3315391540527,16.1804103851318
+Universidad de Burgos,ES,Burgos,Europe,Existing partner,one-off,1,FALSE,,42.3410606384277,-3.70183992385864
+Université de Picardie Jules Verne,FR,Amiens,Europe,Existing partner,one-off,1,FALSE,,49.9,2.3
+Imperial College London,GB,London,Europe,Existing partner,stable,2,FALSE,,51.50853,-0.12574
+Université d'Angers,FR,Angers,Europe,Existing partner,one-off,1,TRUE,,47.47156,-0.55202
+École Polytechnique Fédérale de Lausanne,CH,Lausanne,Europe,Existing partner,new,2,FALSE,,46.515998840332,6.63282012939453
+University of Osijek,HR,Osijek,Europe,Existing partner,new,2,FALSE,,45.55111,18.69389
+University of Almería,ES,Almería,Europe,Existing partner,one-off,1,TRUE,,36.8381385803223,-2.45973992347717
+University of Bayreuth,DE,Bayreuth,Europe,Existing partner,new,4,FALSE,,49.9478187561035,11.5789299011231
+University of Bari Aldo Moro,IT,Bari,Italy,Existing partner,rising,6,FALSE,,41.12066,16.86982
+University of Tartu,EE,Tartu,Europe,Existing partner,new,3,FALSE,,58.3806190490723,26.7250900268555
+University of Montenegro,ME,Podgorica,Europe,Existing partner,one-off,1,FALSE,,42.4411087036133,19.2636108398438
+Brunel University of London,GB,London,Europe,Existing partner,one-off,1,TRUE,,51.50853,-0.12574
+University of Reggio Calabria,IT,Reggio Calabria,Italy,Existing partner,new,2,FALSE,,38.1104698181152,15.6612901687622
+Universitat Politècnica de València,ES,Valencia,Europe,Existing partner,new,2,FALSE,,39.4739112854004,-0.37966001033783
+University of Aveiro,PT,Aveiro,Europe,New candidate,,0,,98,40.64427,-8.64554
+University of Akureyri,IS,Akureyri,Europe,Existing partner,one-off,1,FALSE,,65.6835327148438,-18.0877990722656
+Universitatea Națională de Știință și Tehnologie Politehnica București,RO,Bucharest,Europe,Existing partner,one-off,1,TRUE,,44.4322509765625,26.1062602996826
+Université de Rouen Normandie,FR,Rouen,Europe,Existing partner,one-off,1,TRUE,,49.44313,1.09932
+Technical University of Munich,DE,Munich,Europe,New candidate,,0,,99,48.13743,11.57549
+Universidad Autónoma de Madrid,ES,Madrid,Europe,Existing partner,one-off,1,TRUE,,40.4165,-3.70256
+University of Milano-Bicocca,IT,Milan,Italy,Existing partner,fading,3,TRUE,,45.4642715454102,9.18951034545898
+Polytechnic University of Bari,IT,Bari,Italy,New candidate,,0,,96,41.12066,16.86982
+University of Tirana,AL,Tirana,Europe,Existing partner,one-off,1,FALSE,,41.3274993896484,19.8188896179199
+Université de Strasbourg,FR,Strasbourg,Europe,New candidate,,0,,96,48.58392,7.74553
+Palacký University Olomouc,CZ,Olomouc,Europe,Existing partner,one-off,1,FALSE,,49.59552,17.25175
+University of Naples Federico II,IT,Naples,Italy,Existing partner,fading,8,TRUE,,40.85216,14.26811
+University of Algarve,PT,Faro,Europe,Existing partner,one-off,1,TRUE,,37.01869,-7.92716
+Swiss Federal Laboratories for Materials Science and Technology,CH,Dübendorf,Europe,New candidate,,0,,98,47.3972396850586,8.61872005462647
+Universitat de Barcelona,ES,Barcelona,Europe,New candidate,,0,,97,41.38879,2.15899
+University of Göttingen,DE,Göttingen,Europe,Existing partner,one-off,1,TRUE,,51.53443,9.93228
+Medical University of Vienna,AT,Vienna,Europe,Existing partner,one-off,1,TRUE,,48.2084884643555,16.3720798492432
+Friedrich Schiller University Jena,DE,Jena,Europe,Existing partner,one-off,1,TRUE,,50.92878,11.5899
+University of Coimbra,PT,Coimbra,Europe,New candidate,,0,,97,40.20686,-8.41996
+Charité - Universitätsmedizin Berlin,DE,Berlin,Europe,Existing partner,one-off,1,FALSE,,52.52437,13.41053
+University of Castilla-La Mancha,ES,Ciudad Real,Europe,Existing partner,one-off,1,TRUE,,38.9862594604492,-3.92906999588013
+University of Birmingham,GB,Birmingham,Europe,Existing partner,one-off,1,TRUE,,52.48142,-1.89983
+University of Brescia,IT,Brescia,Italy,Existing partner,one-off,1,TRUE,,45.5355796813965,10.2147197723389
+Universidad de Extremadura,ES,Badajoz,Europe,Existing partner,one-off,1,TRUE,,38.8778915405273,-6.97061014175415
+Ludwig-Maximilians-Universität München,DE,Munich,Europe,Existing partner,fading,2,TRUE,,48.13743,11.57549
+Universidade Nova de Lisboa,PT,Lisbon,Europe,New candidate,,0,,97,38.72509,-9.1498
+University of Genoa,IT,Genoa,Italy,Existing partner,fading,4,TRUE,,44.40478,8.94439
+Newcastle University,GB,Newcastle upon Tyne,Europe,Existing partner,one-off,1,TRUE,,54.97328,-1.61396
+Sapienza University of Rome,IT,Rome,Italy,Existing partner,rising,4,FALSE,,41.89193,12.51133
+Merck Serono (Italy),IT,Rome,Italy,Existing partner,one-off,1,FALSE,,41.9493370056152,12.6873607635498
+KTH Royal Institute of Technology,SE,Stockholm,Europe,Existing partner,one-off,1,TRUE,,59.32938,18.06871
+Wellcome Trust,GB,London,Europe,Existing partner,one-off,1,FALSE,,51.50853,-0.12574
+Scottish Association For Marine Science,GB,Oban,Europe,Existing partner,one-off,1,FALSE,,56.4153518676758,-5.47183990478516
+RWTH Aachen University,DE,Aachen,Europe,Existing partner,one-off,1,TRUE,,50.7766418457031,6.08341979980469
+International Centre for the Study of the Preservation and Restoration of Cultural Property,IT,Rome,Italy,Existing partner,one-off,1,FALSE,,41.8919296264649,12.5113296508789
+Aalborg University,DK,Aalborg,Europe,Existing partner,stable,3,FALSE,,57.048,9.9187
+Université Grenoble Alpes,FR,Saint-Martin-d'Hères,Europe,Existing partner,one-off,1,TRUE,,45.1787,5.76281
+University of Palermo,IT,Palermo,Italy,Existing partner,rising,5,FALSE,,38.1166000366211,13.3635997772217
+Fondation Nationale des Sciences Politiques,FR,Paris,Europe,Existing partner,one-off,1,FALSE,,48.8534088134766,2.34879994392395
+Ruhr University Bochum,DE,Bochum,Europe,Existing partner,one-off,1,TRUE,,51.48165,7.21648
+University of Latvia,LV,Riga,Europe,Existing partner,one-off,1,TRUE,,56.946,24.10589
+University of Sheffield,GB,Sheffield,Europe,Existing partner,one-off,1,TRUE,,53.38297,-1.4659
+Wageningen University & Research,NL,Wageningen,Europe,Existing partner,new,6,FALSE,,51.97,5.66667
+ESSCA School of Management,FR,Angers,Europe,Existing partner,new,2,FALSE,,47.47156,-0.55202
+Leipzig University,DE,Leipzig,Europe,Existing partner,new,2,FALSE,,51.33962,12.37129
+BOKU University,AT,Vienna,Europe,New candidate,,0,,95,48.2084884643555,16.3720798492432
+European Automobile Manufacturers Association,BE,Brussels,Europe,Existing partner,one-off,1,FALSE,,50.8387794494629,4.39021778106689
+University of Bologna,IT,Bologna,Italy,Existing partner,rising,7,FALSE,,44.49381,11.33875
+Politecnico di Milano,IT,Milan,Italy,Existing partner,rising,5,FALSE,,45.46427,9.18951
+University of Westminster,GB,London,Europe,Existing partner,one-off,1,FALSE,,51.5220222473145,-0.154608994722366
+Universidad Pablo de Olavide,ES,Seville,Europe,Existing partner,one-off,1,TRUE,,37.3828315734863,-5.97316980361939
+Universitat Politècnica de Catalunya,ES,Barcelona,Europe,Existing partner,one-off,1,TRUE,,41.38879,2.15899
+Technical University of Denmark,DK,Kongens Lyngby,Europe,New candidate,,0,,99,55.7704391479492,12.5037803649902
+Nantes Université,FR,Nantes,Europe,Existing partner,one-off,1,TRUE,,47.2172508239746,-1.55335998535156
+University of Lausanne,CH,Lausanne,Europe,Existing partner,one-off,1,FALSE,,46.516,6.63282
+Delft University of Technology,NL,Delft,Europe,Existing partner,one-off,1,TRUE,,52.0066719055176,4.35555982589722
+KU Leuven,BE,Leuven,Europe,Existing partner,one-off,1,TRUE,,50.8795890808106,4.70093011856079
+Polish Academy of Sciences,PL,Warsaw,Europe,Existing partner,rising,2,FALSE,,52.22977,21.01178
